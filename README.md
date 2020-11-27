@@ -25,10 +25,10 @@ TODO Add LaTeX tables
 TODO add Lectionary TEI/Accordance files
 
 ## Chapter 7
-TODO add beast 2 files.
+This folder contains the input files for the phylogenetic analyses to investigate the transmission history of Arabic family B. This includes files for John 5–8 with both the Lewis Mk and Subyz models and with a strict clock and Random Local Clock (4 files).
 
 ## Chapter 8
 For this chapter, see the repository [CSA Textual Character](https://github.com/rbturnbull/csa-textual-character)
 
 ## Chapter 9
-This folder contains the nput files for the phylogenetic analyses. This includes files for the 4 Gospels, both with the Lewis Mk and Subyz models and with a strict clock and Random Local Clock (16 files). This folder also contains the state reconstructions for the root and ar<sup>b</sup> as a PDF with for all runs.
+This folder contains the input files for the phylogenetic analyses to relate Arabic family B to the wider Gospel tradition using the UBS5 apparatus. This includes files for the 4 Gospels, both with the Lewis Mk and Subyz models and with a strict clock and Random Local Clock (16 files). This folder also contains the state reconstructions for the root and ar<sup>b</sup> as a PDF with for all runs.
