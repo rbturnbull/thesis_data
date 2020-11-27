@@ -7,7 +7,7 @@ Includes TEI, PDF, and Accordance User Bible files for:
 * N15<sup>+</sup>: Sinai ar. NF Parch 15/24/36/64
 * S71<sup>+</sup>: Sinai ar. 71/Sinai ar. NF Parch 44
 
-NB. These transcriptions have not be validated with a secondary independant transcription. The transcriptions are not intended for publication. They are provided to present the raw data for the numerical analysis. Any close textual study should be done using the D-Codex interface so the manuscript facsimile images can be used for comparison. Uncertain transcriptions are marked with question marks. Gaps in the PDF are marked by underbrackets. Narrow underbrackets $\underbracket(\ \ )$ represent one character and long underbrackets $\underbracket(\ \ \ \ \ \ )$ represent gaps of unknown length.
+NB. These transcriptions have not be validated with a secondary independant transcription. The transcriptions are not intended for publication. They are provided to present the raw data for the numerical analysis. Any close textual study should be done using the D-Codex interface so the manuscript facsimile images can be used for comparison. Uncertain transcriptions are marked with question marks. Gaps in the PDF are marked by underbrackets. Narrow underbrackets $\underbracket{\ \ }$ represent one character and long underbrackets $\underbracket{\ \ \ \ \ \ }$ represent gaps of unknown length.
 
 For the D-Codex Software Packages, see:
 * https://github.com/rbturnbull/dcodex
@@ -28,7 +28,7 @@ For the code for this chapter see:
 The tables presented in this chapter are reproduced here in in raw LaTeX.
 
 ## Chapter 6 - Lectionaries
-TODO add Lectionary TEI/Accordance files
+Includes TEI and Accordance User Bible files for lectionaries in familes esk1, esk2 and e3.
 
 ## Chapter 7 - Transmission History
 This folder contains the input files for the phylogenetic analyses to investigate the transmission history of Arabic family B. This includes files for John 5–8 with both the Lewis Mk and Subyz models and with a strict clock and Random Local Clock (4 files).
