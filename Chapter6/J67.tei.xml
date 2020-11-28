@@ -1,0 +1,1941 @@
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Transcription of Jerusalem ar. 67 (esk2C)</title>
+      </titleStmt>
+      <publicationStmt>
+        <p>Generated on 2020-11-28 13:27:43.797978 using D-Codex.</p>
+      </publicationStmt>
+      <sourceDesc>
+        <p>J67: Jerusalem ar. 67 (esk2C)</p>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <facsimile>
+    <surface ulx="0" uly="0" lrx="5714" lry="3824">
+      <graphic url="JerusalemArabic67.pdf-1.jpg"/>
+    </surface>
+    <surface ulx="0" uly="0" lrx="4921" lry="3573">
+      <graphic url="JerusalemArabic67.pdf-2.jpg"/>
+    </surface>
+    <surface ulx="0" uly="0" lrx="2423" lry="3110">
+      <graphic url="JerusalemArabic67.pdf-3.jpg"/>
+    </surface>
+    <surface ulx="0" uly="0" lrx="2423" lry="3110">
+      <graphic url="JerusalemArabic67.pdf-4.jpg"/>
+    </surface>
+    <surface ulx="0" uly="0" lrx="2428" lry="3087">
+      <graphic url="JerusalemArabic67.pdf-5.jpg"/>
+    </surface>
+    <surface ulx="0" uly="0" lrx="2428" lry="3087">
+      <graphic url="JerusalemArabic67.pdf-6.jpg"/>
+    </surface>
+    <surface ulx="0" uly="0" lrx="2451" lry="3126">
+      <graphic url="JerusalemArabic67.pdf-7.jpg"/>
+    </surface>
+    <surface ulx="0" uly="0" lrx="2451" lry="3126">
+      <graphic url="JerusalemArabic67.pdf-8.jpg"/>
+      <zone ulx="1983" uly="1639" lrx="1984" lry="1640">
+        <note type="verseLoc">John 3:22</note>
+      </zone>
+    </surface>
+    <surface ulx="0" uly="0" lrx="2445" lry="3115">
+      <graphic url="JerusalemArabic67.pdf-9.jpg"/>
+    </surface>
+    <surface ulx="0" uly="0" lrx="2445" lry="3115">
+      <graphic url="JerusalemArabic67.pdf-10.jpg"/>
+    </surface>
+    <surface ulx="0" uly="0" lrx="2480" lry="3081">
+      <graphic url="JerusalemArabic67.pdf-11.jpg"/>
+    </surface>
+    <surface ulx="0" uly="0" lrx="2480" lry="3081">
+      <graphic url="JerusalemArabic67.pdf-12.jpg"/>
+    </surface>
+    <surface ulx="0" uly="0" lrx="2469" lry="3108">
+      <graphic url="JerusalemArabic67.pdf-13.jpg"/>
+    </surface>
+    <surface ulx="0" uly="0" lrx="2469" lry="3108">
+      <graphic url="JerusalemArabic67.pdf-14.jpg"/>
+    </surface>
+    <surface ulx="0" uly="0" lrx="2454" lry="3110">
+      <graphic url="JerusalemArabic67.pdf-15.jpg"/>
+    </surface>
+    <surface ulx="0" uly="0" lrx="2454" lry="3110">
+      <graphic url="JerusalemArabic67.pdf-16.jpg"/>
+    </surface>
+    <surface ulx="0" uly="0" lrx="2459" lry="3119">
+      <graphic url="JerusalemArabic67.pdf-17.jpg"/>
+    </surface>
+    <surface ulx="0" uly="0" lrx="2459" lry="3119">
+      <graphic url="JerusalemArabic67.pdf-18.jpg"/>
+    </surface>
+    <surface ulx="0" uly="0" lrx="2479" lry="3092">
+      <graphic url="JerusalemArabic67.pdf-19.jpg"/>
+    </surface>
+    <surface ulx="0" uly="0" lrx="2479" lry="3092">
+      <graphic url="JerusalemArabic67.pdf-20.jpg"/>
+    </surface>
+    <surface ulx="0" uly="0" lrx="2467" lry="3113">
+      <graphic url="JerusalemArabic67.pdf-21.jpg"/>
+    </surface>
+    <surface ulx="0" uly="0" lrx="2467" lry="3113">
+      <graphic url="JerusalemArabic67.pdf-22.jpg"/>
+    </surface>
+    <surface ulx="0" uly="0" lrx="2477" lry="3104">
+      <graphic url="JerusalemArabic67.pdf-23.jpg"/>
+    </surface>
+    <surface ulx="0" uly="0" lrx="2477" lry="3104">
+      <graphic url="JerusalemArabic67.pdf-24.jpg"/>
+    </surface>
+    <surface ulx="0" uly="0" lrx="2530" lry="3140">
+      <graphic url="JerusalemArabic67.pdf-25.jpg"/>
+    </surface>
+    <surface ulx="0" uly="0" lrx="2530" lry="3140">
+      <graphic url="JerusalemArabic67.pdf-26.jpg"/>
+    </surface>
+    <surface ulx="0" uly="0" lrx="2501" lry="3136">
+      <graphic url="JerusalemArabic67.pdf-27.jpg"/>
+    </surface>
+    <surface ulx="0" uly="0" lrx="2501" lry="3136">
+      <graphic url="JerusalemArabic67.pdf-28.jpg"/>
+    </surface>
+    <surface ulx="0" uly="0" lrx="2521" lry="3142">
+      <graphic url="JerusalemArabic67.pdf-29.jpg"/>
+    </surface>
+    <surface ulx="0" uly="0" lrx="2521" lry="3142">
+      <graphic url="JerusalemArabic67.pdf-30.jpg"/>
+    </surface>
+    <surface ulx="0" uly="0" lrx="2514" lry="3149">
+      <graphic url="JerusalemArabic67.pdf-31.jpg"/>
+      <zone ulx="1775" uly="512" lrx="1776" lry="513">
+        <note type="verseLoc">John 6:27</note>
+      </zone>
+      <zone ulx="1757" uly="1092" lrx="1758" lry="1093">
+        <note type="verseLoc">John 6:30</note>
+      </zone>
+      <zone ulx="1250" uly="1198" lrx="1251" lry="1199">
+        <note type="verseLoc">John 6:31</note>
+      </zone>
+      <zone ulx="1501" uly="1372" lrx="1502" lry="1373">
+        <note type="verseLoc">John 6:32</note>
+      </zone>
+      <zone ulx="1063" uly="1591" lrx="1064" lry="1592">
+        <note type="verseLoc">John 6:33</note>
+      </zone>
+    </surface>
+    <surface ulx="0" uly="0" lrx="2514" lry="3149">
+      <graphic url="JerusalemArabic67.pdf-32.jpg"/>
+    </surface>
+    <surface ulx="0" uly="0" lrx="2506" lry="3113">
+      <graphic url="JerusalemArabic67.pdf-33.jpg"/>
+    </surface>
+    <surface ulx="0" uly="0" lrx="2506" lry="3113">
+      <graphic url="JerusalemArabic67.pdf-34.jpg"/>
+      <zone ulx="1992" uly="1153" lrx="1993" lry="1154">
+        <note type="verseLoc">John 15:17</note>
+      </zone>
+    </surface>
+    <surface ulx="0" uly="0" lrx="2500" lry="3135">
+      <graphic url="JerusalemArabic67.pdf-35.jpg"/>
+      <zone ulx="897" uly="1684" lrx="898" lry="1685">
+        <note type="verseLoc">John 16:2</note>
+      </zone>
+    </surface>
+    <surface ulx="0" uly="0" lrx="2500" lry="3135">
+      <graphic url="JerusalemArabic67.pdf-36.jpg"/>
+    </surface>
+    <surface ulx="0" uly="0" lrx="2506" lry="3158">
+      <graphic url="JerusalemArabic67.pdf-37.jpg"/>
+    </surface>
+    <surface ulx="0" uly="0" lrx="2506" lry="3158">
+      <graphic url="JerusalemArabic67.pdf-38.jpg"/>
+    </surface>
+    <surface ulx="0" uly="0" lrx="2520" lry="3151">
+      <graphic url="JerusalemArabic67.pdf-39.jpg"/>
+    </surface>
+    <surface ulx="0" uly="0" lrx="2520" lry="3151">
+      <graphic url="JerusalemArabic67.pdf-40.jpg"/>
+    </surface>
+    <surface ulx="0" uly="0" lrx="2678" lry="3128">
+      <graphic url="JerusalemArabic67.pdf-41.jpg"/>
+    </surface>
+    <surface ulx="0" uly="0" lrx="2678" lry="3128">
+      <graphic url="JerusalemArabic67.pdf-42.jpg"/>
+    </surface>
+    <surface ulx="0" uly="0" lrx="2688" lry="3113">
+      <graphic url="JerusalemArabic67.pdf-43.jpg"/>
+    </surface>
+    <surface ulx="0" uly="0" lrx="2688" lry="3113">
+      <graphic url="JerusalemArabic67.pdf-44.jpg"/>
+    </surface>
+    <surface ulx="0" uly="0" lrx="2668" lry="3122">
+      <graphic url="JerusalemArabic67.pdf-45.jpg"/>
+    </surface>
+    <surface ulx="0" uly="0" lrx="2668" lry="3122">
+      <graphic url="JerusalemArabic67.pdf-46.jpg"/>
+    </surface>
+    <surface ulx="0" uly="0" lrx="2694" lry="3113">
+      <graphic url="JerusalemArabic67.pdf-47.jpg"/>
+    </surface>
+    <surface ulx="0" uly="0" lrx="2694" lry="3113">
+      <graphic url="JerusalemArabic67.pdf-48.jpg"/>
+    </surface>
+    <surface ulx="0" uly="0" lrx="2661" lry="3102">
+      <graphic url="JerusalemArabic67.pdf-49.jpg"/>
+    </surface>
+    <surface ulx="0" uly="0" lrx="2661" lry="3102">
+      <graphic url="JerusalemArabic67.pdf-50.jpg"/>
+    </surface>
+    <surface ulx="0" uly="0" lrx="2673" lry="3136">
+      <graphic url="JerusalemArabic67.pdf-51.jpg"/>
+    </surface>
+    <surface ulx="0" uly="0" lrx="2673" lry="3136">
+      <graphic url="JerusalemArabic67.pdf-52.jpg"/>
+    </surface>
+    <surface ulx="0" uly="0" lrx="2654" lry="3097">
+      <graphic url="JerusalemArabic67.pdf-53.jpg"/>
+    </surface>
+    <surface ulx="0" uly="0" lrx="2654" lry="3097">
+      <graphic url="JerusalemArabic67.pdf-54.jpg"/>
+    </surface>
+    <surface ulx="0" uly="0" lrx="2671" lry="3104">
+      <graphic url="JerusalemArabic67.pdf-55.jpg"/>
+    </surface>
+    <surface ulx="0" uly="0" lrx="2671" lry="3104">
+      <graphic url="JerusalemArabic67.pdf-56.jpg"/>
+    </surface>
+    <surface ulx="0" uly="0" lrx="2677" lry="3113">
+      <graphic url="JerusalemArabic67.pdf-57.jpg"/>
+    </surface>
+    <surface ulx="0" uly="0" lrx="2677" lry="3113">
+      <graphic url="JerusalemArabic67.pdf-58.jpg"/>
+    </surface>
+    <surface ulx="0" uly="0" lrx="2696" lry="3138">
+      <graphic url="JerusalemArabic67.pdf-59.jpg"/>
+    </surface>
+    <surface ulx="0" uly="0" lrx="2696" lry="3138">
+      <graphic url="JerusalemArabic67.pdf-60.jpg"/>
+    </surface>
+    <surface ulx="0" uly="0" lrx="2662" lry="3095">
+      <graphic url="JerusalemArabic67.pdf-61.jpg"/>
+    </surface>
+    <surface ulx="0" uly="0" lrx="2662" lry="3095">
+      <graphic url="JerusalemArabic67.pdf-62.jpg"/>
+    </surface>
+    <surface ulx="0" uly="0" lrx="2680" lry="3115">
+      <graphic url="JerusalemArabic67.pdf-63.jpg"/>
+    </surface>
+    <surface ulx="0" uly="0" lrx="2680" lry="3115">
+      <graphic url="JerusalemArabic67.pdf-64.jpg"/>
+    </surface>
+    <surface ulx="0" uly="0" lrx="2681" lry="3088">
+      <graphic url="JerusalemArabic67.pdf-65.jpg"/>
+    </surface>
+    <surface ulx="0" uly="0" lrx="2681" lry="3088">
+      <graphic url="JerusalemArabic67.pdf-66.jpg"/>
+    </surface>
+    <surface ulx="0" uly="0" lrx="2671" lry="3098">
+      <graphic url="JerusalemArabic67.pdf-67.jpg"/>
+    </surface>
+    <surface ulx="0" uly="0" lrx="2671" lry="3098">
+      <graphic url="JerusalemArabic67.pdf-68.jpg"/>
+    </surface>
+    <surface ulx="0" uly="0" lrx="2679" lry="3085">
+      <graphic url="JerusalemArabic67.pdf-69.jpg"/>
+    </surface>
+    <surface ulx="0" uly="0" lrx="2679" lry="3085">
+      <graphic url="JerusalemArabic67.pdf-70.jpg"/>
+    </surface>
+    <surface ulx="0" uly="0" lrx="2687" lry="3090">
+      <graphic url="JerusalemArabic67.pdf-71.jpg"/>
+    </surface>
+    <surface ulx="0" uly="0" lrx="2687" lry="3090">
+      <graphic url="JerusalemArabic67.pdf-72.jpg"/>
+    </surface>
+    <surface ulx="0" uly="0" lrx="2669" lry="3092">
+      <graphic url="JerusalemArabic67.pdf-73.jpg"/>
+    </surface>
+    <surface ulx="0" uly="0" lrx="2669" lry="3092">
+      <graphic url="JerusalemArabic67.pdf-74.jpg"/>
+    </surface>
+    <surface ulx="0" uly="0" lrx="2672" lry="3070">
+      <graphic url="JerusalemArabic67.pdf-75.jpg"/>
+    </surface>
+    <surface ulx="0" uly="0" lrx="2672" lry="3070">
+      <graphic url="JerusalemArabic67.pdf-76.jpg"/>
+    </surface>
+    <surface ulx="0" uly="0" lrx="2672" lry="3098">
+      <graphic url="JerusalemArabic67.pdf-77.jpg"/>
+    </surface>
+    <surface ulx="0" uly="0" lrx="2672" lry="3098">
+      <graphic url="JerusalemArabic67.pdf-78.jpg"/>
+    </surface>
+    <surface ulx="0" uly="0" lrx="2681" lry="3070">
+      <graphic url="JerusalemArabic67.pdf-79.jpg"/>
+    </surface>
+    <surface ulx="0" uly="0" lrx="2681" lry="3070">
+      <graphic url="JerusalemArabic67.pdf-80.jpg"/>
+    </surface>
+    <surface ulx="0" uly="0" lrx="2609" lry="3077">
+      <graphic url="JerusalemArabic67.pdf-81.jpg"/>
+    </surface>
+    <surface ulx="0" uly="0" lrx="2609" lry="3077">
+      <graphic url="JerusalemArabic67.pdf-82.jpg"/>
+      <zone ulx="2124" uly="1432" lrx="2125" lry="1433">
+        <note type="verseLoc">Luke 24:36</note>
+      </zone>
+    </surface>
+    <surface ulx="0" uly="0" lrx="2661" lry="3080">
+      <graphic url="JerusalemArabic67.pdf-83.jpg"/>
+    </surface>
+    <surface ulx="0" uly="0" lrx="2661" lry="3080">
+      <graphic url="JerusalemArabic67.pdf-84.jpg"/>
+      <zone ulx="1904" uly="570" lrx="1905" lry="571">
+        <note type="verseLoc">Luke 24:50</note>
+      </zone>
+      <zone ulx="1756" uly="679" lrx="1757" lry="680">
+        <note type="verseLoc">Luke 24:51</note>
+      </zone>
+      <zone ulx="1326" uly="778" lrx="1327" lry="779">
+        <note type="verseLoc">Luke 24:52</note>
+      </zone>
+      <zone ulx="2211" uly="986" lrx="2212" lry="987">
+        <note type="verseLoc">Luke 24:53</note>
+      </zone>
+    </surface>
+    <surface ulx="0" uly="0" lrx="2776" lry="3097">
+      <graphic url="JerusalemArabic67.pdf-85.jpg"/>
+    </surface>
+    <surface ulx="0" uly="0" lrx="2776" lry="3097">
+      <graphic url="JerusalemArabic67.pdf-86.jpg"/>
+    </surface>
+    <surface ulx="0" uly="0" lrx="2744" lry="3068">
+      <graphic url="JerusalemArabic67.pdf-87.jpg"/>
+    </surface>
+    <surface ulx="0" uly="0" lrx="2744" lry="3068">
+      <graphic url="JerusalemArabic67.pdf-88.jpg"/>
+    </surface>
+    <surface ulx="0" uly="0" lrx="2732" lry="3044">
+      <graphic url="JerusalemArabic67.pdf-89.jpg"/>
+    </surface>
+    <surface ulx="0" uly="0" lrx="2732" lry="3044">
+      <graphic url="JerusalemArabic67.pdf-90.jpg"/>
+    </surface>
+    <surface ulx="0" uly="0" lrx="2723" lry="3095">
+      <graphic url="JerusalemArabic67.pdf-91.jpg"/>
+    </surface>
+    <surface ulx="0" uly="0" lrx="2723" lry="3095">
+      <graphic url="JerusalemArabic67.pdf-92.jpg"/>
+    </surface>
+    <surface ulx="0" uly="0" lrx="2726" lry="3060">
+      <graphic url="JerusalemArabic67.pdf-93.jpg"/>
+    </surface>
+    <surface ulx="0" uly="0" lrx="2726" lry="3060">
+      <graphic url="JerusalemArabic67.pdf-94.jpg"/>
+    </surface>
+    <surface ulx="0" uly="0" lrx="2724" lry="3127">
+      <graphic url="JerusalemArabic67.pdf-95.jpg"/>
+    </surface>
+    <surface ulx="0" uly="0" lrx="2724" lry="3127">
+      <graphic url="JerusalemArabic67.pdf-96.jpg"/>
+    </surface>
+    <surface ulx="0" uly="0" lrx="2731" lry="3100">
+      <graphic url="JerusalemArabic67.pdf-97.jpg"/>
+    </surface>
+    <surface ulx="0" uly="0" lrx="2731" lry="3100">
+      <graphic url="JerusalemArabic67.pdf-98.jpg"/>
+    </surface>
+    <surface ulx="0" uly="0" lrx="2744" lry="3104">
+      <graphic url="JerusalemArabic67.pdf-99.jpg"/>
+    </surface>
+    <surface ulx="0" uly="0" lrx="2744" lry="3104">
+      <graphic url="JerusalemArabic67.pdf-100.jpg"/>
+    </surface>
+    <surface ulx="0" uly="0" lrx="2721" lry="3110">
+      <graphic url="JerusalemArabic67.pdf-101.jpg"/>
+    </surface>
+    <surface ulx="0" uly="0" lrx="2721" lry="3110">
+      <graphic url="JerusalemArabic67.pdf-102.jpg"/>
+    </surface>
+    <surface ulx="0" uly="0" lrx="2724" lry="3106">
+      <graphic url="JerusalemArabic67.pdf-103.jpg"/>
+    </surface>
+    <surface ulx="0" uly="0" lrx="2724" lry="3106">
+      <graphic url="JerusalemArabic67.pdf-104.jpg"/>
+    </surface>
+    <surface ulx="0" uly="0" lrx="2739" lry="3119">
+      <graphic url="JerusalemArabic67.pdf-105.jpg"/>
+    </surface>
+    <surface ulx="0" uly="0" lrx="2739" lry="3119">
+      <graphic url="JerusalemArabic67.pdf-106.jpg"/>
+    </surface>
+    <surface ulx="0" uly="0" lrx="2720" lry="3099">
+      <graphic url="JerusalemArabic67.pdf-107.jpg"/>
+    </surface>
+    <surface ulx="0" uly="0" lrx="2720" lry="3099">
+      <graphic url="JerusalemArabic67.pdf-108.jpg"/>
+    </surface>
+    <surface ulx="0" uly="0" lrx="2750" lry="3029">
+      <graphic url="JerusalemArabic67.pdf-109.jpg"/>
+    </surface>
+    <surface ulx="0" uly="0" lrx="2750" lry="3029">
+      <graphic url="JerusalemArabic67.pdf-110.jpg"/>
+    </surface>
+    <surface ulx="0" uly="0" lrx="2720" lry="3079">
+      <graphic url="JerusalemArabic67.pdf-111.jpg"/>
+    </surface>
+    <surface ulx="0" uly="0" lrx="2720" lry="3079">
+      <graphic url="JerusalemArabic67.pdf-112.jpg"/>
+    </surface>
+    <surface ulx="0" uly="0" lrx="2730" lry="3131">
+      <graphic url="JerusalemArabic67.pdf-113.jpg"/>
+    </surface>
+    <surface ulx="0" uly="0" lrx="2730" lry="3131">
+      <graphic url="JerusalemArabic67.pdf-114.jpg"/>
+    </surface>
+    <surface ulx="0" uly="0" lrx="2743" lry="3066">
+      <graphic url="JerusalemArabic67.pdf-115.jpg"/>
+      <zone ulx="1462" uly="2008" lrx="1463" lry="2009">
+        <note type="verseLoc">Matthew 7:9</note>
+      </zone>
+    </surface>
+    <surface ulx="0" uly="0" lrx="2743" lry="3066">
+      <graphic url="JerusalemArabic67.pdf-116.jpg"/>
+      <zone ulx="1610" uly="1531" lrx="1611" lry="1532">
+        <note type="verseLoc">Matthew 7:15</note>
+      </zone>
+      <zone ulx="1638" uly="1763" lrx="1639" lry="1764">
+        <note type="verseLoc">Matthew 7:16</note>
+      </zone>
+      <zone ulx="2262" uly="1972" lrx="2263" lry="1973">
+        <note type="verseLoc">Matthew 7:17</note>
+      </zone>
+    </surface>
+    <surface ulx="0" uly="0" lrx="2758" lry="3112">
+      <graphic url="JerusalemArabic67.pdf-117.jpg"/>
+      <zone ulx="1735" uly="430" lrx="1736" lry="431">
+        <note type="verseLoc">Matthew 7:18</note>
+      </zone>
+    </surface>
+    <surface ulx="0" uly="0" lrx="2758" lry="3112">
+      <graphic url="JerusalemArabic67.pdf-118.jpg"/>
+    </surface>
+    <surface ulx="0" uly="0" lrx="2773" lry="3195">
+      <graphic url="JerusalemArabic67.pdf-119.jpg"/>
+    </surface>
+    <surface ulx="0" uly="0" lrx="2773" lry="3195">
+      <graphic url="JerusalemArabic67.pdf-120.jpg"/>
+    </surface>
+    <surface ulx="0" uly="0" lrx="2758" lry="3143">
+      <graphic url="JerusalemArabic67.pdf-121.jpg"/>
+    </surface>
+    <surface ulx="0" uly="0" lrx="2758" lry="3143">
+      <graphic url="JerusalemArabic67.pdf-122.jpg"/>
+    </surface>
+    <surface ulx="0" uly="0" lrx="2784" lry="3281">
+      <graphic url="JerusalemArabic67.pdf-123.jpg"/>
+    </surface>
+    <surface ulx="0" uly="0" lrx="2784" lry="3281">
+      <graphic url="JerusalemArabic67.pdf-124.jpg"/>
+    </surface>
+    <surface ulx="0" uly="0" lrx="2797" lry="3200">
+      <graphic url="JerusalemArabic67.pdf-125.jpg"/>
+    </surface>
+    <surface ulx="0" uly="0" lrx="2797" lry="3200">
+      <graphic url="JerusalemArabic67.pdf-126.jpg"/>
+    </surface>
+    <surface ulx="0" uly="0" lrx="2800" lry="3235">
+      <graphic url="JerusalemArabic67.pdf-127.jpg"/>
+    </surface>
+    <surface ulx="0" uly="0" lrx="2800" lry="3235">
+      <graphic url="JerusalemArabic67.pdf-128.jpg"/>
+    </surface>
+    <surface ulx="0" uly="0" lrx="2807" lry="3214">
+      <graphic url="JerusalemArabic67.pdf-129.jpg"/>
+    </surface>
+    <surface ulx="0" uly="0" lrx="2807" lry="3214">
+      <graphic url="JerusalemArabic67.pdf-130.jpg"/>
+    </surface>
+    <surface ulx="0" uly="0" lrx="2755" lry="3133">
+      <graphic url="JerusalemArabic67.pdf-131.jpg"/>
+    </surface>
+    <surface ulx="0" uly="0" lrx="2755" lry="3133">
+      <graphic url="JerusalemArabic67.pdf-132.jpg"/>
+    </surface>
+    <surface ulx="0" uly="0" lrx="2763" lry="3130">
+      <graphic url="JerusalemArabic67.pdf-133.jpg"/>
+    </surface>
+    <surface ulx="0" uly="0" lrx="2763" lry="3130">
+      <graphic url="JerusalemArabic67.pdf-134.jpg"/>
+    </surface>
+    <surface ulx="0" uly="0" lrx="2758" lry="3130">
+      <graphic url="JerusalemArabic67.pdf-135.jpg"/>
+    </surface>
+    <surface ulx="0" uly="0" lrx="2758" lry="3130">
+      <graphic url="JerusalemArabic67.pdf-136.jpg"/>
+    </surface>
+    <surface ulx="0" uly="0" lrx="2809" lry="3175">
+      <graphic url="JerusalemArabic67.pdf-137.jpg"/>
+    </surface>
+    <surface ulx="0" uly="0" lrx="2809" lry="3175">
+      <graphic url="JerusalemArabic67.pdf-138.jpg"/>
+    </surface>
+    <surface ulx="0" uly="0" lrx="2764" lry="3137">
+      <graphic url="JerusalemArabic67.pdf-139.jpg"/>
+    </surface>
+    <surface ulx="0" uly="0" lrx="2764" lry="3137">
+      <graphic url="JerusalemArabic67.pdf-140.jpg"/>
+    </surface>
+    <surface ulx="0" uly="0" lrx="2802" lry="3167">
+      <graphic url="JerusalemArabic67.pdf-141.jpg"/>
+    </surface>
+    <surface ulx="0" uly="0" lrx="2802" lry="3167">
+      <graphic url="JerusalemArabic67.pdf-142.jpg"/>
+    </surface>
+    <surface ulx="0" uly="0" lrx="2794" lry="3171">
+      <graphic url="JerusalemArabic67.pdf-143.jpg"/>
+    </surface>
+    <surface ulx="0" uly="0" lrx="2794" lry="3171">
+      <graphic url="JerusalemArabic67.pdf-144.jpg"/>
+    </surface>
+    <surface ulx="0" uly="0" lrx="2797" lry="3155">
+      <graphic url="JerusalemArabic67.pdf-145.jpg"/>
+    </surface>
+    <surface ulx="0" uly="0" lrx="2797" lry="3155">
+      <graphic url="JerusalemArabic67.pdf-146.jpg"/>
+    </surface>
+    <surface ulx="0" uly="0" lrx="2779" lry="3124">
+      <graphic url="JerusalemArabic67.pdf-147.jpg"/>
+    </surface>
+    <surface ulx="0" uly="0" lrx="2779" lry="3124">
+      <graphic url="JerusalemArabic67.pdf-148.jpg"/>
+    </surface>
+    <surface ulx="0" uly="0" lrx="2770" lry="3120">
+      <graphic url="JerusalemArabic67.pdf-149.jpg"/>
+    </surface>
+    <surface ulx="0" uly="0" lrx="2770" lry="3120">
+      <graphic url="JerusalemArabic67.pdf-150.jpg"/>
+    </surface>
+    <surface ulx="0" uly="0" lrx="2773" lry="3119">
+      <graphic url="JerusalemArabic67.pdf-151.jpg"/>
+    </surface>
+    <surface ulx="0" uly="0" lrx="2773" lry="3119">
+      <graphic url="JerusalemArabic67.pdf-152.jpg"/>
+    </surface>
+    <surface ulx="0" uly="0" lrx="2780" lry="3130">
+      <graphic url="JerusalemArabic67.pdf-153.jpg"/>
+    </surface>
+    <surface ulx="0" uly="0" lrx="2780" lry="3130">
+      <graphic url="JerusalemArabic67.pdf-154.jpg"/>
+    </surface>
+    <surface ulx="0" uly="0" lrx="2794" lry="3118">
+      <graphic url="JerusalemArabic67.pdf-155.jpg"/>
+    </surface>
+    <surface ulx="0" uly="0" lrx="2794" lry="3118">
+      <graphic url="JerusalemArabic67.pdf-156.jpg"/>
+    </surface>
+    <surface ulx="0" uly="0" lrx="2774" lry="3036">
+      <graphic url="JerusalemArabic67.pdf-157.jpg"/>
+    </surface>
+    <surface ulx="0" uly="0" lrx="2774" lry="3036">
+      <graphic url="JerusalemArabic67.pdf-158.jpg"/>
+    </surface>
+    <surface ulx="0" uly="0" lrx="2808" lry="3036">
+      <graphic url="JerusalemArabic67.pdf-159.jpg"/>
+      <zone ulx="2069" uly="2079" lrx="2070" lry="2080">
+        <note type="verseLoc">Matthew 14:14</note>
+      </zone>
+    </surface>
+    <surface ulx="0" uly="0" lrx="2808" lry="3036">
+      <graphic url="JerusalemArabic67.pdf-160.jpg"/>
+      <zone ulx="1055" uly="460" lrx="1056" lry="461">
+        <note type="verseLoc">Matthew 14:15</note>
+      </zone>
+      <zone ulx="1843" uly="992" lrx="1844" lry="993">
+        <note type="verseLoc">Matthew 14:16</note>
+      </zone>
+      <zone ulx="2216" uly="1242" lrx="2217" lry="1243">
+        <note type="verseLoc">Matthew 14:17</note>
+      </zone>
+      <zone ulx="1568" uly="1383" lrx="1569" lry="1384">
+        <note type="verseLoc">Matthew 14:18</note>
+      </zone>
+      <zone ulx="1737" uly="1503" lrx="1738" lry="1504">
+        <note type="verseLoc">Matthew 14:19</note>
+      </zone>
+    </surface>
+    <surface ulx="0" uly="0" lrx="2799" lry="3084">
+      <graphic url="JerusalemArabic67.pdf-161.jpg"/>
+      <zone ulx="1579" uly="729" lrx="1580" lry="730">
+        <note type="verseLoc">Matthew 14:22</note>
+      </zone>
+    </surface>
+    <surface ulx="0" uly="0" lrx="2799" lry="3084">
+      <graphic url="JerusalemArabic67.pdf-162.jpg"/>
+    </surface>
+    <surface ulx="0" uly="0" lrx="2823" lry="3113">
+      <graphic url="JerusalemArabic67.pdf-163.jpg"/>
+    </surface>
+    <surface ulx="0" uly="0" lrx="2823" lry="3113">
+      <graphic url="JerusalemArabic67.pdf-164.jpg"/>
+    </surface>
+    <surface ulx="0" uly="0" lrx="2813" lry="3144">
+      <graphic url="JerusalemArabic67.pdf-165.jpg"/>
+    </surface>
+    <surface ulx="0" uly="0" lrx="2813" lry="3144">
+      <graphic url="JerusalemArabic67.pdf-166.jpg"/>
+    </surface>
+    <surface ulx="0" uly="0" lrx="2813" lry="3098">
+      <graphic url="JerusalemArabic67.pdf-167.jpg"/>
+    </surface>
+    <surface ulx="0" uly="0" lrx="2813" lry="3098">
+      <graphic url="JerusalemArabic67.pdf-168.jpg"/>
+    </surface>
+    <surface ulx="0" uly="0" lrx="2818" lry="3139">
+      <graphic url="JerusalemArabic67.pdf-169.jpg"/>
+    </surface>
+    <surface ulx="0" uly="0" lrx="2818" lry="3139">
+      <graphic url="JerusalemArabic67.pdf-170.jpg"/>
+    </surface>
+    <surface ulx="0" uly="0" lrx="2802" lry="3096">
+      <graphic url="JerusalemArabic67.pdf-171.jpg"/>
+    </surface>
+    <surface ulx="0" uly="0" lrx="2802" lry="3096">
+      <graphic url="JerusalemArabic67.pdf-172.jpg"/>
+    </surface>
+    <surface ulx="0" uly="0" lrx="2837" lry="3077">
+      <graphic url="JerusalemArabic67.pdf-173.jpg"/>
+    </surface>
+    <surface ulx="0" uly="0" lrx="2837" lry="3077">
+      <graphic url="JerusalemArabic67.pdf-174.jpg"/>
+    </surface>
+    <surface ulx="0" uly="0" lrx="2790" lry="3136">
+      <graphic url="JerusalemArabic67.pdf-175.jpg"/>
+    </surface>
+    <surface ulx="0" uly="0" lrx="2790" lry="3136">
+      <graphic url="JerusalemArabic67.pdf-176.jpg"/>
+    </surface>
+    <surface ulx="0" uly="0" lrx="2795" lry="3097">
+      <graphic url="JerusalemArabic67.pdf-177.jpg"/>
+    </surface>
+    <surface ulx="0" uly="0" lrx="2795" lry="3097">
+      <graphic url="JerusalemArabic67.pdf-178.jpg"/>
+    </surface>
+    <surface ulx="0" uly="0" lrx="2789" lry="3064">
+      <graphic url="JerusalemArabic67.pdf-179.jpg"/>
+    </surface>
+    <surface ulx="0" uly="0" lrx="2789" lry="3064">
+      <graphic url="JerusalemArabic67.pdf-180.jpg"/>
+    </surface>
+    <surface ulx="0" uly="0" lrx="2839" lry="3125">
+      <graphic url="JerusalemArabic67.pdf-181.jpg"/>
+    </surface>
+    <surface ulx="0" uly="0" lrx="2839" lry="3125">
+      <graphic url="JerusalemArabic67.pdf-182.jpg"/>
+    </surface>
+    <surface ulx="0" uly="0" lrx="2777" lry="3072">
+      <graphic url="JerusalemArabic67.pdf-183.jpg"/>
+    </surface>
+    <surface ulx="0" uly="0" lrx="2777" lry="3072">
+      <graphic url="JerusalemArabic67.pdf-184.jpg"/>
+    </surface>
+    <surface ulx="0" uly="0" lrx="2806" lry="3143">
+      <graphic url="JerusalemArabic67.pdf-185.jpg"/>
+    </surface>
+    <surface ulx="0" uly="0" lrx="2806" lry="3143">
+      <graphic url="JerusalemArabic67.pdf-186.jpg"/>
+    </surface>
+    <surface ulx="0" uly="0" lrx="2800" lry="3115">
+      <graphic url="JerusalemArabic67.pdf-187.jpg"/>
+    </surface>
+    <surface ulx="0" uly="0" lrx="2800" lry="3115">
+      <graphic url="JerusalemArabic67.pdf-188.jpg"/>
+    </surface>
+    <surface ulx="0" uly="0" lrx="2902" lry="3051">
+      <graphic url="JerusalemArabic67.pdf-189.jpg"/>
+    </surface>
+    <surface ulx="0" uly="0" lrx="2902" lry="3051">
+      <graphic url="JerusalemArabic67.pdf-190.jpg"/>
+    </surface>
+    <surface ulx="0" uly="0" lrx="2816" lry="3090">
+      <graphic url="JerusalemArabic67.pdf-191.jpg"/>
+    </surface>
+    <surface ulx="0" uly="0" lrx="2816" lry="3090">
+      <graphic url="JerusalemArabic67.pdf-192.jpg"/>
+    </surface>
+    <surface ulx="0" uly="0" lrx="2855" lry="3163">
+      <graphic url="JerusalemArabic67.pdf-193.jpg"/>
+    </surface>
+    <surface ulx="0" uly="0" lrx="2855" lry="3163">
+      <graphic url="JerusalemArabic67.pdf-194.jpg"/>
+    </surface>
+    <surface ulx="0" uly="0" lrx="2832" lry="3086">
+      <graphic url="JerusalemArabic67.pdf-195.jpg"/>
+    </surface>
+    <surface ulx="0" uly="0" lrx="2832" lry="3086">
+      <graphic url="JerusalemArabic67.pdf-196.jpg"/>
+    </surface>
+    <surface ulx="0" uly="0" lrx="2827" lry="3108">
+      <graphic url="JerusalemArabic67.pdf-197.jpg"/>
+    </surface>
+    <surface ulx="0" uly="0" lrx="2827" lry="3108">
+      <graphic url="JerusalemArabic67.pdf-198.jpg"/>
+    </surface>
+    <surface ulx="0" uly="0" lrx="2813" lry="3121">
+      <graphic url="JerusalemArabic67.pdf-199.jpg"/>
+    </surface>
+    <surface ulx="0" uly="0" lrx="2813" lry="3121">
+      <graphic url="JerusalemArabic67.pdf-200.jpg"/>
+    </surface>
+    <surface ulx="0" uly="0" lrx="2821" lry="3140">
+      <graphic url="JerusalemArabic67.pdf-201.jpg"/>
+    </surface>
+    <surface ulx="0" uly="0" lrx="2821" lry="3140">
+      <graphic url="JerusalemArabic67.pdf-202.jpg"/>
+      <zone ulx="2287" uly="2006" lrx="2288" lry="2007">
+        <note type="verseLoc">Matthew 25:14</note>
+      </zone>
+    </surface>
+    <surface ulx="0" uly="0" lrx="2837" lry="3142">
+      <graphic url="JerusalemArabic67.pdf-203.jpg"/>
+    </surface>
+    <surface ulx="0" uly="0" lrx="2837" lry="3142">
+      <graphic url="JerusalemArabic67.pdf-204.jpg"/>
+    </surface>
+    <surface ulx="0" uly="0" lrx="2842" lry="3174">
+      <graphic url="JerusalemArabic67.pdf-205.jpg"/>
+      <zone ulx="1451" uly="1301" lrx="1452" lry="1302">
+        <note type="verseLoc">Matthew 25:30</note>
+      </zone>
+    </surface>
+    <surface ulx="0" uly="0" lrx="2842" lry="3174">
+      <graphic url="JerusalemArabic67.pdf-206.jpg"/>
+    </surface>
+    <surface ulx="0" uly="0" lrx="2855" lry="3155">
+      <graphic url="JerusalemArabic67.pdf-207.jpg"/>
+    </surface>
+    <surface ulx="0" uly="0" lrx="2855" lry="3155">
+      <graphic url="JerusalemArabic67.pdf-208.jpg"/>
+    </surface>
+    <surface ulx="0" uly="0" lrx="2846" lry="3169">
+      <graphic url="JerusalemArabic67.pdf-209.jpg"/>
+      <zone ulx="1939" uly="1083" lrx="1940" lry="1084">
+        <note type="verseLoc">Matthew 15:21</note>
+      </zone>
+    </surface>
+    <surface ulx="0" uly="0" lrx="2846" lry="3169">
+      <graphic url="JerusalemArabic67.pdf-210.jpg"/>
+    </surface>
+    <surface ulx="0" uly="0" lrx="2830" lry="3133">
+      <graphic url="JerusalemArabic67.pdf-211.jpg"/>
+    </surface>
+    <surface ulx="0" uly="0" lrx="2830" lry="3133">
+      <graphic url="JerusalemArabic67.pdf-212.jpg"/>
+    </surface>
+    <surface ulx="0" uly="0" lrx="2818" lry="3164">
+      <graphic url="JerusalemArabic67.pdf-213.jpg"/>
+    </surface>
+    <surface ulx="0" uly="0" lrx="2818" lry="3164">
+      <graphic url="JerusalemArabic67.pdf-214.jpg"/>
+    </surface>
+    <surface ulx="0" uly="0" lrx="2894" lry="3106">
+      <graphic url="JerusalemArabic67.pdf-215.jpg"/>
+    </surface>
+    <surface ulx="0" uly="0" lrx="2894" lry="3106">
+      <graphic url="JerusalemArabic67.pdf-216.jpg"/>
+    </surface>
+    <surface ulx="0" uly="0" lrx="2898" lry="3163">
+      <graphic url="JerusalemArabic67.pdf-217.jpg"/>
+    </surface>
+    <surface ulx="0" uly="0" lrx="2898" lry="3163">
+      <graphic url="JerusalemArabic67.pdf-218.jpg"/>
+    </surface>
+    <surface ulx="0" uly="0" lrx="2861" lry="3138">
+      <graphic url="JerusalemArabic67.pdf-219.jpg"/>
+    </surface>
+    <surface ulx="0" uly="0" lrx="2861" lry="3138">
+      <graphic url="JerusalemArabic67.pdf-220.jpg"/>
+    </surface>
+    <surface ulx="0" uly="0" lrx="2883" lry="3195">
+      <graphic url="JerusalemArabic67.pdf-221.jpg"/>
+    </surface>
+    <surface ulx="0" uly="0" lrx="2883" lry="3195">
+      <graphic url="JerusalemArabic67.pdf-222.jpg"/>
+    </surface>
+    <surface ulx="0" uly="0" lrx="2854" lry="3121">
+      <graphic url="JerusalemArabic67.pdf-223.jpg"/>
+    </surface>
+    <surface ulx="0" uly="0" lrx="2854" lry="3121">
+      <graphic url="JerusalemArabic67.pdf-224.jpg"/>
+    </surface>
+    <surface ulx="0" uly="0" lrx="2885" lry="3167">
+      <graphic url="JerusalemArabic67.pdf-225.jpg"/>
+    </surface>
+    <surface ulx="0" uly="0" lrx="2885" lry="3167">
+      <graphic url="JerusalemArabic67.pdf-226.jpg"/>
+      <zone ulx="2326" uly="1817" lrx="2327" lry="1818">
+        <note type="verseLoc">Luke 8:5</note>
+      </zone>
+    </surface>
+    <surface ulx="0" uly="0" lrx="2851" lry="3108">
+      <graphic url="JerusalemArabic67.pdf-227.jpg"/>
+      <zone ulx="787" uly="885" lrx="788" lry="886">
+        <note type="verseLoc">Luke 8:9</note>
+      </zone>
+      <zone ulx="933" uly="993" lrx="934" lry="994">
+        <note type="verseLoc">Luke 8:10</note>
+      </zone>
+      <zone ulx="813" uly="1415" lrx="814" lry="1416">
+        <note type="verseLoc">Luke 8:11</note>
+      </zone>
+      <zone ulx="776" uly="1538" lrx="777" lry="1539">
+        <note type="verseLoc">Luke 8:12</note>
+      </zone>
+      <zone ulx="1935" uly="2092" lrx="1936" lry="2093">
+        <note type="verseLoc">Luke 8:13</note>
+      </zone>
+    </surface>
+    <surface ulx="0" uly="0" lrx="2851" lry="3108">
+      <graphic url="JerusalemArabic67.pdf-228.jpg"/>
+      <zone ulx="1558" uly="770" lrx="1559" lry="771">
+        <note type="verseLoc">Luke 8:14</note>
+      </zone>
+      <zone ulx="2296" uly="1293" lrx="2297" lry="1294">
+        <note type="verseLoc">Luke 8:15</note>
+      </zone>
+    </surface>
+    <surface ulx="0" uly="0" lrx="2846" lry="3138">
+      <graphic url="JerusalemArabic67.pdf-229.jpg"/>
+    </surface>
+    <surface ulx="0" uly="0" lrx="2846" lry="3138">
+      <graphic url="JerusalemArabic67.pdf-230.jpg"/>
+    </surface>
+    <surface ulx="0" uly="0" lrx="2859" lry="3151">
+      <graphic url="JerusalemArabic67.pdf-231.jpg"/>
+    </surface>
+    <surface ulx="0" uly="0" lrx="2859" lry="3151">
+      <graphic url="JerusalemArabic67.pdf-232.jpg"/>
+    </surface>
+    <surface ulx="0" uly="0" lrx="2875" lry="3143">
+      <graphic url="JerusalemArabic67.pdf-233.jpg"/>
+    </surface>
+    <surface ulx="0" uly="0" lrx="2875" lry="3143">
+      <graphic url="JerusalemArabic67.pdf-234.jpg"/>
+    </surface>
+    <surface ulx="0" uly="0" lrx="2838" lry="3074">
+      <graphic url="JerusalemArabic67.pdf-235.jpg"/>
+    </surface>
+    <surface ulx="0" uly="0" lrx="2838" lry="3074">
+      <graphic url="JerusalemArabic67.pdf-236.jpg"/>
+    </surface>
+    <surface ulx="0" uly="0" lrx="2917" lry="3125">
+      <graphic url="JerusalemArabic67.pdf-237.jpg"/>
+    </surface>
+    <surface ulx="0" uly="0" lrx="2917" lry="3125">
+      <graphic url="JerusalemArabic67.pdf-238.jpg"/>
+    </surface>
+    <surface ulx="0" uly="0" lrx="2872" lry="3109">
+      <graphic url="JerusalemArabic67.pdf-239.jpg"/>
+    </surface>
+    <surface ulx="0" uly="0" lrx="2872" lry="3109">
+      <graphic url="JerusalemArabic67.pdf-240.jpg"/>
+    </surface>
+    <surface ulx="0" uly="0" lrx="2851" lry="3114">
+      <graphic url="JerusalemArabic67.pdf-241.jpg"/>
+    </surface>
+    <surface ulx="0" uly="0" lrx="2851" lry="3114">
+      <graphic url="JerusalemArabic67.pdf-242.jpg"/>
+    </surface>
+    <surface ulx="0" uly="0" lrx="2866" lry="3085">
+      <graphic url="JerusalemArabic67.pdf-243.jpg"/>
+    </surface>
+    <surface ulx="0" uly="0" lrx="2866" lry="3085">
+      <graphic url="JerusalemArabic67.pdf-244.jpg"/>
+    </surface>
+    <surface ulx="0" uly="0" lrx="2843" lry="3070">
+      <graphic url="JerusalemArabic67.pdf-245.jpg"/>
+    </surface>
+    <surface ulx="0" uly="0" lrx="2843" lry="3070">
+      <graphic url="JerusalemArabic67.pdf-246.jpg"/>
+    </surface>
+    <surface ulx="0" uly="0" lrx="2848" lry="3085">
+      <graphic url="JerusalemArabic67.pdf-247.jpg"/>
+    </surface>
+    <surface ulx="0" uly="0" lrx="2848" lry="3085">
+      <graphic url="JerusalemArabic67.pdf-248.jpg"/>
+    </surface>
+    <surface ulx="0" uly="0" lrx="2848" lry="3061">
+      <graphic url="JerusalemArabic67.pdf-249.jpg"/>
+    </surface>
+    <surface ulx="0" uly="0" lrx="2848" lry="3061">
+      <graphic url="JerusalemArabic67.pdf-250.jpg"/>
+    </surface>
+    <surface ulx="0" uly="0" lrx="2864" lry="3046">
+      <graphic url="JerusalemArabic67.pdf-251.jpg"/>
+    </surface>
+    <surface ulx="0" uly="0" lrx="2864" lry="3046">
+      <graphic url="JerusalemArabic67.pdf-252.jpg"/>
+    </surface>
+    <surface ulx="0" uly="0" lrx="2848" lry="3085">
+      <graphic url="JerusalemArabic67.pdf-253.jpg"/>
+    </surface>
+    <surface ulx="0" uly="0" lrx="2848" lry="3085">
+      <graphic url="JerusalemArabic67.pdf-254.jpg"/>
+    </surface>
+    <surface ulx="0" uly="0" lrx="2847" lry="3089">
+      <graphic url="JerusalemArabic67.pdf-255.jpg"/>
+    </surface>
+    <surface ulx="0" uly="0" lrx="2847" lry="3089">
+      <graphic url="JerusalemArabic67.pdf-256.jpg"/>
+    </surface>
+    <surface ulx="0" uly="0" lrx="2885" lry="3138">
+      <graphic url="JerusalemArabic67.pdf-257.jpg"/>
+    </surface>
+    <surface ulx="0" uly="0" lrx="2885" lry="3138">
+      <graphic url="JerusalemArabic67.pdf-258.jpg"/>
+    </surface>
+    <surface ulx="0" uly="0" lrx="2854" lry="3090">
+      <graphic url="JerusalemArabic67.pdf-259.jpg"/>
+    </surface>
+    <surface ulx="0" uly="0" lrx="2854" lry="3090">
+      <graphic url="JerusalemArabic67.pdf-260.jpg"/>
+    </surface>
+    <surface ulx="0" uly="0" lrx="2875" lry="3108">
+      <graphic url="JerusalemArabic67.pdf-261.jpg"/>
+    </surface>
+    <surface ulx="0" uly="0" lrx="2875" lry="3108">
+      <graphic url="JerusalemArabic67.pdf-262.jpg"/>
+    </surface>
+    <surface ulx="0" uly="0" lrx="2869" lry="3090">
+      <graphic url="JerusalemArabic67.pdf-263.jpg"/>
+    </surface>
+    <surface ulx="0" uly="0" lrx="2869" lry="3090">
+      <graphic url="JerusalemArabic67.pdf-264.jpg"/>
+    </surface>
+    <surface ulx="0" uly="0" lrx="2878" lry="3133">
+      <graphic url="JerusalemArabic67.pdf-265.jpg"/>
+    </surface>
+    <surface ulx="0" uly="0" lrx="2878" lry="3133">
+      <graphic url="JerusalemArabic67.pdf-266.jpg"/>
+    </surface>
+    <surface ulx="0" uly="0" lrx="2853" lry="3147">
+      <graphic url="JerusalemArabic67.pdf-267.jpg"/>
+    </surface>
+    <surface ulx="0" uly="0" lrx="2853" lry="3147">
+      <graphic url="JerusalemArabic67.pdf-268.jpg"/>
+    </surface>
+    <surface ulx="0" uly="0" lrx="2867" lry="3093">
+      <graphic url="JerusalemArabic67.pdf-269.jpg"/>
+    </surface>
+    <surface ulx="0" uly="0" lrx="2867" lry="3093">
+      <graphic url="JerusalemArabic67.pdf-270.jpg"/>
+    </surface>
+    <surface ulx="0" uly="0" lrx="2887" lry="3147">
+      <graphic url="JerusalemArabic67.pdf-271.jpg"/>
+    </surface>
+    <surface ulx="0" uly="0" lrx="2887" lry="3147">
+      <graphic url="JerusalemArabic67.pdf-272.jpg"/>
+    </surface>
+    <surface ulx="0" uly="0" lrx="2858" lry="3146">
+      <graphic url="JerusalemArabic67.pdf-273.jpg"/>
+    </surface>
+    <surface ulx="0" uly="0" lrx="2858" lry="3146">
+      <graphic url="JerusalemArabic67.pdf-274.jpg"/>
+    </surface>
+    <surface ulx="0" uly="0" lrx="2914" lry="3146">
+      <graphic url="JerusalemArabic67.pdf-275.jpg"/>
+    </surface>
+    <surface ulx="0" uly="0" lrx="2914" lry="3146">
+      <graphic url="JerusalemArabic67.pdf-276.jpg"/>
+    </surface>
+    <surface ulx="0" uly="0" lrx="2869" lry="3189">
+      <graphic url="JerusalemArabic67.pdf-277.jpg"/>
+    </surface>
+    <surface ulx="0" uly="0" lrx="2869" lry="3189">
+      <graphic url="JerusalemArabic67.pdf-278.jpg"/>
+    </surface>
+    <surface ulx="0" uly="0" lrx="2883" lry="3106">
+      <graphic url="JerusalemArabic67.pdf-279.jpg"/>
+    </surface>
+    <surface ulx="0" uly="0" lrx="2883" lry="3106">
+      <graphic url="JerusalemArabic67.pdf-280.jpg"/>
+    </surface>
+    <surface ulx="0" uly="0" lrx="2875" lry="3135">
+      <graphic url="JerusalemArabic67.pdf-281.jpg"/>
+    </surface>
+    <surface ulx="0" uly="0" lrx="2875" lry="3135">
+      <graphic url="JerusalemArabic67.pdf-282.jpg"/>
+    </surface>
+    <surface ulx="0" uly="0" lrx="2880" lry="3091">
+      <graphic url="JerusalemArabic67.pdf-283.jpg"/>
+    </surface>
+    <surface ulx="0" uly="0" lrx="2880" lry="3091">
+      <graphic url="JerusalemArabic67.pdf-284.jpg"/>
+    </surface>
+    <surface ulx="0" uly="0" lrx="2883" lry="3128">
+      <graphic url="JerusalemArabic67.pdf-285.jpg"/>
+    </surface>
+    <surface ulx="0" uly="0" lrx="2883" lry="3128">
+      <graphic url="JerusalemArabic67.pdf-286.jpg"/>
+    </surface>
+    <surface ulx="0" uly="0" lrx="2881" lry="3123">
+      <graphic url="JerusalemArabic67.pdf-287.jpg"/>
+    </surface>
+    <surface ulx="0" uly="0" lrx="2881" lry="3123">
+      <graphic url="JerusalemArabic67.pdf-288.jpg"/>
+    </surface>
+    <surface ulx="0" uly="0" lrx="2891" lry="3135">
+      <graphic url="JerusalemArabic67.pdf-289.jpg"/>
+    </surface>
+    <surface ulx="0" uly="0" lrx="2891" lry="3135">
+      <graphic url="JerusalemArabic67.pdf-290.jpg"/>
+    </surface>
+    <surface ulx="0" uly="0" lrx="2855" lry="3072">
+      <graphic url="JerusalemArabic67.pdf-291.jpg"/>
+    </surface>
+    <surface ulx="0" uly="0" lrx="2855" lry="3072">
+      <graphic url="JerusalemArabic67.pdf-292.jpg"/>
+    </surface>
+    <surface ulx="0" uly="0" lrx="2881" lry="3082">
+      <graphic url="JerusalemArabic67.pdf-293.jpg"/>
+    </surface>
+    <surface ulx="0" uly="0" lrx="2881" lry="3082">
+      <graphic url="JerusalemArabic67.pdf-294.jpg"/>
+    </surface>
+    <surface ulx="0" uly="0" lrx="2867" lry="3077">
+      <graphic url="JerusalemArabic67.pdf-295.jpg"/>
+    </surface>
+    <surface ulx="0" uly="0" lrx="2867" lry="3077">
+      <graphic url="JerusalemArabic67.pdf-296.jpg"/>
+      <zone ulx="2185" uly="590" lrx="2186" lry="591">
+        <note type="verseLoc">Luke 15:11</note>
+      </zone>
+      <zone ulx="2172" uly="722" lrx="2173" lry="723">
+        <note type="verseLoc">Luke 15:12</note>
+      </zone>
+      <zone ulx="1607" uly="970" lrx="1608" lry="971">
+        <note type="verseLoc">Luke 15:13</note>
+      </zone>
+      <zone ulx="1199" uly="1203" lrx="1200" lry="1204">
+        <note type="verseLoc">Luke 15:14</note>
+      </zone>
+      <zone ulx="2180" uly="1590" lrx="2181" lry="1591">
+        <note type="verseLoc">Luke 15:15</note>
+      </zone>
+      <zone ulx="1565" uly="1845" lrx="1566" lry="1846">
+        <note type="verseLoc">Luke 15:16</note>
+      </zone>
+      <zone ulx="1146" uly="2126" lrx="1147" lry="2127">
+        <note type="verseLoc">Luke 15:17</note>
+      </zone>
+    </surface>
+    <surface ulx="0" uly="0" lrx="2897" lry="3116">
+      <graphic url="JerusalemArabic67.pdf-297.jpg"/>
+      <zone ulx="1610" uly="758" lrx="1611" lry="759">
+        <note type="verseLoc">Luke 15:18</note>
+      </zone>
+      <zone ulx="1653" uly="1001" lrx="1654" lry="1002">
+        <note type="verseLoc">Luke 15:19</note>
+      </zone>
+      <zone ulx="1079" uly="1127" lrx="1080" lry="1128">
+        <note type="verseLoc">Luke 15:20</note>
+      </zone>
+      <zone ulx="1219" uly="1366" lrx="1220" lry="1367">
+        <note type="verseLoc">Luke 15:21</note>
+      </zone>
+    </surface>
+    <surface ulx="0" uly="0" lrx="2897" lry="3116">
+      <graphic url="JerusalemArabic67.pdf-298.jpg"/>
+    </surface>
+    <surface ulx="0" uly="0" lrx="2891" lry="3182">
+      <graphic url="JerusalemArabic67.pdf-299.jpg"/>
+      <zone ulx="1684" uly="561" lrx="1685" lry="562">
+        <note type="verseLoc">Luke 15:32</note>
+      </zone>
+    </surface>
+    <surface ulx="0" uly="0" lrx="2891" lry="3182">
+      <graphic url="JerusalemArabic67.pdf-300.jpg"/>
+    </surface>
+    <surface ulx="0" uly="0" lrx="2861" lry="3079">
+      <graphic url="JerusalemArabic67.pdf-301.jpg"/>
+    </surface>
+    <surface ulx="0" uly="0" lrx="2861" lry="3079">
+      <graphic url="JerusalemArabic67.pdf-302.jpg"/>
+    </surface>
+    <surface ulx="0" uly="0" lrx="2866" lry="3088">
+      <graphic url="JerusalemArabic67.pdf-303.jpg"/>
+    </surface>
+    <surface ulx="0" uly="0" lrx="2866" lry="3088">
+      <graphic url="JerusalemArabic67.pdf-304.jpg"/>
+    </surface>
+    <surface ulx="0" uly="0" lrx="2864" lry="3087">
+      <graphic url="JerusalemArabic67.pdf-305.jpg"/>
+    </surface>
+    <surface ulx="0" uly="0" lrx="2864" lry="3087">
+      <graphic url="JerusalemArabic67.pdf-306.jpg"/>
+    </surface>
+    <surface ulx="0" uly="0" lrx="2874" lry="3100">
+      <graphic url="JerusalemArabic67.pdf-307.jpg"/>
+    </surface>
+    <surface ulx="0" uly="0" lrx="2874" lry="3100">
+      <graphic url="JerusalemArabic67.pdf-308.jpg"/>
+    </surface>
+    <surface ulx="0" uly="0" lrx="2851" lry="3087">
+      <graphic url="JerusalemArabic67.pdf-309.jpg"/>
+    </surface>
+    <surface ulx="0" uly="0" lrx="2851" lry="3087">
+      <graphic url="JerusalemArabic67.pdf-310.jpg"/>
+    </surface>
+    <surface ulx="0" uly="0" lrx="2881" lry="3049">
+      <graphic url="JerusalemArabic67.pdf-311.jpg"/>
+    </surface>
+    <surface ulx="0" uly="0" lrx="2881" lry="3049">
+      <graphic url="JerusalemArabic67.pdf-312.jpg"/>
+    </surface>
+    <surface ulx="0" uly="0" lrx="2867" lry="3133">
+      <graphic url="JerusalemArabic67.pdf-313.jpg"/>
+    </surface>
+    <surface ulx="0" uly="0" lrx="2867" lry="3133">
+      <graphic url="JerusalemArabic67.pdf-314.jpg"/>
+    </surface>
+    <surface ulx="0" uly="0" lrx="2882" lry="3083">
+      <graphic url="JerusalemArabic67.pdf-315.jpg"/>
+    </surface>
+    <surface ulx="0" uly="0" lrx="2882" lry="3083">
+      <graphic url="JerusalemArabic67.pdf-316.jpg"/>
+    </surface>
+    <surface ulx="0" uly="0" lrx="2912" lry="3157">
+      <graphic url="JerusalemArabic67.pdf-317.jpg"/>
+    </surface>
+    <surface ulx="0" uly="0" lrx="2912" lry="3157">
+      <graphic url="JerusalemArabic67.pdf-318.jpg"/>
+    </surface>
+    <surface ulx="0" uly="0" lrx="2894" lry="3098">
+      <graphic url="JerusalemArabic67.pdf-319.jpg"/>
+    </surface>
+    <surface ulx="0" uly="0" lrx="2894" lry="3098">
+      <graphic url="JerusalemArabic67.pdf-320.jpg"/>
+    </surface>
+    <surface ulx="0" uly="0" lrx="2930" lry="3079">
+      <graphic url="JerusalemArabic67.pdf-321.jpg"/>
+    </surface>
+    <surface ulx="0" uly="0" lrx="2930" lry="3079">
+      <graphic url="JerusalemArabic67.pdf-322.jpg"/>
+    </surface>
+    <surface ulx="0" uly="0" lrx="2880" lry="3121">
+      <graphic url="JerusalemArabic67.pdf-323.jpg"/>
+    </surface>
+    <surface ulx="0" uly="0" lrx="2880" lry="3121">
+      <graphic url="JerusalemArabic67.pdf-324.jpg"/>
+    </surface>
+    <surface ulx="0" uly="0" lrx="2856" lry="3116">
+      <graphic url="JerusalemArabic67.pdf-325.jpg"/>
+    </surface>
+    <surface ulx="0" uly="0" lrx="2856" lry="3116">
+      <graphic url="JerusalemArabic67.pdf-326.jpg"/>
+    </surface>
+    <surface ulx="0" uly="0" lrx="2854" lry="3070">
+      <graphic url="JerusalemArabic67.pdf-327.jpg"/>
+    </surface>
+    <surface ulx="0" uly="0" lrx="2854" lry="3070">
+      <graphic url="JerusalemArabic67.pdf-328.jpg"/>
+      <zone ulx="2187" uly="2070" lrx="2188" lry="2071">
+        <note type="verseLoc">Mark 1:35</note>
+      </zone>
+    </surface>
+    <surface ulx="0" uly="0" lrx="2887" lry="3082">
+      <graphic url="JerusalemArabic67.pdf-329.jpg"/>
+      <zone ulx="1300" uly="472" lrx="1301" lry="473">
+        <note type="verseLoc">Mark 1:36</note>
+      </zone>
+      <zone ulx="1498" uly="611" lrx="1499" lry="612">
+        <note type="verseLoc">Mark 1:37</note>
+      </zone>
+      <zone ulx="1839" uly="746" lrx="1840" lry="747">
+        <note type="verseLoc">Mark 1:38</note>
+      </zone>
+      <zone ulx="1642" uly="1003" lrx="1643" lry="1004">
+        <note type="verseLoc">Mark 1:39</note>
+      </zone>
+      <zone ulx="1828" uly="2040" lrx="1829" lry="2041">
+        <note type="verseLoc">Mark 1:44</note>
+      </zone>
+    </surface>
+    <surface ulx="0" uly="0" lrx="2887" lry="3082">
+      <graphic url="JerusalemArabic67.pdf-330.jpg"/>
+    </surface>
+    <surface ulx="0" uly="0" lrx="2887" lry="3091">
+      <graphic url="JerusalemArabic67.pdf-331.jpg"/>
+    </surface>
+    <surface ulx="0" uly="0" lrx="2887" lry="3091">
+      <graphic url="JerusalemArabic67.pdf-332.jpg"/>
+    </surface>
+    <surface ulx="0" uly="0" lrx="2879" lry="3045">
+      <graphic url="JerusalemArabic67.pdf-333.jpg"/>
+    </surface>
+    <surface ulx="0" uly="0" lrx="2879" lry="3045">
+      <graphic url="JerusalemArabic67.pdf-334.jpg"/>
+    </surface>
+    <surface ulx="0" uly="0" lrx="2890" lry="3066">
+      <graphic url="JerusalemArabic67.pdf-335.jpg"/>
+    </surface>
+    <surface ulx="0" uly="0" lrx="2890" lry="3066">
+      <graphic url="JerusalemArabic67.pdf-336.jpg"/>
+    </surface>
+    <surface ulx="0" uly="0" lrx="2854" lry="3044">
+      <graphic url="JerusalemArabic67.pdf-337.jpg"/>
+    </surface>
+    <surface ulx="0" uly="0" lrx="2854" lry="3044">
+      <graphic url="JerusalemArabic67.pdf-338.jpg"/>
+    </surface>
+    <surface ulx="0" uly="0" lrx="2860" lry="3057">
+      <graphic url="JerusalemArabic67.pdf-339.jpg"/>
+    </surface>
+    <surface ulx="0" uly="0" lrx="2860" lry="3057">
+      <graphic url="JerusalemArabic67.pdf-340.jpg"/>
+    </surface>
+    <surface ulx="0" uly="0" lrx="2846" lry="3052">
+      <graphic url="JerusalemArabic67.pdf-341.jpg"/>
+      <zone ulx="1203" uly="399" lrx="1204" lry="400">
+        <note type="verseLoc">Mark 7:24</note>
+      </zone>
+    </surface>
+    <surface ulx="0" uly="0" lrx="2846" lry="3052">
+      <graphic url="JerusalemArabic67.pdf-342.jpg"/>
+      <zone ulx="1022" uly="605" lrx="1023" lry="606">
+        <note type="verseLoc">Mark 7:31</note>
+      </zone>
+      <zone ulx="2083" uly="997" lrx="2084" lry="998">
+        <note type="verseLoc">Mark 7:32</note>
+      </zone>
+      <zone ulx="1214" uly="1149" lrx="1215" lry="1150">
+        <note type="verseLoc">Mark 7:33</note>
+      </zone>
+      <zone ulx="1860" uly="1279" lrx="1861" lry="1280">
+        <note type="verseLoc">Mark 7:34</note>
+      </zone>
+      <zone ulx="1321" uly="1377" lrx="1322" lry="1378">
+        <note type="verseLoc">Mark 7:35</note>
+      </zone>
+      <zone ulx="1024" uly="1627" lrx="1025" lry="1628">
+        <note type="verseLoc">Mark 7:37</note>
+      </zone>
+    </surface>
+    <surface ulx="0" uly="0" lrx="2864" lry="3063">
+      <graphic url="JerusalemArabic67.pdf-343.jpg"/>
+    </surface>
+    <surface ulx="0" uly="0" lrx="2864" lry="3063">
+      <graphic url="JerusalemArabic67.pdf-344.jpg"/>
+    </surface>
+    <surface ulx="0" uly="0" lrx="2881" lry="3008">
+      <graphic url="JerusalemArabic67.pdf-345.jpg"/>
+    </surface>
+    <surface ulx="0" uly="0" lrx="2881" lry="3008">
+      <graphic url="JerusalemArabic67.pdf-346.jpg"/>
+    </surface>
+    <surface ulx="0" uly="0" lrx="2909" lry="3081">
+      <graphic url="JerusalemArabic67.pdf-347.jpg"/>
+    </surface>
+    <surface ulx="0" uly="0" lrx="2909" lry="3081">
+      <graphic url="JerusalemArabic67.pdf-348.jpg"/>
+    </surface>
+    <surface ulx="0" uly="0" lrx="2882" lry="3081">
+      <graphic url="JerusalemArabic67.pdf-349.jpg"/>
+    </surface>
+    <surface ulx="0" uly="0" lrx="2882" lry="3081">
+      <graphic url="JerusalemArabic67.pdf-350.jpg"/>
+    </surface>
+    <surface ulx="0" uly="0" lrx="2861" lry="3082">
+      <graphic url="JerusalemArabic67.pdf-351.jpg"/>
+    </surface>
+    <surface ulx="0" uly="0" lrx="2861" lry="3082">
+      <graphic url="JerusalemArabic67.pdf-352.jpg"/>
+      <zone ulx="2216" uly="1282" lrx="2217" lry="1283">
+        <note type="verseLoc">Mark 10:32</note>
+      </zone>
+    </surface>
+    <surface ulx="0" uly="0" lrx="2884" lry="3092">
+      <graphic url="JerusalemArabic67.pdf-353.jpg"/>
+    </surface>
+    <surface ulx="0" uly="0" lrx="2884" lry="3092">
+      <graphic url="JerusalemArabic67.pdf-354.jpg"/>
+      <zone ulx="2162" uly="544" lrx="2163" lry="545">
+        <note type="verseLoc">Mark 10:42</note>
+      </zone>
+      <zone ulx="1914" uly="906" lrx="1915" lry="907">
+        <note type="verseLoc">Mark 10:43</note>
+      </zone>
+      <zone ulx="2133" uly="1045" lrx="2134" lry="1046">
+        <note type="verseLoc">Mark 10:44</note>
+      </zone>
+      <zone ulx="1840" uly="1162" lrx="1841" lry="1163">
+        <note type="verseLoc">Mark 10:45</note>
+      </zone>
+    </surface>
+    <surface ulx="0" uly="0" lrx="2860" lry="3071">
+      <graphic url="JerusalemArabic67.pdf-355.jpg"/>
+    </surface>
+    <surface ulx="0" uly="0" lrx="2860" lry="3071">
+      <graphic url="JerusalemArabic67.pdf-356.jpg"/>
+    </surface>
+    <surface ulx="0" uly="0" lrx="2897" lry="3062">
+      <graphic url="JerusalemArabic67.pdf-357.jpg"/>
+    </surface>
+    <surface ulx="0" uly="0" lrx="2897" lry="3062">
+      <graphic url="JerusalemArabic67.pdf-358.jpg"/>
+    </surface>
+    <surface ulx="0" uly="0" lrx="2905" lry="3088">
+      <graphic url="JerusalemArabic67.pdf-359.jpg"/>
+    </surface>
+    <surface ulx="0" uly="0" lrx="2905" lry="3088">
+      <graphic url="JerusalemArabic67.pdf-360.jpg"/>
+    </surface>
+    <surface ulx="0" uly="0" lrx="2908" lry="3071">
+      <graphic url="JerusalemArabic67.pdf-361.jpg"/>
+    </surface>
+    <surface ulx="0" uly="0" lrx="2908" lry="3071">
+      <graphic url="JerusalemArabic67.pdf-362.jpg"/>
+    </surface>
+    <surface ulx="0" uly="0" lrx="2906" lry="3085">
+      <graphic url="JerusalemArabic67.pdf-363.jpg"/>
+    </surface>
+    <surface ulx="0" uly="0" lrx="2906" lry="3085">
+      <graphic url="JerusalemArabic67.pdf-364.jpg"/>
+    </surface>
+    <surface ulx="0" uly="0" lrx="2890" lry="3102">
+      <graphic url="JerusalemArabic67.pdf-365.jpg"/>
+    </surface>
+    <surface ulx="0" uly="0" lrx="2890" lry="3102">
+      <graphic url="JerusalemArabic67.pdf-366.jpg"/>
+    </surface>
+    <surface ulx="0" uly="0" lrx="2877" lry="3090">
+      <graphic url="JerusalemArabic67.pdf-367.jpg"/>
+    </surface>
+    <surface ulx="0" uly="0" lrx="2877" lry="3090">
+      <graphic url="JerusalemArabic67.pdf-368.jpg"/>
+    </surface>
+    <surface ulx="0" uly="0" lrx="2861" lry="3100">
+      <graphic url="JerusalemArabic67.pdf-369.jpg"/>
+    </surface>
+    <surface ulx="0" uly="0" lrx="2861" lry="3100">
+      <graphic url="JerusalemArabic67.pdf-370.jpg"/>
+    </surface>
+    <surface ulx="0" uly="0" lrx="2888" lry="3096">
+      <graphic url="JerusalemArabic67.pdf-371.jpg"/>
+    </surface>
+    <surface ulx="0" uly="0" lrx="2888" lry="3096">
+      <graphic url="JerusalemArabic67.pdf-372.jpg"/>
+    </surface>
+    <surface ulx="0" uly="0" lrx="2885" lry="3096">
+      <graphic url="JerusalemArabic67.pdf-373.jpg"/>
+    </surface>
+    <surface ulx="0" uly="0" lrx="2885" lry="3096">
+      <graphic url="JerusalemArabic67.pdf-374.jpg"/>
+    </surface>
+    <surface ulx="0" uly="0" lrx="2905" lry="3043">
+      <graphic url="JerusalemArabic67.pdf-375.jpg"/>
+    </surface>
+    <surface ulx="0" uly="0" lrx="2905" lry="3043">
+      <graphic url="JerusalemArabic67.pdf-376.jpg"/>
+    </surface>
+    <surface ulx="0" uly="0" lrx="2882" lry="3085">
+      <graphic url="JerusalemArabic67.pdf-377.jpg"/>
+    </surface>
+    <surface ulx="0" uly="0" lrx="2882" lry="3085">
+      <graphic url="JerusalemArabic67.pdf-378.jpg"/>
+    </surface>
+    <surface ulx="0" uly="0" lrx="2895" lry="3087">
+      <graphic url="JerusalemArabic67.pdf-379.jpg"/>
+    </surface>
+    <surface ulx="0" uly="0" lrx="2895" lry="3087">
+      <graphic url="JerusalemArabic67.pdf-380.jpg"/>
+    </surface>
+    <surface ulx="0" uly="0" lrx="2874" lry="3130">
+      <graphic url="JerusalemArabic67.pdf-381.jpg"/>
+    </surface>
+    <surface ulx="0" uly="0" lrx="2874" lry="3130">
+      <graphic url="JerusalemArabic67.pdf-382.jpg"/>
+    </surface>
+    <surface ulx="0" uly="0" lrx="2869" lry="3108">
+      <graphic url="JerusalemArabic67.pdf-383.jpg"/>
+    </surface>
+    <surface ulx="0" uly="0" lrx="2869" lry="3108">
+      <graphic url="JerusalemArabic67.pdf-384.jpg"/>
+    </surface>
+    <surface ulx="0" uly="0" lrx="2890" lry="3084">
+      <graphic url="JerusalemArabic67.pdf-385.jpg"/>
+    </surface>
+    <surface ulx="0" uly="0" lrx="2890" lry="3084">
+      <graphic url="JerusalemArabic67.pdf-386.jpg"/>
+    </surface>
+    <surface ulx="0" uly="0" lrx="2874" lry="3087">
+      <graphic url="JerusalemArabic67.pdf-387.jpg"/>
+    </surface>
+    <surface ulx="0" uly="0" lrx="2874" lry="3087">
+      <graphic url="JerusalemArabic67.pdf-388.jpg"/>
+    </surface>
+    <surface ulx="0" uly="0" lrx="2882" lry="3104">
+      <graphic url="JerusalemArabic67.pdf-389.jpg"/>
+    </surface>
+    <surface ulx="0" uly="0" lrx="2882" lry="3104">
+      <graphic url="JerusalemArabic67.pdf-390.jpg"/>
+    </surface>
+    <surface ulx="0" uly="0" lrx="2874" lry="3085">
+      <graphic url="JerusalemArabic67.pdf-391.jpg"/>
+    </surface>
+    <surface ulx="0" uly="0" lrx="2874" lry="3085">
+      <graphic url="JerusalemArabic67.pdf-392.jpg"/>
+    </surface>
+    <surface ulx="0" uly="0" lrx="2877" lry="3122">
+      <graphic url="JerusalemArabic67.pdf-393.jpg"/>
+    </surface>
+    <surface ulx="0" uly="0" lrx="2877" lry="3122">
+      <graphic url="JerusalemArabic67.pdf-394.jpg"/>
+    </surface>
+    <surface ulx="0" uly="0" lrx="2900" lry="3078">
+      <graphic url="JerusalemArabic67.pdf-395.jpg"/>
+    </surface>
+    <surface ulx="0" uly="0" lrx="2900" lry="3078">
+      <graphic url="JerusalemArabic67.pdf-396.jpg"/>
+    </surface>
+    <surface ulx="0" uly="0" lrx="2859" lry="3085">
+      <graphic url="JerusalemArabic67.pdf-397.jpg"/>
+    </surface>
+    <surface ulx="0" uly="0" lrx="2859" lry="3085">
+      <graphic url="JerusalemArabic67.pdf-398.jpg"/>
+    </surface>
+    <surface ulx="0" uly="0" lrx="2895" lry="3115">
+      <graphic url="JerusalemArabic67.pdf-399.jpg"/>
+    </surface>
+    <surface ulx="0" uly="0" lrx="2895" lry="3115">
+      <graphic url="JerusalemArabic67.pdf-400.jpg"/>
+    </surface>
+    <surface ulx="0" uly="0" lrx="2875" lry="3114">
+      <graphic url="JerusalemArabic67.pdf-401.jpg"/>
+    </surface>
+    <surface ulx="0" uly="0" lrx="2875" lry="3114">
+      <graphic url="JerusalemArabic67.pdf-402.jpg"/>
+    </surface>
+    <surface ulx="0" uly="0" lrx="2878" lry="3129">
+      <graphic url="JerusalemArabic67.pdf-403.jpg"/>
+    </surface>
+    <surface ulx="0" uly="0" lrx="2878" lry="3129">
+      <graphic url="JerusalemArabic67.pdf-404.jpg"/>
+    </surface>
+    <surface ulx="0" uly="0" lrx="2872" lry="3105">
+      <graphic url="JerusalemArabic67.pdf-405.jpg"/>
+    </surface>
+    <surface ulx="0" uly="0" lrx="2872" lry="3105">
+      <graphic url="JerusalemArabic67.pdf-406.jpg"/>
+    </surface>
+    <surface ulx="0" uly="0" lrx="2890" lry="3098">
+      <graphic url="JerusalemArabic67.pdf-407.jpg"/>
+    </surface>
+    <surface ulx="0" uly="0" lrx="2890" lry="3098">
+      <graphic url="JerusalemArabic67.pdf-408.jpg"/>
+    </surface>
+    <surface ulx="0" uly="0" lrx="2875" lry="3114">
+      <graphic url="JerusalemArabic67.pdf-409.jpg"/>
+    </surface>
+    <surface ulx="0" uly="0" lrx="2875" lry="3114">
+      <graphic url="JerusalemArabic67.pdf-410.jpg"/>
+    </surface>
+    <surface ulx="0" uly="0" lrx="2877" lry="3138">
+      <graphic url="JerusalemArabic67.pdf-411.jpg"/>
+    </surface>
+    <surface ulx="0" uly="0" lrx="2877" lry="3138">
+      <graphic url="JerusalemArabic67.pdf-412.jpg"/>
+    </surface>
+    <surface ulx="0" uly="0" lrx="2858" lry="3085">
+      <graphic url="JerusalemArabic67.pdf-413.jpg"/>
+    </surface>
+    <surface ulx="0" uly="0" lrx="2858" lry="3085">
+      <graphic url="JerusalemArabic67.pdf-414.jpg"/>
+    </surface>
+    <surface ulx="0" uly="0" lrx="2835" lry="3091">
+      <graphic url="JerusalemArabic67.pdf-415.jpg"/>
+    </surface>
+    <surface ulx="0" uly="0" lrx="2835" lry="3091">
+      <graphic url="JerusalemArabic67.pdf-416.jpg"/>
+    </surface>
+    <surface ulx="0" uly="0" lrx="2863" lry="3125">
+      <graphic url="JerusalemArabic67.pdf-417.jpg"/>
+    </surface>
+    <surface ulx="0" uly="0" lrx="2863" lry="3125">
+      <graphic url="JerusalemArabic67.pdf-418.jpg"/>
+    </surface>
+    <surface ulx="0" uly="0" lrx="2861" lry="3089">
+      <graphic url="JerusalemArabic67.pdf-419.jpg"/>
+    </surface>
+    <surface ulx="0" uly="0" lrx="2861" lry="3089">
+      <graphic url="JerusalemArabic67.pdf-420.jpg"/>
+    </surface>
+    <surface ulx="0" uly="0" lrx="2857" lry="3114">
+      <graphic url="JerusalemArabic67.pdf-421.jpg"/>
+    </surface>
+    <surface ulx="0" uly="0" lrx="2857" lry="3114">
+      <graphic url="JerusalemArabic67.pdf-422.jpg"/>
+    </surface>
+    <surface ulx="0" uly="0" lrx="2860" lry="3117">
+      <graphic url="JerusalemArabic67.pdf-423.jpg"/>
+    </surface>
+    <surface ulx="0" uly="0" lrx="2860" lry="3117">
+      <graphic url="JerusalemArabic67.pdf-424.jpg"/>
+    </surface>
+    <surface ulx="0" uly="0" lrx="2856" lry="3142">
+      <graphic url="JerusalemArabic67.pdf-425.jpg"/>
+    </surface>
+    <surface ulx="0" uly="0" lrx="2856" lry="3142">
+      <graphic url="JerusalemArabic67.pdf-426.jpg"/>
+    </surface>
+    <surface ulx="0" uly="0" lrx="2864" lry="3125">
+      <graphic url="JerusalemArabic67.pdf-427.jpg"/>
+    </surface>
+    <surface ulx="0" uly="0" lrx="2864" lry="3125">
+      <graphic url="JerusalemArabic67.pdf-428.jpg"/>
+    </surface>
+    <surface ulx="0" uly="0" lrx="2825" lry="3130">
+      <graphic url="JerusalemArabic67.pdf-429.jpg"/>
+    </surface>
+    <surface ulx="0" uly="0" lrx="2825" lry="3130">
+      <graphic url="JerusalemArabic67.pdf-430.jpg"/>
+    </surface>
+    <surface ulx="0" uly="0" lrx="2826" lry="3158">
+      <graphic url="JerusalemArabic67.pdf-431.jpg"/>
+    </surface>
+    <surface ulx="0" uly="0" lrx="2826" lry="3158">
+      <graphic url="JerusalemArabic67.pdf-432.jpg"/>
+    </surface>
+    <surface ulx="0" uly="0" lrx="2847" lry="3185">
+      <graphic url="JerusalemArabic67.pdf-433.jpg"/>
+    </surface>
+    <surface ulx="0" uly="0" lrx="2847" lry="3185">
+      <graphic url="JerusalemArabic67.pdf-434.jpg"/>
+    </surface>
+    <surface ulx="0" uly="0" lrx="2840" lry="3177">
+      <graphic url="JerusalemArabic67.pdf-435.jpg"/>
+    </surface>
+    <surface ulx="0" uly="0" lrx="2840" lry="3177">
+      <graphic url="JerusalemArabic67.pdf-436.jpg"/>
+    </surface>
+    <surface ulx="0" uly="0" lrx="2837" lry="3129">
+      <graphic url="JerusalemArabic67.pdf-437.jpg"/>
+    </surface>
+    <surface ulx="0" uly="0" lrx="2837" lry="3129">
+      <graphic url="JerusalemArabic67.pdf-438.jpg"/>
+    </surface>
+    <surface ulx="0" uly="0" lrx="2833" lry="3159">
+      <graphic url="JerusalemArabic67.pdf-439.jpg"/>
+    </surface>
+    <surface ulx="0" uly="0" lrx="2833" lry="3159">
+      <graphic url="JerusalemArabic67.pdf-440.jpg"/>
+    </surface>
+    <surface ulx="0" uly="0" lrx="2836" lry="3150">
+      <graphic url="JerusalemArabic67.pdf-441.jpg"/>
+    </surface>
+    <surface ulx="0" uly="0" lrx="2836" lry="3150">
+      <graphic url="JerusalemArabic67.pdf-442.jpg"/>
+    </surface>
+    <surface ulx="0" uly="0" lrx="2845" lry="3167">
+      <graphic url="JerusalemArabic67.pdf-443.jpg"/>
+    </surface>
+    <surface ulx="0" uly="0" lrx="2845" lry="3167">
+      <graphic url="JerusalemArabic67.pdf-444.jpg"/>
+    </surface>
+    <surface ulx="0" uly="0" lrx="2854" lry="3137">
+      <graphic url="JerusalemArabic67.pdf-445.jpg"/>
+    </surface>
+    <surface ulx="0" uly="0" lrx="2854" lry="3137">
+      <graphic url="JerusalemArabic67.pdf-446.jpg"/>
+    </surface>
+    <surface ulx="0" uly="0" lrx="2841" lry="3149">
+      <graphic url="JerusalemArabic67.pdf-447.jpg"/>
+    </surface>
+    <surface ulx="0" uly="0" lrx="2841" lry="3149">
+      <graphic url="JerusalemArabic67.pdf-448.jpg"/>
+    </surface>
+    <surface ulx="0" uly="0" lrx="2856" lry="3133">
+      <graphic url="JerusalemArabic67.pdf-449.jpg"/>
+    </surface>
+    <surface ulx="0" uly="0" lrx="2856" lry="3133">
+      <graphic url="JerusalemArabic67.pdf-450.jpg"/>
+    </surface>
+    <surface ulx="0" uly="0" lrx="2851" lry="3173">
+      <graphic url="JerusalemArabic67.pdf-451.jpg"/>
+    </surface>
+    <surface ulx="0" uly="0" lrx="2851" lry="3173">
+      <graphic url="JerusalemArabic67.pdf-452.jpg"/>
+    </surface>
+    <surface ulx="0" uly="0" lrx="2858" lry="3124">
+      <graphic url="JerusalemArabic67.pdf-453.jpg"/>
+    </surface>
+    <surface ulx="0" uly="0" lrx="2858" lry="3124">
+      <graphic url="JerusalemArabic67.pdf-454.jpg"/>
+    </surface>
+    <surface ulx="0" uly="0" lrx="2854" lry="3189">
+      <graphic url="JerusalemArabic67.pdf-455.jpg"/>
+      <zone ulx="1547" uly="1834" lrx="1548" lry="1835">
+        <note type="verseLoc">John 18:1</note>
+      </zone>
+    </surface>
+    <surface ulx="0" uly="0" lrx="2854" lry="3189">
+      <graphic url="JerusalemArabic67.pdf-456.jpg"/>
+    </surface>
+    <surface ulx="0" uly="0" lrx="2856" lry="3131">
+      <graphic url="JerusalemArabic67.pdf-457.jpg"/>
+    </surface>
+    <surface ulx="0" uly="0" lrx="2856" lry="3131">
+      <graphic url="JerusalemArabic67.pdf-458.jpg"/>
+      <zone ulx="1674" uly="1500" lrx="1675" lry="1501">
+        <note type="verseLoc">John 18:19</note>
+      </zone>
+      <zone ulx="1045" uly="1646" lrx="1046" lry="1647">
+        <note type="verseLoc">John 18:20</note>
+      </zone>
+      <zone ulx="1894" uly="2134" lrx="1895" lry="2135">
+        <note type="verseLoc">John 18:21</note>
+      </zone>
+    </surface>
+    <surface ulx="0" uly="0" lrx="2839" lry="3145">
+      <graphic url="JerusalemArabic67.pdf-459.jpg"/>
+      <zone ulx="416" uly="465" lrx="417" lry="466">
+        <note type="verseLoc">John 18:22</note>
+      </zone>
+      <zone ulx="1560" uly="851" lrx="1561" lry="852">
+        <note type="verseLoc">John 18:23</note>
+      </zone>
+      <zone ulx="1073" uly="1107" lrx="1074" lry="1108">
+        <note type="verseLoc">John 18:24</note>
+      </zone>
+      <zone ulx="726" uly="1223" lrx="727" lry="1224">
+        <note type="verseLoc">John 18:25</note>
+      </zone>
+      <zone ulx="403" uly="1472" lrx="404" lry="1473">
+        <note type="verseLoc">John 18:26</note>
+      </zone>
+      <zone ulx="994" uly="1848" lrx="995" lry="1849">
+        <note type="verseLoc">John 18:27</note>
+      </zone>
+      <zone ulx="885" uly="1973" lrx="886" lry="1974">
+        <note type="verseLoc">John 18:28</note>
+      </zone>
+    </surface>
+    <surface ulx="0" uly="0" lrx="2839" lry="3145">
+      <graphic url="JerusalemArabic67.pdf-460.jpg"/>
+    </surface>
+    <surface ulx="0" uly="0" lrx="2835" lry="3110">
+      <graphic url="JerusalemArabic67.pdf-461.jpg"/>
+    </surface>
+    <surface ulx="0" uly="0" lrx="2835" lry="3110">
+      <graphic url="JerusalemArabic67.pdf-462.jpg"/>
+    </surface>
+    <surface ulx="0" uly="0" lrx="2835" lry="3141">
+      <graphic url="JerusalemArabic67.pdf-463.jpg"/>
+    </surface>
+    <surface ulx="0" uly="0" lrx="2835" lry="3141">
+      <graphic url="JerusalemArabic67.pdf-464.jpg"/>
+    </surface>
+    <surface ulx="0" uly="0" lrx="2850" lry="3138">
+      <graphic url="JerusalemArabic67.pdf-465.jpg"/>
+    </surface>
+    <surface ulx="0" uly="0" lrx="2850" lry="3138">
+      <graphic url="JerusalemArabic67.pdf-466.jpg"/>
+    </surface>
+    <surface ulx="0" uly="0" lrx="2837" lry="3088">
+      <graphic url="JerusalemArabic67.pdf-467.jpg"/>
+    </surface>
+    <surface ulx="0" uly="0" lrx="2837" lry="3088">
+      <graphic url="JerusalemArabic67.pdf-468.jpg"/>
+    </surface>
+    <surface ulx="0" uly="0" lrx="2827" lry="3126">
+      <graphic url="JerusalemArabic67.pdf-469.jpg"/>
+    </surface>
+    <surface ulx="0" uly="0" lrx="2827" lry="3126">
+      <graphic url="JerusalemArabic67.pdf-470.jpg"/>
+    </surface>
+    <surface ulx="0" uly="0" lrx="2829" lry="3129">
+      <graphic url="JerusalemArabic67.pdf-471.jpg"/>
+    </surface>
+    <surface ulx="0" uly="0" lrx="2829" lry="3129">
+      <graphic url="JerusalemArabic67.pdf-472.jpg"/>
+    </surface>
+    <surface ulx="0" uly="0" lrx="2830" lry="3127">
+      <graphic url="JerusalemArabic67.pdf-473.jpg"/>
+    </surface>
+    <surface ulx="0" uly="0" lrx="2830" lry="3127">
+      <graphic url="JerusalemArabic67.pdf-474.jpg"/>
+    </surface>
+    <surface ulx="0" uly="0" lrx="2819" lry="3134">
+      <graphic url="JerusalemArabic67.pdf-475.jpg"/>
+    </surface>
+    <surface ulx="0" uly="0" lrx="2819" lry="3134">
+      <graphic url="JerusalemArabic67.pdf-476.jpg"/>
+    </surface>
+    <surface ulx="0" uly="0" lrx="2806" lry="3135">
+      <graphic url="JerusalemArabic67.pdf-477.jpg"/>
+    </surface>
+    <surface ulx="0" uly="0" lrx="2806" lry="3135">
+      <graphic url="JerusalemArabic67.pdf-478.jpg"/>
+    </surface>
+    <surface ulx="0" uly="0" lrx="2804" lry="3136">
+      <graphic url="JerusalemArabic67.pdf-479.jpg"/>
+    </surface>
+    <surface ulx="0" uly="0" lrx="2804" lry="3136">
+      <graphic url="JerusalemArabic67.pdf-480.jpg"/>
+    </surface>
+    <surface ulx="0" uly="0" lrx="2822" lry="3170">
+      <graphic url="JerusalemArabic67.pdf-481.jpg"/>
+    </surface>
+    <surface ulx="0" uly="0" lrx="2822" lry="3170">
+      <graphic url="JerusalemArabic67.pdf-482.jpg"/>
+    </surface>
+    <surface ulx="0" uly="0" lrx="2798" lry="3147">
+      <graphic url="JerusalemArabic67.pdf-483.jpg"/>
+    </surface>
+    <surface ulx="0" uly="0" lrx="2798" lry="3147">
+      <graphic url="JerusalemArabic67.pdf-484.jpg"/>
+    </surface>
+    <surface ulx="0" uly="0" lrx="2832" lry="3159">
+      <graphic url="JerusalemArabic67.pdf-485.jpg"/>
+    </surface>
+    <surface ulx="0" uly="0" lrx="2832" lry="3159">
+      <graphic url="JerusalemArabic67.pdf-486.jpg"/>
+    </surface>
+    <surface ulx="0" uly="0" lrx="2801" lry="3143">
+      <graphic url="JerusalemArabic67.pdf-487.jpg"/>
+    </surface>
+    <surface ulx="0" uly="0" lrx="2801" lry="3143">
+      <graphic url="JerusalemArabic67.pdf-488.jpg"/>
+      <zone ulx="1205" uly="824" lrx="1206" lry="825">
+        <note type="verseLoc">Matthew 28:1</note>
+      </zone>
+    </surface>
+    <surface ulx="0" uly="0" lrx="2791" lry="3114">
+      <graphic url="JerusalemArabic67.pdf-489.jpg"/>
+    </surface>
+    <surface ulx="0" uly="0" lrx="2791" lry="3114">
+      <graphic url="JerusalemArabic67.pdf-490.jpg"/>
+    </surface>
+    <surface ulx="0" uly="0" lrx="2809" lry="3125">
+      <graphic url="JerusalemArabic67.pdf-491.jpg"/>
+    </surface>
+    <surface ulx="0" uly="0" lrx="2809" lry="3125">
+      <graphic url="JerusalemArabic67.pdf-492.jpg"/>
+    </surface>
+    <surface ulx="0" uly="0" lrx="2819" lry="3147">
+      <graphic url="JerusalemArabic67.pdf-493.jpg"/>
+    </surface>
+    <surface ulx="0" uly="0" lrx="2819" lry="3147">
+      <graphic url="JerusalemArabic67.pdf-494.jpg"/>
+      <zone ulx="1396" uly="940" lrx="1397" lry="941">
+        <note type="verseLoc">Matthew 28:16</note>
+      </zone>
+      <zone ulx="1975" uly="1276" lrx="1976" lry="1277">
+        <note type="verseLoc">Matthew 28:17</note>
+      </zone>
+      <zone ulx="1999" uly="1665" lrx="2000" lry="1666">
+        <note type="verseLoc">Matthew 28:19</note>
+      </zone>
+      <zone ulx="843" uly="1792" lrx="844" lry="1793">
+        <note type="verseLoc">Matthew 28:20</note>
+      </zone>
+    </surface>
+    <surface ulx="0" uly="0" lrx="2800" lry="3144">
+      <graphic url="JerusalemArabic67.pdf-495.jpg"/>
+    </surface>
+    <surface ulx="0" uly="0" lrx="2800" lry="3144">
+      <graphic url="JerusalemArabic67.pdf-496.jpg"/>
+    </surface>
+    <surface ulx="0" uly="0" lrx="2797" lry="3133">
+      <graphic url="JerusalemArabic67.pdf-497.jpg"/>
+    </surface>
+    <surface ulx="0" uly="0" lrx="2797" lry="3133">
+      <graphic url="JerusalemArabic67.pdf-498.jpg"/>
+    </surface>
+    <surface ulx="0" uly="0" lrx="2774" lry="3095">
+      <graphic url="JerusalemArabic67.pdf-499.jpg"/>
+    </surface>
+    <surface ulx="0" uly="0" lrx="2774" lry="3095">
+      <graphic url="JerusalemArabic67.pdf-500.jpg"/>
+    </surface>
+    <surface ulx="0" uly="0" lrx="2794" lry="3153">
+      <graphic url="JerusalemArabic67.pdf-501.jpg"/>
+    </surface>
+    <surface ulx="0" uly="0" lrx="2794" lry="3153">
+      <graphic url="JerusalemArabic67.pdf-502.jpg"/>
+    </surface>
+    <surface ulx="0" uly="0" lrx="2800" lry="3188">
+      <graphic url="JerusalemArabic67.pdf-503.jpg"/>
+    </surface>
+    <surface ulx="0" uly="0" lrx="2800" lry="3188">
+      <graphic url="JerusalemArabic67.pdf-504.jpg"/>
+    </surface>
+    <surface ulx="0" uly="0" lrx="2819" lry="3170">
+      <graphic url="JerusalemArabic67.pdf-505.jpg"/>
+    </surface>
+    <surface ulx="0" uly="0" lrx="2819" lry="3170">
+      <graphic url="JerusalemArabic67.pdf-506.jpg"/>
+    </surface>
+    <surface ulx="0" uly="0" lrx="2797" lry="3153">
+      <graphic url="JerusalemArabic67.pdf-507.jpg"/>
+    </surface>
+    <surface ulx="0" uly="0" lrx="2797" lry="3153">
+      <graphic url="JerusalemArabic67.pdf-508.jpg"/>
+    </surface>
+    <surface ulx="0" uly="0" lrx="2827" lry="3157">
+      <graphic url="JerusalemArabic67.pdf-509.jpg"/>
+    </surface>
+    <surface ulx="0" uly="0" lrx="2827" lry="3157">
+      <graphic url="JerusalemArabic67.pdf-510.jpg"/>
+    </surface>
+    <surface ulx="0" uly="0" lrx="2813" lry="3119">
+      <graphic url="JerusalemArabic67.pdf-511.jpg"/>
+    </surface>
+    <surface ulx="0" uly="0" lrx="2813" lry="3119">
+      <graphic url="JerusalemArabic67.pdf-512.jpg"/>
+    </surface>
+    <surface ulx="0" uly="0" lrx="2840" lry="3156">
+      <graphic url="JerusalemArabic67.pdf-513.jpg"/>
+    </surface>
+    <surface ulx="0" uly="0" lrx="2840" lry="3156">
+      <graphic url="JerusalemArabic67.pdf-514.jpg"/>
+    </surface>
+    <surface ulx="0" uly="0" lrx="2806" lry="3138">
+      <graphic url="JerusalemArabic67.pdf-515.jpg"/>
+    </surface>
+    <surface ulx="0" uly="0" lrx="2806" lry="3138">
+      <graphic url="JerusalemArabic67.pdf-516.jpg"/>
+    </surface>
+    <surface ulx="0" uly="0" lrx="2805" lry="3191">
+      <graphic url="JerusalemArabic67.pdf-517.jpg"/>
+    </surface>
+    <surface ulx="0" uly="0" lrx="2805" lry="3191">
+      <graphic url="JerusalemArabic67.pdf-518.jpg"/>
+    </surface>
+    <surface ulx="0" uly="0" lrx="2819" lry="3171">
+      <graphic url="JerusalemArabic67.pdf-519.jpg"/>
+    </surface>
+    <surface ulx="0" uly="0" lrx="2819" lry="3171">
+      <graphic url="JerusalemArabic67.pdf-520.jpg"/>
+    </surface>
+    <surface ulx="0" uly="0" lrx="2819" lry="3193">
+      <graphic url="JerusalemArabic67.pdf-521.jpg"/>
+    </surface>
+    <surface ulx="0" uly="0" lrx="2819" lry="3193">
+      <graphic url="JerusalemArabic67.pdf-522.jpg"/>
+    </surface>
+    <surface ulx="0" uly="0" lrx="2791" lry="3105">
+      <graphic url="JerusalemArabic67.pdf-523.jpg"/>
+    </surface>
+    <surface ulx="0" uly="0" lrx="2791" lry="3105">
+      <graphic url="JerusalemArabic67.pdf-524.jpg"/>
+    </surface>
+    <surface ulx="0" uly="0" lrx="2777" lry="3125">
+      <graphic url="JerusalemArabic67.pdf-525.jpg"/>
+    </surface>
+    <surface ulx="0" uly="0" lrx="2777" lry="3125">
+      <graphic url="JerusalemArabic67.pdf-526.jpg"/>
+    </surface>
+    <surface ulx="0" uly="0" lrx="2780" lry="3134">
+      <graphic url="JerusalemArabic67.pdf-527.jpg"/>
+    </surface>
+    <surface ulx="0" uly="0" lrx="2780" lry="3134">
+      <graphic url="JerusalemArabic67.pdf-528.jpg"/>
+    </surface>
+    <surface ulx="0" uly="0" lrx="2748" lry="3103">
+      <graphic url="JerusalemArabic67.pdf-529.jpg"/>
+    </surface>
+    <surface ulx="0" uly="0" lrx="2748" lry="3103">
+      <graphic url="JerusalemArabic67.pdf-530.jpg"/>
+    </surface>
+    <surface ulx="0" uly="0" lrx="2778" lry="3162">
+      <graphic url="JerusalemArabic67.pdf-531.jpg"/>
+    </surface>
+    <surface ulx="0" uly="0" lrx="2778" lry="3162">
+      <graphic url="JerusalemArabic67.pdf-532.jpg"/>
+    </surface>
+    <surface ulx="0" uly="0" lrx="2740" lry="3114">
+      <graphic url="JerusalemArabic67.pdf-533.jpg"/>
+    </surface>
+    <surface ulx="0" uly="0" lrx="2740" lry="3114">
+      <graphic url="JerusalemArabic67.pdf-534.jpg"/>
+    </surface>
+    <surface ulx="0" uly="0" lrx="2745" lry="3145">
+      <graphic url="JerusalemArabic67.pdf-535.jpg"/>
+    </surface>
+    <surface ulx="0" uly="0" lrx="2745" lry="3145">
+      <graphic url="JerusalemArabic67.pdf-536.jpg"/>
+    </surface>
+    <surface ulx="0" uly="0" lrx="2777" lry="3138">
+      <graphic url="JerusalemArabic67.pdf-537.jpg"/>
+    </surface>
+    <surface ulx="0" uly="0" lrx="2777" lry="3138">
+      <graphic url="JerusalemArabic67.pdf-538.jpg"/>
+    </surface>
+  </facsimile>
+  <text>
+    <body>
+      <ab n="B01K7V15">احتفظوا من الانبيا الكذبه. الذين ياتوكم بلباس الخراف. وهم من داخل ذياب ضاريه.</ab>
+      <ab n="B01K7V16">ومن اثمارهم تعرفوهم. لعل يلقطون من الشوك عنبًا. او من الشربين<note type="editorial">Uncertain</note> تينا.</ab>
+      <ab n="B01K7V17">كذلك كل شجرة طيبه. تخرج اثمارًا طيبه. وكل ثمرة رديه</ab>
+      <ab n="B01K7V18">لا تستطيع تصنع ثمرًا صالحًا حقًا</ab>
+      <ab n="B01K14V15">فلما كان المسا تقدموا اليه تلاميذه وقالوا له. ان المكان قفر وقد جاز النهار خلي الجمع. لكي يذهبوا الي القري المحيطه ليشتروا لهم طعامًا.</ab>
+      <ab n="B01K14V16">وان ايسوع قال لهم. ليس يحتاجون ان يذهبوا. اعطوهم انتم ياكلوا.</ab>
+      <ab n="B01K14V17">وانهم قالوا ليس لنا هاهنا الا خمسه خبزات وحوتين.</ab>
+      <ab n="B01K14V18">وانه قال لهم. اتوا بهم الي هاهنا.</ab>
+      <ab n="B01K28V16">في ذلك الزمان. وان الاحد عشر تلميذ مضوا الي الجليل الي<note type="editorial">Uncertain</note> الجبل حيث اوصاهم الرب ايسوع.</ab>
+      <ab n="B01K28V17">فلما راوه<note type="editorial">vid</note> سجدوا له ومنهم من شكك</ab>
+      <ab n="B01K28V18">فتقدم ايسوع وكلمهم قايلا قد عطيت كل<note type="editorial">Uncertain</note> سلطان علي ما في السما والارض.</ab>
+      <ab n="B01K28V19"><gap/>بوا وتلمذوا جميع الامم وعمدوهم بسم الاب والابن والروح القدس.</ab>
+      <ab n="B01K28V20">و<gap/> ان تحفضوا جميع ما اوصيتكم به. وهانذا انا معكم كل الايام والي انقضا الدهر امين.</ab>
+      <ab n="B02K1V36">فتبعه سمعان والذين كانوا معه.</ab>
+      <ab n="B02K1V37">فلما وجدوه قالوا له الكل <gap/></ab>
+      <ab n="B02K1V38">فقال لهم اذهبوا بنا الي المدن والقر<gap/> لكي اكرز هناك. لاني لهذا خرجت.</ab>
+      <ab n="B02K1V39">وكان يكرز في جماعاتهم. وفى <gap/> الجليل. ويخرج الشياطين.</ab>
+      <ab n="B02K7V31">وخرج ايضً ايسوع من اتخمة صور وصيدا. وجا الي بحر الجليل بين اتخمه مدينه العشر.</ab>
+      <ab n="B02K7V32">فقربوا اليه لجلاج اخرس. فطلبوا <gap/>ي يوضع يده عليه.</ab>
+      <ab n="B02K7V33">فاخذه بين الجماعه.<note type="editorial">vid</note></ab>
+      <ab n="B02K7V34">ورفع نضره<note type="editorial">Uncertain</note> الي السما وتنهد وقال انفثا<note type="editorial">vid</note>. الذي هو انفتاح.</ab>
+      <ab n="B02K10V42">وان ايسوع دعاهم وقال لهم. اما علمتم ان الذين<note type="editorial">vid</note> يظنون انهم<note type="editorial">Uncertain</note> ريسا الامم. <gap/>ن عليهم. وعظماهم يتسلطون عليهم<note type="editorial">vid</note></ab>
+      <ab n="B02K10V43">وليس هكذي تكونوا. ولكن <note type="editorial">homeoteleuton</note></ab>
+      <ab n="B02K10V44"><gap/>يد ان يكون اولكم فليكن <gap/>دا.</ab>
+      <ab n="B02K10V45">لان ابن البشر لم ياتي ليخدم. <gap/>دم ويجعل نفسه فدًا عن كثيرين.</ab>
+      <ab n="B03K8V9">فسالوه تلاميذه قايلين. ما هذا المثل.</ab>
+      <ab n="B03K8V10">وانه قال لهم لكم اعطي علم اسرار ملكوة الله. واما البقيه بامثال. لكي يبصرون ولا يبصرون. ويسمعون  ولا يفهمون</ab>
+      <ab n="B03K8V11">هذا هو المثل. ان الزارع هو كلمه الذى<note type="editorial">Uncertain</note> لله.</ab>
+      <ab n="B03K8V12">والذي سقط علي الطريق هم الذين يسمعون الكلمه. فياتي الشيطان ياخذ الكلمه من قلوبهم. لكي لا يومنون فيخلصون</ab>
+      <ab n="B03K8V13">واما الذي سقط علي الصخره. فهم الذين اذا سمعوا<note type="editorial">Uncertain</note> الكلمه يقبلوها بفرح وليس لهولي اصل. الذين انما يومنون الي زمان وفي حين البلايا<note type="editorial">Uncertain</note> يكفروا.</ab>
+      <ab n="B03K8V14">واما الذي سقط في الشوك فهم الذين<note type="editorial">Uncertain</note> اذا سمعوا الكلمه وهم <note type="editorial">superscript: فى</note> هموم وغنا ولذات الدنيا ذاهبين يختنقوا ولا يثمروا ثمرتهم.</ab>
+      <ab n="B03K8V15">واما<note type="editorial">Uncertain</note> الذي سقط في الارض الصالحه فهم هولى الذين يسمعون الكلمه بقلب طيب صالح فيحفضوها ويثمروا بالصبر. فلما قال هذا صاح قايلا. من كان له اذنين يسمع<note type="editorial">Uncertain</note> فليسمع<note type="editorial">Uncertain</note></ab>
+      <ab n="B03K15V11">قال الرب هذا المثل. انسان كان له ابنان.</ab>
+      <ab n="B03K15V12">فقال<note type="editorial">vid</note> الابن الاصغر منهم لابيه. يا ابتاه. اعطينى<note type="editorial">vid</note> ما يصير لي نصيب من مالك. فقسم ابينهم<note type="editorial">Uncertain</note> ماله.</ab>
+      <ab n="B03K15V13">والي بعد ايام يسيره<note type="editorial">Uncertain</note>. جمع<note type="editorial">vid</note> ذلك الشاب كل شي له وسافر. الي <gap/>د بعيده. وفرق هنالك ماله.</ab>
+      <ab n="B03K15V14">فلما اهلك كل شي <note type="editorial">superscript: كان</note> له واقتناه<note type="editorial">Uncertain</note>. ثم اصاب تلك الارض جوعًا شديدًا. فجعل يتندم<note type="editorial">Uncertain</note> يتنقص<note type="editorial">Uncertain</note>.</ab>
+      <ab n="B03K15V15">وذهب فانقطع<note type="editorial">Uncertain</note> الي انسان من اشرف تلك البلاد. فارسله ذلك الشريف الي قرية له. يرعا له خنازير.</ab>
+      <ab n="B03K15V16">وكان يشتهي ان يملا بطنه من الخرنوب الذي كانت تاكله الخنازير. فلم يكن احد يعطيه.</ab>
+      <ab n="B03K15V17">فلما رجع الي نفسه قال كم اجير في بيت<note type="editorial">Uncertain</note> ابي يفضل منه الخبز. وانا هاهنا اهلك جوعًا.</ab>
+      <ab n="B03K15V18">اقوم اذهب الي ابي واقول<note type="editorial">vid</note> له يا ابتاه قد اخطيت في السما وبين يديك.</ab>
+      <ab n="B03K15V19">ولست <note type="editorial">superscript: انا</note> باهل ان ادعا لك ابنا<note type="editorial">vid</note> اجعلني كاحد اجراك.</ab>
+      <ab n="B03K15V20">فسار الي ابيه فلما راه ابوه من بعيد رحمه وسار اليه واعتنقه وقبله.</ab>
+      <ab n="B03K24V50">واخرجهم الي بيت عنيا. ورفع يديه وباركهم.</ab>
+      <ab n="B03K24V51">وفيما هو يباركهم. تنحا منهم وصعد الي السما علي السحاب.</ab>
+      <ab n="B03K24V52">ثم انهم حينيذ سجدوا له. ورجعوا الي اورشليم بفرحًا عظيم.</ab>
+      <ab n="B03K24V53">وكانوا في الهيكل كل يوم. يباكرون الله.</ab>
+      <ab n="B04K6V30">فقالوا له اي ايه تصنع حتي نري ونومن بك. ماذا تعمل.</ab>
+      <ab n="B04K6V31">ان اباونا اكلوا المن في البريه. كما هو مكتوب خبز السما اعطاهم لياكلوا.</ab>
+      <ab n="B04K6V32">قال لهم ايسوع الحق الحق اقول لكم. ان ليس موسي اعطاكم المن. لكن ابي اعطاكم خبز السما.</ab>
+      <ab n="B04K6V33">ان خبز الله هذا الذى من السما نزل. واعطي الحياه للعالم.</ab>
+      <ab n="B04K18V19">وكان راس الكهنه سال ايسوع عن<note type="editorial">vid</note> تلاميذه وعن تعليمه.</ab>
+      <ab n="B04K18V20">اجاب ايسوع قايلا انا كلمت العالم علانيه. انا في كل حين في الجموع والهيكل حيث تجتمع اليهود كلهم. وفي خفيه شي لم<note type="editorial">Uncertain</note> اتكلم</ab>
+      <ab n="B04K18V21">لم تسالني // سال الذين سمعوا اي شي كلمتكم. وهولي يعلمون ما قلت انا.</ab>
+      <ab n="B04K18V22">فلما<note type="editorial">vid</note> قال هذا لطمه احد الخدام كان هنالك. وقال له هكذا تجيب لراس<note type="editorial">Uncertain</note> الكهنه.</ab>
+      <ab n="B04K18V23">وان ايسوع قال له ان كنت بيس ما تكلمت فاشهد علي بالبيس. وان كنت نعما تكلمت فلماذا تلطمني.</ab>
+      <ab n="B04K18V24">فارسل به حناس مربوطا الي قايافا راس الكهنه.</ab>
+      <ab n="B04K18V25">وكان سمعان<note type="editorial">Uncertain</note> بطرس قايما<note type="editorial">Uncertain</note> يتدفا. فقالو له لعلك انت من تلاميذه. فكفر ذلك وقال لست انا.</ab>
+      <ab n="B04K18V26">فقال له واحد من عبيد راس الكهنه وكان نسيب الذي قطع بطرس اذنه. انا رايتك في البستان معه.</ab>
+      <ab n="B04K18V27">فكفر ايضا بطرس وللوقت صاح الديك.</ab>
+    </body>
+  </text>
+</TEI>
+

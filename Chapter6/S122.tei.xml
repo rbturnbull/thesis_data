@@ -1,0 +1,2759 @@
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Transcription of Sinai ar. 122 (esk2C)</title>
+      </titleStmt>
+      <publicationStmt>
+        <p>Generated on 2020-11-28 13:27:11.578128 using D-Codex.</p>
+      </publicationStmt>
+      <sourceDesc>
+        <p>S122: Sinai ar. 122 (esk2C)</p>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <facsimile>
+    <surface ulx="0" uly="0" lrx="2818" lry="3381">
+      <graphic url="SinaiArabic122.pdf-1.jpg"/>
+    </surface>
+    <surface ulx="0" uly="0" lrx="2818" lry="3381">
+      <graphic url="SinaiArabic122.pdf-2.jpg"/>
+    </surface>
+    <surface ulx="0" uly="0" lrx="2798" lry="3425">
+      <graphic url="SinaiArabic122.pdf-3.jpg"/>
+    </surface>
+    <surface ulx="0" uly="0" lrx="2798" lry="3425">
+      <graphic url="SinaiArabic122.pdf-4.jpg"/>
+    </surface>
+    <surface ulx="0" uly="0" lrx="2543" lry="3541">
+      <graphic url="SinaiArabic122.pdf-5.jpg"/>
+    </surface>
+    <surface ulx="0" uly="0" lrx="2543" lry="3541">
+      <graphic url="SinaiArabic122.pdf-6.jpg"/>
+    </surface>
+    <surface ulx="0" uly="0" lrx="2586" lry="3534">
+      <graphic url="SinaiArabic122.pdf-7.jpg"/>
+    </surface>
+    <surface ulx="0" uly="0" lrx="2586" lry="3534">
+      <graphic url="SinaiArabic122.pdf-8.jpg"/>
+    </surface>
+    <surface ulx="0" uly="0" lrx="2582" lry="3524">
+      <graphic url="SinaiArabic122.pdf-9.jpg"/>
+    </surface>
+    <surface ulx="0" uly="0" lrx="2582" lry="3524">
+      <graphic url="SinaiArabic122.pdf-10.jpg"/>
+    </surface>
+    <surface ulx="0" uly="0" lrx="2597" lry="3542">
+      <graphic url="SinaiArabic122.pdf-11.jpg"/>
+    </surface>
+    <surface ulx="0" uly="0" lrx="2597" lry="3542">
+      <graphic url="SinaiArabic122.pdf-12.jpg"/>
+      <zone ulx="0" uly="1314" lrx="1" lry="1315">
+        <note type="verseLoc">John 1:1</note>
+      </zone>
+      <zone ulx="0" uly="1452" lrx="1" lry="1453">
+        <note type="verseLoc">John 1:2</note>
+      </zone>
+      <zone ulx="0" uly="1428" lrx="1" lry="1429">
+        <note type="verseLoc">John 1:3</note>
+      </zone>
+      <zone ulx="1534" uly="1549" lrx="1535" lry="1550">
+        <note type="verseLoc">John 1:4</note>
+      </zone>
+      <zone ulx="1901" uly="1713" lrx="1902" lry="1714">
+        <note type="verseLoc">John 1:5</note>
+      </zone>
+      <zone ulx="796" uly="1667" lrx="797" lry="1668">
+        <note type="verseLoc">John 1:6</note>
+      </zone>
+      <zone ulx="1306" uly="1821" lrx="1307" lry="1822">
+        <note type="verseLoc">John 1:7</note>
+      </zone>
+      <zone ulx="1216" uly="1945" lrx="1217" lry="1946">
+        <note type="verseLoc">John 1:8</note>
+      </zone>
+    </surface>
+    <surface ulx="0" uly="0" lrx="2617" lry="3516">
+      <graphic url="SinaiArabic122.pdf-13.jpg"/>
+      <zone ulx="1357" uly="303" lrx="1358" lry="304">
+        <note type="verseLoc">John 1:9</note>
+      </zone>
+      <zone ulx="1105" uly="434" lrx="1106" lry="435">
+        <note type="verseLoc">John 1:10</note>
+      </zone>
+      <zone ulx="962" uly="555" lrx="963" lry="556">
+        <note type="verseLoc">John 1:11</note>
+      </zone>
+      <zone ulx="0" uly="1057" lrx="1" lry="1058">
+        <note type="verseLoc">John 1:14</note>
+      </zone>
+      <zone ulx="0" uly="1170" lrx="1" lry="1171">
+        <note type="verseLoc">John 1:15</note>
+      </zone>
+      <zone ulx="0" uly="1421" lrx="1" lry="1422">
+        <note type="verseLoc">John 1:16</note>
+      </zone>
+      <zone ulx="0" uly="1550" lrx="1" lry="1551">
+        <note type="verseLoc">John 1:17</note>
+      </zone>
+    </surface>
+    <surface ulx="0" uly="0" lrx="2617" lry="3516">
+      <graphic url="SinaiArabic122.pdf-14.jpg"/>
+    </surface>
+    <surface ulx="0" uly="0" lrx="2605" lry="3495">
+      <graphic url="SinaiArabic122.pdf-15.jpg"/>
+    </surface>
+    <surface ulx="0" uly="0" lrx="2605" lry="3495">
+      <graphic url="SinaiArabic122.pdf-16.jpg"/>
+    </surface>
+    <surface ulx="0" uly="0" lrx="2633" lry="3461">
+      <graphic url="SinaiArabic122.pdf-17.jpg"/>
+      <zone ulx="0" uly="550" lrx="1" lry="551">
+        <note type="verseLoc">John 1:18</note>
+      </zone>
+    </surface>
+    <surface ulx="0" uly="0" lrx="2633" lry="3461">
+      <graphic url="SinaiArabic122.pdf-18.jpg"/>
+      <zone ulx="0" uly="257" lrx="1" lry="258">
+        <note type="verseLoc">John 1:28</note>
+      </zone>
+    </surface>
+    <surface ulx="0" uly="0" lrx="2611" lry="3483">
+      <graphic url="SinaiArabic122.pdf-19.jpg"/>
+      <zone ulx="0" uly="1540" lrx="1" lry="1541">
+        <note type="verseLoc">Luke 24:12</note>
+      </zone>
+      <zone ulx="0" uly="1759" lrx="1" lry="1760">
+        <note type="verseLoc">Luke 24:13</note>
+      </zone>
+      <zone ulx="0" uly="2000" lrx="1" lry="2001">
+        <note type="verseLoc">Luke 24:14</note>
+      </zone>
+    </surface>
+    <surface ulx="0" uly="0" lrx="2611" lry="3483">
+      <graphic url="SinaiArabic122.pdf-20.jpg"/>
+      <zone ulx="0" uly="416" lrx="1" lry="417">
+        <note type="verseLoc">Luke 24:15</note>
+      </zone>
+      <zone ulx="0" uly="528" lrx="1" lry="529">
+        <note type="verseLoc">Luke 24:16</note>
+      </zone>
+      <zone ulx="0" uly="644" lrx="1" lry="645">
+        <note type="verseLoc">Luke 24:17</note>
+      </zone>
+    </surface>
+    <surface ulx="0" uly="0" lrx="2629" lry="3476">
+      <graphic url="SinaiArabic122.pdf-21.jpg"/>
+      <zone ulx="0" uly="1892" lrx="1" lry="1893">
+        <note type="verseLoc">Luke 24:35</note>
+      </zone>
+    </surface>
+    <surface ulx="0" uly="0" lrx="2629" lry="3476">
+      <graphic url="SinaiArabic122.pdf-22.jpg"/>
+    </surface>
+    <surface ulx="0" uly="0" lrx="2617" lry="3487">
+      <graphic url="SinaiArabic122.pdf-23.jpg"/>
+    </surface>
+    <surface ulx="0" uly="0" lrx="2617" lry="3487">
+      <graphic url="SinaiArabic122.pdf-24.jpg"/>
+    </surface>
+    <surface ulx="0" uly="0" lrx="2668" lry="3476">
+      <graphic url="SinaiArabic122.pdf-25.jpg"/>
+    </surface>
+    <surface ulx="0" uly="0" lrx="2668" lry="3476">
+      <graphic url="SinaiArabic122.pdf-26.jpg"/>
+    </surface>
+    <surface ulx="0" uly="0" lrx="2659" lry="3514">
+      <graphic url="SinaiArabic122.pdf-27.jpg"/>
+    </surface>
+    <surface ulx="0" uly="0" lrx="2659" lry="3514">
+      <graphic url="SinaiArabic122.pdf-28.jpg"/>
+    </surface>
+    <surface ulx="0" uly="0" lrx="2653" lry="3493">
+      <graphic url="SinaiArabic122.pdf-29.jpg"/>
+    </surface>
+    <surface ulx="0" uly="0" lrx="2653" lry="3493">
+      <graphic url="SinaiArabic122.pdf-30.jpg"/>
+    </surface>
+    <surface ulx="0" uly="0" lrx="2663" lry="3524">
+      <graphic url="SinaiArabic122.pdf-31.jpg"/>
+    </surface>
+    <surface ulx="0" uly="0" lrx="2663" lry="3524">
+      <graphic url="SinaiArabic122.pdf-32.jpg"/>
+    </surface>
+    <surface ulx="0" uly="0" lrx="2677" lry="3482">
+      <graphic url="SinaiArabic122.pdf-33.jpg"/>
+      <zone ulx="0" uly="604" lrx="1" lry="605">
+        <note type="verseLoc">John 20:19</note>
+      </zone>
+      <zone ulx="0" uly="989" lrx="1" lry="990">
+        <note type="verseLoc">John 20:20</note>
+      </zone>
+      <zone ulx="0" uly="1118" lrx="1" lry="1119">
+        <note type="verseLoc">John 20:21</note>
+      </zone>
+      <zone ulx="0" uly="1225" lrx="1" lry="1226">
+        <note type="verseLoc">John 20:22</note>
+      </zone>
+      <zone ulx="0" uly="1353" lrx="1" lry="1354">
+        <note type="verseLoc">John 20:23</note>
+      </zone>
+    </surface>
+    <surface ulx="0" uly="0" lrx="2677" lry="3482">
+      <graphic url="SinaiArabic122.pdf-34.jpg"/>
+      <zone ulx="0" uly="1327" lrx="1" lry="1328">
+        <note type="verseLoc">John 20:31</note>
+      </zone>
+    </surface>
+    <surface ulx="0" uly="0" lrx="2660" lry="3478">
+      <graphic url="SinaiArabic122.pdf-35.jpg"/>
+    </surface>
+    <surface ulx="0" uly="0" lrx="2660" lry="3478">
+      <graphic url="SinaiArabic122.pdf-36.jpg"/>
+    </surface>
+    <surface ulx="0" uly="0" lrx="2693" lry="3558">
+      <graphic url="SinaiArabic122.pdf-37.jpg"/>
+    </surface>
+    <surface ulx="0" uly="0" lrx="2693" lry="3558">
+      <graphic url="SinaiArabic122.pdf-38.jpg"/>
+    </surface>
+    <surface ulx="0" uly="0" lrx="2672" lry="3573">
+      <graphic url="SinaiArabic122.pdf-39.jpg"/>
+    </surface>
+    <surface ulx="0" uly="0" lrx="2672" lry="3573">
+      <graphic url="SinaiArabic122.pdf-40.jpg"/>
+    </surface>
+    <surface ulx="0" uly="0" lrx="2683" lry="3610">
+      <graphic url="SinaiArabic122.pdf-41.jpg"/>
+      <zone ulx="0" uly="1642" lrx="1" lry="1643">
+        <note type="verseLoc">John 5:30</note>
+      </zone>
+      <zone ulx="0" uly="1897" lrx="1" lry="1898">
+        <note type="verseLoc">John 5:31</note>
+      </zone>
+    </surface>
+    <surface ulx="0" uly="0" lrx="2683" lry="3610">
+      <graphic url="SinaiArabic122.pdf-42.jpg"/>
+      <zone ulx="0" uly="615" lrx="1" lry="616">
+        <note type="verseLoc">John 5:35</note>
+      </zone>
+      <zone ulx="0" uly="728" lrx="1" lry="729">
+        <note type="verseLoc">John 5:36</note>
+      </zone>
+      <zone ulx="0" uly="945" lrx="1" lry="946">
+        <note type="verseLoc">John 5:37</note>
+      </zone>
+      <zone ulx="0" uly="1078" lrx="1" lry="1079">
+        <note type="verseLoc">John 5:38</note>
+      </zone>
+      <zone ulx="0" uly="1333" lrx="1" lry="1334">
+        <note type="verseLoc">John 5:39</note>
+      </zone>
+    </surface>
+    <surface ulx="0" uly="0" lrx="2680" lry="3533">
+      <graphic url="SinaiArabic122.pdf-43.jpg"/>
+      <zone ulx="0" uly="655" lrx="1" lry="656">
+        <note type="verseLoc">John 6:2</note>
+      </zone>
+    </surface>
+    <surface ulx="0" uly="0" lrx="2680" lry="3533">
+      <graphic url="SinaiArabic122.pdf-44.jpg"/>
+    </surface>
+    <surface ulx="0" uly="0" lrx="2679" lry="3491">
+      <graphic url="SinaiArabic122.pdf-45.jpg"/>
+    </surface>
+    <surface ulx="0" uly="0" lrx="2679" lry="3491">
+      <graphic url="SinaiArabic122.pdf-46.jpg"/>
+    </surface>
+    <surface ulx="0" uly="0" lrx="2684" lry="3569">
+      <graphic url="SinaiArabic122.pdf-47.jpg"/>
+    </surface>
+    <surface ulx="0" uly="0" lrx="2684" lry="3569">
+      <graphic url="SinaiArabic122.pdf-48.jpg"/>
+    </surface>
+    <surface ulx="0" uly="0" lrx="2683" lry="3505">
+      <graphic url="SinaiArabic122.pdf-49.jpg"/>
+    </surface>
+    <surface ulx="0" uly="0" lrx="2683" lry="3505">
+      <graphic url="SinaiArabic122.pdf-50.jpg"/>
+      <zone ulx="0" uly="1859" lrx="1" lry="1860">
+        <note type="verseLoc">John 6:27</note>
+      </zone>
+    </surface>
+    <surface ulx="0" uly="0" lrx="2686" lry="3556">
+      <graphic url="SinaiArabic122.pdf-51.jpg"/>
+      <zone ulx="0" uly="570" lrx="1" lry="571">
+        <note type="verseLoc">John 6:30</note>
+      </zone>
+      <zone ulx="0" uly="670" lrx="1" lry="671">
+        <note type="verseLoc">John 6:31</note>
+      </zone>
+      <zone ulx="0" uly="781" lrx="1" lry="782">
+        <note type="verseLoc">John 6:32</note>
+      </zone>
+      <zone ulx="0" uly="1035" lrx="1" lry="1036">
+        <note type="verseLoc">John 6:33</note>
+      </zone>
+      <zone ulx="0" uly="1460" lrx="1" lry="1461">
+        <note type="verseLoc">John 6:35</note>
+      </zone>
+      <zone ulx="0" uly="1531" lrx="1" lry="1532">
+        <note type="verseLoc">John 6:36</note>
+      </zone>
+      <zone ulx="0" uly="1962" lrx="1" lry="1963">
+        <note type="verseLoc">John 6:39</note>
+      </zone>
+    </surface>
+    <surface ulx="0" uly="0" lrx="2686" lry="3556">
+      <graphic url="SinaiArabic122.pdf-52.jpg"/>
+    </surface>
+    <surface ulx="0" uly="0" lrx="2689" lry="3500">
+      <graphic url="SinaiArabic122.pdf-53.jpg"/>
+      <zone ulx="2105" uly="1657" lrx="2106" lry="1658">
+        <note type="verseLoc">John 15:17</note>
+      </zone>
+    </surface>
+    <surface ulx="0" uly="0" lrx="2689" lry="3500">
+      <graphic url="SinaiArabic122.pdf-54.jpg"/>
+      <zone ulx="1641" uly="1929" lrx="1642" lry="1930">
+        <note type="verseLoc">John 16:2</note>
+      </zone>
+    </surface>
+    <surface ulx="0" uly="0" lrx="2680" lry="3506">
+      <graphic url="SinaiArabic122.pdf-55.jpg"/>
+    </surface>
+    <surface ulx="0" uly="0" lrx="2680" lry="3506">
+      <graphic url="SinaiArabic122.pdf-56.jpg"/>
+    </surface>
+    <surface ulx="0" uly="0" lrx="2707" lry="3501">
+      <graphic url="SinaiArabic122.pdf-57.jpg"/>
+    </surface>
+    <surface ulx="0" uly="0" lrx="2707" lry="3501">
+      <graphic url="SinaiArabic122.pdf-58.jpg"/>
+    </surface>
+    <surface ulx="0" uly="0" lrx="2702" lry="3538">
+      <graphic url="SinaiArabic122.pdf-59.jpg"/>
+    </surface>
+    <surface ulx="0" uly="0" lrx="2702" lry="3538">
+      <graphic url="SinaiArabic122.pdf-60.jpg"/>
+    </surface>
+    <surface ulx="0" uly="0" lrx="2708" lry="3529">
+      <graphic url="SinaiArabic122.pdf-61.jpg"/>
+    </surface>
+    <surface ulx="0" uly="0" lrx="2708" lry="3529">
+      <graphic url="SinaiArabic122.pdf-62.jpg"/>
+    </surface>
+    <surface ulx="0" uly="0" lrx="2720" lry="3518">
+      <graphic url="SinaiArabic122.pdf-63.jpg"/>
+      <zone ulx="0" uly="1684" lrx="1" lry="1685">
+        <note type="verseLoc">John 7:14</note>
+      </zone>
+    </surface>
+    <surface ulx="0" uly="0" lrx="2720" lry="3518">
+      <graphic url="SinaiArabic122.pdf-64.jpg"/>
+      <zone ulx="0" uly="608" lrx="1" lry="609">
+        <note type="verseLoc">John 7:18</note>
+      </zone>
+      <zone ulx="0" uly="893" lrx="1" lry="894">
+        <note type="verseLoc">John 7:19</note>
+      </zone>
+      <zone ulx="0" uly="1010" lrx="1" lry="1011">
+        <note type="verseLoc">John 7:20</note>
+      </zone>
+      <zone ulx="0" uly="1143" lrx="1" lry="1144">
+        <note type="verseLoc">John 7:21</note>
+      </zone>
+      <zone ulx="0" uly="1293" lrx="1" lry="1294">
+        <note type="verseLoc">John 7:22</note>
+      </zone>
+      <zone ulx="0" uly="1560" lrx="1" lry="1561">
+        <note type="verseLoc">John 7:23</note>
+      </zone>
+      <zone ulx="0" uly="1873" lrx="1" lry="1874">
+        <note type="verseLoc">John 7:24</note>
+      </zone>
+    </surface>
+    <surface ulx="0" uly="0" lrx="2709" lry="3469">
+      <graphic url="SinaiArabic122.pdf-65.jpg"/>
+      <zone ulx="0" uly="1048" lrx="1" lry="1049">
+        <note type="verseLoc">John 7:30</note>
+      </zone>
+    </surface>
+    <surface ulx="0" uly="0" lrx="2709" lry="3469">
+      <graphic url="SinaiArabic122.pdf-66.jpg"/>
+    </surface>
+    <surface ulx="0" uly="0" lrx="2726" lry="3496">
+      <graphic url="SinaiArabic122.pdf-67.jpg"/>
+    </surface>
+    <surface ulx="0" uly="0" lrx="2726" lry="3496">
+      <graphic url="SinaiArabic122.pdf-68.jpg"/>
+    </surface>
+    <surface ulx="0" uly="0" lrx="2732" lry="3599">
+      <graphic url="SinaiArabic122.pdf-69.jpg"/>
+    </surface>
+    <surface ulx="0" uly="0" lrx="2732" lry="3599">
+      <graphic url="SinaiArabic122.pdf-70.jpg"/>
+    </surface>
+    <surface ulx="0" uly="0" lrx="2722" lry="3583">
+      <graphic url="SinaiArabic122.pdf-71.jpg"/>
+    </surface>
+    <surface ulx="0" uly="0" lrx="2722" lry="3583">
+      <graphic url="SinaiArabic122.pdf-72.jpg"/>
+    </surface>
+    <surface ulx="0" uly="0" lrx="2734" lry="3583">
+      <graphic url="SinaiArabic122.pdf-73.jpg"/>
+    </surface>
+    <surface ulx="0" uly="0" lrx="2734" lry="3583">
+      <graphic url="SinaiArabic122.pdf-74.jpg"/>
+    </surface>
+    <surface ulx="0" uly="0" lrx="2738" lry="3557">
+      <graphic url="SinaiArabic122.pdf-75.jpg"/>
+    </surface>
+    <surface ulx="0" uly="0" lrx="2738" lry="3557">
+      <graphic url="SinaiArabic122.pdf-76.jpg"/>
+    </surface>
+    <surface ulx="0" uly="0" lrx="2719" lry="3562">
+      <graphic url="SinaiArabic122.pdf-77.jpg"/>
+    </surface>
+    <surface ulx="0" uly="0" lrx="2719" lry="3562">
+      <graphic url="SinaiArabic122.pdf-78.jpg"/>
+    </surface>
+    <surface ulx="0" uly="0" lrx="2743" lry="3502">
+      <graphic url="SinaiArabic122.pdf-79.jpg"/>
+    </surface>
+    <surface ulx="0" uly="0" lrx="2743" lry="3502">
+      <graphic url="SinaiArabic122.pdf-80.jpg"/>
+    </surface>
+    <surface ulx="0" uly="0" lrx="2746" lry="3508">
+      <graphic url="SinaiArabic122.pdf-81.jpg"/>
+    </surface>
+    <surface ulx="0" uly="0" lrx="2746" lry="3508">
+      <graphic url="SinaiArabic122.pdf-82.jpg"/>
+    </surface>
+    <surface ulx="0" uly="0" lrx="2737" lry="3593">
+      <graphic url="SinaiArabic122.pdf-83.jpg"/>
+    </surface>
+    <surface ulx="0" uly="0" lrx="2737" lry="3593">
+      <graphic url="SinaiArabic122.pdf-84.jpg"/>
+    </surface>
+    <surface ulx="0" uly="0" lrx="2747" lry="3487">
+      <graphic url="SinaiArabic122.pdf-85.jpg"/>
+    </surface>
+    <surface ulx="0" uly="0" lrx="2747" lry="3487">
+      <graphic url="SinaiArabic122.pdf-86.jpg"/>
+    </surface>
+    <surface ulx="0" uly="0" lrx="2750" lry="3545">
+      <graphic url="SinaiArabic122.pdf-87.jpg"/>
+    </surface>
+    <surface ulx="0" uly="0" lrx="2750" lry="3545">
+      <graphic url="SinaiArabic122.pdf-88.jpg"/>
+    </surface>
+    <surface ulx="0" uly="0" lrx="2765" lry="3599">
+      <graphic url="SinaiArabic122.pdf-89.jpg"/>
+    </surface>
+    <surface ulx="0" uly="0" lrx="2765" lry="3599">
+      <graphic url="SinaiArabic122.pdf-90.jpg"/>
+    </surface>
+    <surface ulx="0" uly="0" lrx="2743" lry="3577">
+      <graphic url="SinaiArabic122.pdf-91.jpg"/>
+    </surface>
+    <surface ulx="0" uly="0" lrx="2743" lry="3577">
+      <graphic url="SinaiArabic122.pdf-92.jpg"/>
+    </surface>
+    <surface ulx="0" uly="0" lrx="2768" lry="3578">
+      <graphic url="SinaiArabic122.pdf-93.jpg"/>
+    </surface>
+    <surface ulx="0" uly="0" lrx="2768" lry="3578">
+      <graphic url="SinaiArabic122.pdf-94.jpg"/>
+    </surface>
+    <surface ulx="0" uly="0" lrx="2756" lry="3588">
+      <graphic url="SinaiArabic122.pdf-95.jpg"/>
+    </surface>
+    <surface ulx="0" uly="0" lrx="2756" lry="3588">
+      <graphic url="SinaiArabic122.pdf-96.jpg"/>
+      <zone ulx="2061" uly="1882" lrx="2062" lry="1883">
+        <note type="verseLoc">Luke 24:36</note>
+      </zone>
+    </surface>
+    <surface ulx="0" uly="0" lrx="2780" lry="3600">
+      <graphic url="SinaiArabic122.pdf-97.jpg"/>
+    </surface>
+    <surface ulx="0" uly="0" lrx="2780" lry="3600">
+      <graphic url="SinaiArabic122.pdf-98.jpg"/>
+      <zone ulx="1319" uly="333" lrx="1320" lry="334">
+        <note type="verseLoc">Luke 24:50</note>
+      </zone>
+      <zone ulx="2158" uly="642" lrx="2159" lry="643">
+        <note type="verseLoc">Luke 24:51</note>
+      </zone>
+      <zone ulx="995" uly="600" lrx="996" lry="601">
+        <note type="verseLoc">Luke 24:52</note>
+      </zone>
+      <zone ulx="1737" uly="876" lrx="1738" lry="877">
+        <note type="verseLoc">Luke 24:53</note>
+      </zone>
+    </surface>
+    <surface ulx="0" uly="0" lrx="2756" lry="3676">
+      <graphic url="SinaiArabic122.pdf-99.jpg"/>
+    </surface>
+    <surface ulx="0" uly="0" lrx="2756" lry="3676">
+      <graphic url="SinaiArabic122.pdf-100.jpg"/>
+    </surface>
+    <surface ulx="0" uly="0" lrx="2776" lry="3541">
+      <graphic url="SinaiArabic122.pdf-101.jpg"/>
+    </surface>
+    <surface ulx="0" uly="0" lrx="2776" lry="3541">
+      <graphic url="SinaiArabic122.pdf-102.jpg"/>
+    </surface>
+    <surface ulx="0" uly="0" lrx="2779" lry="3585">
+      <graphic url="SinaiArabic122.pdf-103.jpg"/>
+    </surface>
+    <surface ulx="0" uly="0" lrx="2779" lry="3585">
+      <graphic url="SinaiArabic122.pdf-104.jpg"/>
+    </surface>
+    <surface ulx="0" uly="0" lrx="2766" lry="3541">
+      <graphic url="SinaiArabic122.pdf-105.jpg"/>
+    </surface>
+    <surface ulx="0" uly="0" lrx="2766" lry="3541">
+      <graphic url="SinaiArabic122.pdf-106.jpg"/>
+    </surface>
+    <surface ulx="0" uly="0" lrx="2762" lry="3568">
+      <graphic url="SinaiArabic122.pdf-107.jpg"/>
+    </surface>
+    <surface ulx="0" uly="0" lrx="2762" lry="3568">
+      <graphic url="SinaiArabic122.pdf-108.jpg"/>
+    </surface>
+    <surface ulx="0" uly="0" lrx="2777" lry="3568">
+      <graphic url="SinaiArabic122.pdf-109.jpg"/>
+    </surface>
+    <surface ulx="0" uly="0" lrx="2777" lry="3568">
+      <graphic url="SinaiArabic122.pdf-110.jpg"/>
+    </surface>
+    <surface ulx="0" uly="0" lrx="2787" lry="3606">
+      <graphic url="SinaiArabic122.pdf-111.jpg"/>
+    </surface>
+    <surface ulx="0" uly="0" lrx="2787" lry="3606">
+      <graphic url="SinaiArabic122.pdf-112.jpg"/>
+    </surface>
+    <surface ulx="0" uly="0" lrx="2783" lry="3532">
+      <graphic url="SinaiArabic122.pdf-113.jpg"/>
+    </surface>
+    <surface ulx="0" uly="0" lrx="2783" lry="3532">
+      <graphic url="SinaiArabic122.pdf-114.jpg"/>
+    </surface>
+    <surface ulx="0" uly="0" lrx="2782" lry="3530">
+      <graphic url="SinaiArabic122.pdf-115.jpg"/>
+    </surface>
+    <surface ulx="0" uly="0" lrx="2782" lry="3530">
+      <graphic url="SinaiArabic122.pdf-116.jpg"/>
+    </surface>
+    <surface ulx="0" uly="0" lrx="2813" lry="3525">
+      <graphic url="SinaiArabic122.pdf-117.jpg"/>
+    </surface>
+    <surface ulx="0" uly="0" lrx="2813" lry="3525">
+      <graphic url="SinaiArabic122.pdf-118.jpg"/>
+    </surface>
+    <surface ulx="0" uly="0" lrx="2817" lry="3542">
+      <graphic url="SinaiArabic122.pdf-119.jpg"/>
+    </surface>
+    <surface ulx="0" uly="0" lrx="2817" lry="3542">
+      <graphic url="SinaiArabic122.pdf-120.jpg"/>
+    </surface>
+    <surface ulx="0" uly="0" lrx="2839" lry="3568">
+      <graphic url="SinaiArabic122.pdf-121.jpg"/>
+    </surface>
+    <surface ulx="0" uly="0" lrx="2839" lry="3568">
+      <graphic url="SinaiArabic122.pdf-122.jpg"/>
+    </surface>
+    <surface ulx="0" uly="0" lrx="2813" lry="3526">
+      <graphic url="SinaiArabic122.pdf-123.jpg"/>
+    </surface>
+    <surface ulx="0" uly="0" lrx="2813" lry="3526">
+      <graphic url="SinaiArabic122.pdf-124.jpg"/>
+    </surface>
+    <surface ulx="0" uly="0" lrx="2809" lry="3541">
+      <graphic url="SinaiArabic122.pdf-125.jpg"/>
+    </surface>
+    <surface ulx="0" uly="0" lrx="2809" lry="3541">
+      <graphic url="SinaiArabic122.pdf-126.jpg"/>
+      <zone ulx="0" uly="649" lrx="1" lry="650">
+        <note type="verseLoc">Matthew 18:10</note>
+      </zone>
+      <zone ulx="0" uly="1096" lrx="1" lry="1097">
+        <note type="verseLoc">Matthew 18:12</note>
+      </zone>
+      <zone ulx="0" uly="1522" lrx="1" lry="1523">
+        <note type="verseLoc">Matthew 18:13</note>
+      </zone>
+      <zone ulx="0" uly="1671" lrx="1" lry="1672">
+        <note type="verseLoc">Matthew 18:14</note>
+      </zone>
+      <zone ulx="0" uly="1953" lrx="1" lry="1954">
+        <note type="verseLoc">Matthew 18:15</note>
+      </zone>
+    </surface>
+    <surface ulx="0" uly="0" lrx="2808" lry="3518">
+      <graphic url="SinaiArabic122.pdf-127.jpg"/>
+      <zone ulx="0" uly="1877" lrx="1" lry="1878">
+        <note type="verseLoc">Matthew 4:23</note>
+      </zone>
+      <zone ulx="0" uly="306" lrx="1" lry="307">
+        <note type="verseLoc">Matthew 18:16</note>
+      </zone>
+      <zone ulx="0" uly="1320" lrx="1" lry="1321">
+        <note type="verseLoc">Matthew 18:20</note>
+      </zone>
+    </surface>
+    <surface ulx="0" uly="0" lrx="2808" lry="3518">
+      <graphic url="SinaiArabic122.pdf-128.jpg"/>
+      <zone ulx="0" uly="836" lrx="1" lry="837">
+        <note type="verseLoc">Matthew 5:1</note>
+      </zone>
+      <zone ulx="0" uly="1147" lrx="1" lry="1148">
+        <note type="verseLoc">Matthew 5:2</note>
+      </zone>
+      <zone ulx="0" uly="1265" lrx="1" lry="1266">
+        <note type="verseLoc">Matthew 5:3</note>
+      </zone>
+      <zone ulx="0" uly="1413" lrx="1" lry="1414">
+        <note type="verseLoc">Matthew 5:4</note>
+      </zone>
+      <zone ulx="0" uly="1413" lrx="1" lry="1414">
+        <note type="verseLoc">Matthew 5:5</note>
+      </zone>
+      <zone ulx="0" uly="1544" lrx="1" lry="1545">
+        <note type="verseLoc">Matthew 5:6</note>
+      </zone>
+    </surface>
+    <surface ulx="0" uly="0" lrx="2813" lry="3512">
+      <graphic url="SinaiArabic122.pdf-129.jpg"/>
+      <zone ulx="0" uly="835" lrx="1" lry="836">
+        <note type="verseLoc">Matthew 5:13</note>
+      </zone>
+      <zone ulx="0" uly="1431" lrx="1" lry="1432">
+        <note type="verseLoc">Matthew 5:20</note>
+      </zone>
+      <zone ulx="0" uly="1733" lrx="1" lry="1734">
+        <note type="verseLoc">Matthew 5:21</note>
+      </zone>
+      <zone ulx="0" uly="1857" lrx="1" lry="1858">
+        <note type="verseLoc">Matthew 5:22</note>
+      </zone>
+    </surface>
+    <surface ulx="0" uly="0" lrx="2813" lry="3512">
+      <graphic url="SinaiArabic122.pdf-130.jpg"/>
+      <zone ulx="0" uly="484" lrx="1" lry="485">
+        <note type="verseLoc">Matthew 5:23</note>
+      </zone>
+      <zone ulx="0" uly="765" lrx="1" lry="766">
+        <note type="verseLoc">Matthew 5:24</note>
+      </zone>
+      <zone ulx="0" uly="2029" lrx="1" lry="2030">
+        <note type="verseLoc">Matthew 5:30</note>
+      </zone>
+    </surface>
+    <surface ulx="0" uly="0" lrx="2827" lry="3521">
+      <graphic url="SinaiArabic122.pdf-131.jpg"/>
+      <zone ulx="0" uly="759" lrx="1" lry="760">
+        <note type="verseLoc">Matthew 5:31</note>
+      </zone>
+      <zone ulx="0" uly="884" lrx="1" lry="885">
+        <note type="verseLoc">Matthew 5:32</note>
+      </zone>
+      <zone ulx="0" uly="1170" lrx="1" lry="1171">
+        <note type="verseLoc">Matthew 5:33</note>
+      </zone>
+      <zone ulx="0" uly="1310" lrx="1" lry="1311">
+        <note type="verseLoc">Matthew 5:34</note>
+      </zone>
+      <zone ulx="0" uly="1443" lrx="1" lry="1444">
+        <note type="verseLoc">Matthew 5:35</note>
+      </zone>
+    </surface>
+    <surface ulx="0" uly="0" lrx="2827" lry="3521">
+      <graphic url="SinaiArabic122.pdf-132.jpg"/>
+      <zone ulx="0" uly="490" lrx="1" lry="491">
+        <note type="verseLoc">Matthew 5:41</note>
+      </zone>
+      <zone ulx="0" uly="1036" lrx="1" lry="1037">
+        <note type="verseLoc">Matthew 7:9</note>
+      </zone>
+    </surface>
+    <surface ulx="0" uly="0" lrx="2818" lry="3535">
+      <graphic url="SinaiArabic122.pdf-133.jpg"/>
+      <zone ulx="0" uly="326" lrx="1" lry="327">
+        <note type="verseLoc">Matthew 7:15</note>
+      </zone>
+      <zone ulx="0" uly="600" lrx="1" lry="601">
+        <note type="verseLoc">Matthew 7:16</note>
+      </zone>
+      <zone ulx="0" uly="739" lrx="1" lry="740">
+        <note type="verseLoc">Matthew 7:17</note>
+      </zone>
+      <zone ulx="0" uly="898" lrx="1" lry="899">
+        <note type="verseLoc">Matthew 7:18</note>
+      </zone>
+    </surface>
+    <surface ulx="0" uly="0" lrx="2818" lry="3535">
+      <graphic url="SinaiArabic122.pdf-134.jpg"/>
+    </surface>
+    <surface ulx="0" uly="0" lrx="2811" lry="3525">
+      <graphic url="SinaiArabic122.pdf-135.jpg"/>
+    </surface>
+    <surface ulx="0" uly="0" lrx="2811" lry="3525">
+      <graphic url="SinaiArabic122.pdf-136.jpg"/>
+    </surface>
+    <surface ulx="0" uly="0" lrx="2815" lry="3541">
+      <graphic url="SinaiArabic122.pdf-137.jpg"/>
+    </surface>
+    <surface ulx="0" uly="0" lrx="2815" lry="3541">
+      <graphic url="SinaiArabic122.pdf-138.jpg"/>
+    </surface>
+    <surface ulx="0" uly="0" lrx="2797" lry="3515">
+      <graphic url="SinaiArabic122.pdf-139.jpg"/>
+      <zone ulx="0" uly="1814" lrx="1" lry="1815">
+        <note type="verseLoc">Matthew 7:1</note>
+      </zone>
+      <zone ulx="0" uly="1825" lrx="1" lry="1826">
+        <note type="verseLoc">Matthew 7:2</note>
+      </zone>
+      <zone ulx="0" uly="1970" lrx="1" lry="1971">
+        <note type="verseLoc">Matthew 7:3</note>
+      </zone>
+    </surface>
+    <surface ulx="0" uly="0" lrx="2797" lry="3515">
+      <graphic url="SinaiArabic122.pdf-140.jpg"/>
+      <zone ulx="0" uly="1567" lrx="1" lry="1568">
+        <note type="verseLoc">Matthew 4:18</note>
+      </zone>
+      <zone ulx="0" uly="306" lrx="1" lry="307">
+        <note type="verseLoc">Matthew 7:4</note>
+      </zone>
+      <zone ulx="0" uly="306" lrx="1" lry="307">
+        <note type="verseLoc">Matthew 7:5</note>
+      </zone>
+      <zone ulx="0" uly="687" lrx="1" lry="688">
+        <note type="verseLoc">Matthew 7:6</note>
+      </zone>
+      <zone ulx="0" uly="826" lrx="1" lry="827">
+        <note type="verseLoc">Matthew 7:7</note>
+      </zone>
+      <zone ulx="0" uly="967" lrx="1" lry="968">
+        <note type="verseLoc">Matthew 7:8</note>
+      </zone>
+    </surface>
+    <surface ulx="0" uly="0" lrx="2835" lry="3546">
+      <graphic url="SinaiArabic122.pdf-141.jpg"/>
+    </surface>
+    <surface ulx="0" uly="0" lrx="2835" lry="3546">
+      <graphic url="SinaiArabic122.pdf-142.jpg"/>
+      <zone ulx="0" uly="1878" lrx="1" lry="1879">
+        <note type="verseLoc">Matthew 7:24</note>
+      </zone>
+    </surface>
+    <surface ulx="0" uly="0" lrx="2835" lry="3524">
+      <graphic url="SinaiArabic122.pdf-143.jpg"/>
+      <zone ulx="0" uly="1272" lrx="1" lry="1273">
+        <note type="verseLoc">Matthew 8:1</note>
+      </zone>
+      <zone ulx="0" uly="1426" lrx="1" lry="1427">
+        <note type="verseLoc">Matthew 8:2</note>
+      </zone>
+      <zone ulx="0" uly="1712" lrx="1" lry="1713">
+        <note type="verseLoc">Matthew 8:3</note>
+      </zone>
+      <zone ulx="0" uly="1882" lrx="1" lry="1883">
+        <note type="verseLoc">Matthew 8:4</note>
+      </zone>
+    </surface>
+    <surface ulx="0" uly="0" lrx="2835" lry="3524">
+      <graphic url="SinaiArabic122.pdf-144.jpg"/>
+      <zone ulx="0" uly="660" lrx="1" lry="661">
+        <note type="verseLoc">Matthew 6:22</note>
+      </zone>
+      <zone ulx="0" uly="2195" lrx="1" lry="2196">
+        <note type="verseLoc">Matthew 6:27</note>
+      </zone>
+    </surface>
+    <surface ulx="0" uly="0" lrx="2825" lry="3557">
+      <graphic url="SinaiArabic122.pdf-145.jpg"/>
+      <zone ulx="0" uly="342" lrx="1" lry="343">
+        <note type="verseLoc">Matthew 6:28</note>
+      </zone>
+      <zone ulx="0" uly="593" lrx="1" lry="594">
+        <note type="verseLoc">Matthew 6:29</note>
+      </zone>
+      <zone ulx="0" uly="732" lrx="1" lry="733">
+        <note type="verseLoc">Matthew 6:30</note>
+      </zone>
+      <zone ulx="0" uly="1101" lrx="1" lry="1102">
+        <note type="verseLoc">Matthew 6:31</note>
+      </zone>
+      <zone ulx="0" uly="1237" lrx="1" lry="1238">
+        <note type="verseLoc">Matthew 6:32</note>
+      </zone>
+      <zone ulx="0" uly="1466" lrx="1" lry="1467">
+        <note type="verseLoc">Matthew 6:33</note>
+      </zone>
+    </surface>
+    <surface ulx="0" uly="0" lrx="2825" lry="3557">
+      <graphic url="SinaiArabic122.pdf-146.jpg"/>
+    </surface>
+    <surface ulx="0" uly="0" lrx="2827" lry="3597">
+      <graphic url="SinaiArabic122.pdf-147.jpg"/>
+    </surface>
+    <surface ulx="0" uly="0" lrx="2827" lry="3597">
+      <graphic url="SinaiArabic122.pdf-148.jpg"/>
+    </surface>
+    <surface ulx="0" uly="0" lrx="2835" lry="3644">
+      <graphic url="SinaiArabic122.pdf-149.jpg"/>
+      <zone ulx="0" uly="1993" lrx="1" lry="1994">
+        <note type="verseLoc">Matthew 8:5</note>
+      </zone>
+    </surface>
+    <surface ulx="0" uly="0" lrx="2835" lry="3644">
+      <graphic url="SinaiArabic122.pdf-150.jpg"/>
+    </surface>
+    <surface ulx="0" uly="0" lrx="2830" lry="3598">
+      <graphic url="SinaiArabic122.pdf-151.jpg"/>
+    </surface>
+    <surface ulx="0" uly="0" lrx="2830" lry="3598">
+      <graphic url="SinaiArabic122.pdf-152.jpg"/>
+    </surface>
+    <surface ulx="0" uly="0" lrx="2824" lry="3591">
+      <graphic url="SinaiArabic122.pdf-153.jpg"/>
+      <zone ulx="0" uly="1716" lrx="1" lry="1717">
+        <note type="verseLoc">Matthew 9:9</note>
+      </zone>
+      <zone ulx="0" uly="1963" lrx="1" lry="1964">
+        <note type="verseLoc">Matthew 9:10</note>
+      </zone>
+    </surface>
+    <surface ulx="0" uly="0" lrx="2824" lry="3591">
+      <graphic url="SinaiArabic122.pdf-154.jpg"/>
+      <zone ulx="0" uly="1377" lrx="1" lry="1378">
+        <note type="verseLoc">Matthew 8:28</note>
+      </zone>
+      <zone ulx="0" uly="375" lrx="1" lry="376">
+        <note type="verseLoc">Matthew 9:11</note>
+      </zone>
+      <zone ulx="0" uly="501" lrx="1" lry="502">
+        <note type="verseLoc">Matthew 9:12</note>
+      </zone>
+      <zone ulx="0" uly="791" lrx="1" lry="792">
+        <note type="verseLoc">Matthew 9:13</note>
+      </zone>
+    </surface>
+    <surface ulx="0" uly="0" lrx="2823" lry="3586">
+      <graphic url="SinaiArabic122.pdf-155.jpg"/>
+    </surface>
+    <surface ulx="0" uly="0" lrx="2823" lry="3586">
+      <graphic url="SinaiArabic122.pdf-156.jpg"/>
+    </surface>
+    <surface ulx="0" uly="0" lrx="2804" lry="3553">
+      <graphic url="SinaiArabic122.pdf-157.jpg"/>
+    </surface>
+    <surface ulx="0" uly="0" lrx="2804" lry="3553">
+      <graphic url="SinaiArabic122.pdf-158.jpg"/>
+      <zone ulx="0" uly="1730" lrx="1" lry="1731">
+        <note type="verseLoc">Matthew 9:18</note>
+      </zone>
+    </surface>
+    <surface ulx="0" uly="0" lrx="2801" lry="3591">
+      <graphic url="SinaiArabic122.pdf-159.jpg"/>
+      <zone ulx="0" uly="1780" lrx="1" lry="1781">
+        <note type="verseLoc">Matthew 9:1</note>
+      </zone>
+    </surface>
+    <surface ulx="0" uly="0" lrx="2801" lry="3591">
+      <graphic url="SinaiArabic122.pdf-160.jpg"/>
+    </surface>
+    <surface ulx="0" uly="0" lrx="2795" lry="3554">
+      <graphic url="SinaiArabic122.pdf-161.jpg"/>
+    </surface>
+    <surface ulx="0" uly="0" lrx="2795" lry="3554">
+      <graphic url="SinaiArabic122.pdf-162.jpg"/>
+    </surface>
+    <surface ulx="0" uly="0" lrx="2801" lry="3553">
+      <graphic url="SinaiArabic122.pdf-163.jpg"/>
+      <zone ulx="0" uly="783" lrx="1" lry="784">
+        <note type="verseLoc">Matthew 10:37</note>
+      </zone>
+      <zone ulx="0" uly="1029" lrx="1" lry="1030">
+        <note type="verseLoc">Matthew 10:38</note>
+      </zone>
+      <zone ulx="0" uly="1171" lrx="1" lry="1172">
+        <note type="verseLoc">Matthew 10:39</note>
+      </zone>
+      <zone ulx="0" uly="1315" lrx="1" lry="1316">
+        <note type="verseLoc">Matthew 10:40</note>
+      </zone>
+      <zone ulx="1331" uly="1427" lrx="1332" lry="1428">
+        <note type="verseLoc">Matthew 10:41</note>
+      </zone>
+      <zone ulx="1694" uly="1671" lrx="1695" lry="1672">
+        <note type="verseLoc">Matthew 10:42</note>
+      </zone>
+      <zone ulx="0" uly="1938" lrx="1" lry="1939">
+        <note type="verseLoc">Matthew 11:1</note>
+      </zone>
+    </surface>
+    <surface ulx="0" uly="0" lrx="2801" lry="3553">
+      <graphic url="SinaiArabic122.pdf-164.jpg"/>
+    </surface>
+    <surface ulx="0" uly="0" lrx="2804" lry="3641">
+      <graphic url="SinaiArabic122.pdf-165.jpg"/>
+    </surface>
+    <surface ulx="0" uly="0" lrx="2804" lry="3641">
+      <graphic url="SinaiArabic122.pdf-166.jpg"/>
+    </surface>
+    <surface ulx="0" uly="0" lrx="2829" lry="3609">
+      <graphic url="SinaiArabic122.pdf-167.jpg"/>
+    </surface>
+    <surface ulx="0" uly="0" lrx="2829" lry="3609">
+      <graphic url="SinaiArabic122.pdf-168.jpg"/>
+    </surface>
+    <surface ulx="0" uly="0" lrx="2818" lry="3576">
+      <graphic url="SinaiArabic122.pdf-169.jpg"/>
+      <zone ulx="2026" uly="1856" lrx="2027" lry="1857">
+        <note type="verseLoc">Matthew 14:14</note>
+      </zone>
+      <zone ulx="1243" uly="1989" lrx="1244" lry="1990">
+        <note type="verseLoc">Matthew 14:15</note>
+      </zone>
+    </surface>
+    <surface ulx="0" uly="0" lrx="2818" lry="3576">
+      <graphic url="SinaiArabic122.pdf-170.jpg"/>
+      <zone ulx="2115" uly="557" lrx="2116" lry="558">
+        <note type="verseLoc">Matthew 14:16</note>
+      </zone>
+      <zone ulx="1790" uly="682" lrx="1791" lry="683">
+        <note type="verseLoc">Matthew 14:17</note>
+      </zone>
+      <zone ulx="1886" uly="810" lrx="1887" lry="811">
+        <note type="verseLoc">Matthew 14:18</note>
+      </zone>
+      <zone ulx="1001" uly="808" lrx="1002" lry="809">
+        <note type="verseLoc">Matthew 14:19</note>
+      </zone>
+      <zone ulx="699" uly="1478" lrx="700" lry="1479">
+        <note type="verseLoc">Matthew 14:22</note>
+      </zone>
+    </surface>
+    <surface ulx="0" uly="0" lrx="2837" lry="3587">
+      <graphic url="SinaiArabic122.pdf-171.jpg"/>
+    </surface>
+    <surface ulx="0" uly="0" lrx="2837" lry="3587">
+      <graphic url="SinaiArabic122.pdf-172.jpg"/>
+    </surface>
+    <surface ulx="0" uly="0" lrx="2803" lry="3575">
+      <graphic url="SinaiArabic122.pdf-173.jpg"/>
+    </surface>
+    <surface ulx="0" uly="0" lrx="2803" lry="3575">
+      <graphic url="SinaiArabic122.pdf-174.jpg"/>
+    </surface>
+    <surface ulx="0" uly="0" lrx="2831" lry="3592">
+      <graphic url="SinaiArabic122.pdf-175.jpg"/>
+    </surface>
+    <surface ulx="0" uly="0" lrx="2831" lry="3592">
+      <graphic url="SinaiArabic122.pdf-176.jpg"/>
+    </surface>
+    <surface ulx="0" uly="0" lrx="2821" lry="3570">
+      <graphic url="SinaiArabic122.pdf-177.jpg"/>
+    </surface>
+    <surface ulx="0" uly="0" lrx="2821" lry="3570">
+      <graphic url="SinaiArabic122.pdf-178.jpg"/>
+    </surface>
+    <surface ulx="0" uly="0" lrx="2839" lry="3581">
+      <graphic url="SinaiArabic122.pdf-179.jpg"/>
+    </surface>
+    <surface ulx="0" uly="0" lrx="2839" lry="3581">
+      <graphic url="SinaiArabic122.pdf-180.jpg"/>
+    </surface>
+    <surface ulx="0" uly="0" lrx="2824" lry="3527">
+      <graphic url="SinaiArabic122.pdf-181.jpg"/>
+    </surface>
+    <surface ulx="0" uly="0" lrx="2824" lry="3527">
+      <graphic url="SinaiArabic122.pdf-182.jpg"/>
+    </surface>
+    <surface ulx="0" uly="0" lrx="2824" lry="3538">
+      <graphic url="SinaiArabic122.pdf-183.jpg"/>
+    </surface>
+    <surface ulx="0" uly="0" lrx="2824" lry="3538">
+      <graphic url="SinaiArabic122.pdf-184.jpg"/>
+    </surface>
+    <surface ulx="0" uly="0" lrx="2804" lry="3544">
+      <graphic url="SinaiArabic122.pdf-185.jpg"/>
+    </surface>
+    <surface ulx="0" uly="0" lrx="2804" lry="3544">
+      <graphic url="SinaiArabic122.pdf-186.jpg"/>
+    </surface>
+    <surface ulx="0" uly="0" lrx="2816" lry="3565">
+      <graphic url="SinaiArabic122.pdf-187.jpg"/>
+    </surface>
+    <surface ulx="0" uly="0" lrx="2816" lry="3565">
+      <graphic url="SinaiArabic122.pdf-188.jpg"/>
+    </surface>
+    <surface ulx="0" uly="0" lrx="2810" lry="3598">
+      <graphic url="SinaiArabic122.pdf-189.jpg"/>
+    </surface>
+    <surface ulx="0" uly="0" lrx="2810" lry="3598">
+      <graphic url="SinaiArabic122.pdf-190.jpg"/>
+    </surface>
+    <surface ulx="0" uly="0" lrx="2837" lry="3603">
+      <graphic url="SinaiArabic122.pdf-191.jpg"/>
+    </surface>
+    <surface ulx="0" uly="0" lrx="2837" lry="3603">
+      <graphic url="SinaiArabic122.pdf-192.jpg"/>
+    </surface>
+    <surface ulx="0" uly="0" lrx="2840" lry="3587">
+      <graphic url="SinaiArabic122.pdf-193.jpg"/>
+    </surface>
+    <surface ulx="0" uly="0" lrx="2840" lry="3587">
+      <graphic url="SinaiArabic122.pdf-194.jpg"/>
+    </surface>
+    <surface ulx="0" uly="0" lrx="2830" lry="3560">
+      <graphic url="SinaiArabic122.pdf-195.jpg"/>
+    </surface>
+    <surface ulx="0" uly="0" lrx="2830" lry="3560">
+      <graphic url="SinaiArabic122.pdf-196.jpg"/>
+    </surface>
+    <surface ulx="0" uly="0" lrx="2819" lry="3524">
+      <graphic url="SinaiArabic122.pdf-197.jpg"/>
+    </surface>
+    <surface ulx="0" uly="0" lrx="2819" lry="3524">
+      <graphic url="SinaiArabic122.pdf-198.jpg"/>
+      <zone ulx="0" uly="1579" lrx="1" lry="1580">
+        <note type="verseLoc">Matthew 23:1</note>
+      </zone>
+      <zone ulx="0" uly="2029" lrx="1" lry="2030">
+        <note type="verseLoc">Matthew 23:4</note>
+      </zone>
+      <zone ulx="0" uly="2284" lrx="1" lry="2285">
+        <note type="verseLoc">Matthew 23:5</note>
+      </zone>
+    </surface>
+    <surface ulx="0" uly="0" lrx="2824" lry="3535">
+      <graphic url="SinaiArabic122.pdf-199.jpg"/>
+      <zone ulx="0" uly="547" lrx="1" lry="548">
+        <note type="verseLoc">Matthew 23:6</note>
+      </zone>
+      <zone ulx="0" uly="675" lrx="1" lry="676">
+        <note type="verseLoc">Matthew 23:7</note>
+      </zone>
+      <zone ulx="0" uly="810" lrx="1" lry="811">
+        <note type="verseLoc">Matthew 23:8</note>
+      </zone>
+      <zone ulx="0" uly="1059" lrx="1" lry="1060">
+        <note type="verseLoc">Matthew 23:9</note>
+      </zone>
+      <zone ulx="0" uly="1204" lrx="1" lry="1205">
+        <note type="verseLoc">Matthew 23:10</note>
+      </zone>
+      <zone ulx="0" uly="1455" lrx="1" lry="1456">
+        <note type="verseLoc">Matthew 23:12</note>
+      </zone>
+    </surface>
+    <surface ulx="0" uly="0" lrx="2824" lry="3535">
+      <graphic url="SinaiArabic122.pdf-200.jpg"/>
+    </surface>
+    <surface ulx="0" uly="0" lrx="2834" lry="3486">
+      <graphic url="SinaiArabic122.pdf-201.jpg"/>
+    </surface>
+    <surface ulx="0" uly="0" lrx="2834" lry="3486">
+      <graphic url="SinaiArabic122.pdf-202.jpg"/>
+    </surface>
+    <surface ulx="0" uly="0" lrx="2837" lry="3519">
+      <graphic url="SinaiArabic122.pdf-203.jpg"/>
+    </surface>
+    <surface ulx="0" uly="0" lrx="2837" lry="3519">
+      <graphic url="SinaiArabic122.pdf-204.jpg"/>
+    </surface>
+    <surface ulx="0" uly="0" lrx="2848" lry="3536">
+      <graphic url="SinaiArabic122.pdf-205.jpg"/>
+    </surface>
+    <surface ulx="0" uly="0" lrx="2848" lry="3536">
+      <graphic url="SinaiArabic122.pdf-206.jpg"/>
+    </surface>
+    <surface ulx="0" uly="0" lrx="2868" lry="3535">
+      <graphic url="SinaiArabic122.pdf-207.jpg"/>
+    </surface>
+    <surface ulx="0" uly="0" lrx="2868" lry="3535">
+      <graphic url="SinaiArabic122.pdf-208.jpg"/>
+    </surface>
+    <surface ulx="0" uly="0" lrx="2847" lry="3524">
+      <graphic url="SinaiArabic122.pdf-209.jpg"/>
+    </surface>
+    <surface ulx="0" uly="0" lrx="2847" lry="3524">
+      <graphic url="SinaiArabic122.pdf-210.jpg"/>
+    </surface>
+    <surface ulx="0" uly="0" lrx="2843" lry="3486">
+      <graphic url="SinaiArabic122.pdf-211.jpg"/>
+    </surface>
+    <surface ulx="0" uly="0" lrx="2843" lry="3486">
+      <graphic url="SinaiArabic122.pdf-212.jpg"/>
+    </surface>
+    <surface ulx="0" uly="0" lrx="2809" lry="3523">
+      <graphic url="SinaiArabic122.pdf-213.jpg"/>
+    </surface>
+    <surface ulx="0" uly="0" lrx="2809" lry="3523">
+      <graphic url="SinaiArabic122.pdf-214.jpg"/>
+      <zone ulx="2085" uly="589" lrx="2086" lry="590">
+        <note type="verseLoc">Matthew 25:1</note>
+      </zone>
+      <zone ulx="1932" uly="1894" lrx="1933" lry="1895">
+        <note type="verseLoc">Matthew 25:10</note>
+      </zone>
+      <zone ulx="1154" uly="2041" lrx="1155" lry="2042">
+        <note type="verseLoc">Matthew 25:11</note>
+      </zone>
+      <zone ulx="1340" uly="2180" lrx="1341" lry="2181">
+        <note type="verseLoc">Matthew 25:12</note>
+      </zone>
+    </surface>
+    <surface ulx="0" uly="0" lrx="2854" lry="3534">
+      <graphic url="SinaiArabic122.pdf-215.jpg"/>
+      <zone ulx="1365" uly="295" lrx="1366" lry="296">
+        <note type="verseLoc">Matthew 25:13</note>
+      </zone>
+    </surface>
+    <surface ulx="0" uly="0" lrx="2854" lry="3534">
+      <graphic url="SinaiArabic122.pdf-216.jpg"/>
+    </surface>
+    <surface ulx="0" uly="0" lrx="2836" lry="3524">
+      <graphic url="SinaiArabic122.pdf-217.jpg"/>
+    </surface>
+    <surface ulx="0" uly="0" lrx="2836" lry="3524">
+      <graphic url="SinaiArabic122.pdf-218.jpg"/>
+    </surface>
+    <surface ulx="0" uly="0" lrx="2849" lry="3520">
+      <graphic url="SinaiArabic122.pdf-219.jpg"/>
+    </surface>
+    <surface ulx="0" uly="0" lrx="2849" lry="3520">
+      <graphic url="SinaiArabic122.pdf-220.jpg"/>
+    </surface>
+    <surface ulx="0" uly="0" lrx="2840" lry="3513">
+      <graphic url="SinaiArabic122.pdf-221.jpg"/>
+    </surface>
+    <surface ulx="0" uly="0" lrx="2840" lry="3513">
+      <graphic url="SinaiArabic122.pdf-222.jpg"/>
+    </surface>
+    <surface ulx="0" uly="0" lrx="2827" lry="3508">
+      <graphic url="SinaiArabic122.pdf-223.jpg"/>
+    </surface>
+    <surface ulx="0" uly="0" lrx="2827" lry="3508">
+      <graphic url="SinaiArabic122.pdf-224.jpg"/>
+    </surface>
+    <surface ulx="0" uly="0" lrx="2850" lry="3514">
+      <graphic url="SinaiArabic122.pdf-225.jpg"/>
+    </surface>
+    <surface ulx="0" uly="0" lrx="2850" lry="3514">
+      <graphic url="SinaiArabic122.pdf-226.jpg"/>
+    </surface>
+    <surface ulx="0" uly="0" lrx="2836" lry="3525">
+      <graphic url="SinaiArabic122.pdf-227.jpg"/>
+    </surface>
+    <surface ulx="0" uly="0" lrx="2836" lry="3525">
+      <graphic url="SinaiArabic122.pdf-228.jpg"/>
+    </surface>
+    <surface ulx="0" uly="0" lrx="2845" lry="3542">
+      <graphic url="SinaiArabic122.pdf-229.jpg"/>
+      <zone ulx="0" uly="1862" lrx="1" lry="1863">
+        <note type="verseLoc">Luke 8:5</note>
+      </zone>
+    </surface>
+    <surface ulx="0" uly="0" lrx="2845" lry="3542">
+      <graphic url="SinaiArabic122.pdf-230.jpg"/>
+      <zone ulx="0" uly="571" lrx="1" lry="572">
+        <note type="verseLoc">Luke 8:9</note>
+      </zone>
+      <zone ulx="0" uly="686" lrx="1" lry="687">
+        <note type="verseLoc">Luke 8:10</note>
+      </zone>
+      <zone ulx="0" uly="932" lrx="1" lry="933">
+        <note type="verseLoc">Luke 8:11</note>
+      </zone>
+      <zone ulx="0" uly="1058" lrx="1" lry="1059">
+        <note type="verseLoc">Luke 8:12</note>
+      </zone>
+      <zone ulx="0" uly="1347" lrx="1" lry="1348">
+        <note type="verseLoc">Luke 8:13</note>
+      </zone>
+      <zone ulx="0" uly="1774" lrx="1" lry="1775">
+        <note type="verseLoc">Luke 8:14</note>
+      </zone>
+      <zone ulx="0" uly="2051" lrx="1" lry="2052">
+        <note type="verseLoc">Luke 8:15</note>
+      </zone>
+    </surface>
+    <surface ulx="0" uly="0" lrx="2840" lry="3531">
+      <graphic url="SinaiArabic122.pdf-231.jpg"/>
+    </surface>
+    <surface ulx="0" uly="0" lrx="2840" lry="3531">
+      <graphic url="SinaiArabic122.pdf-232.jpg"/>
+    </surface>
+    <surface ulx="0" uly="0" lrx="2842" lry="3499">
+      <graphic url="SinaiArabic122.pdf-233.jpg"/>
+    </surface>
+    <surface ulx="0" uly="0" lrx="2842" lry="3499">
+      <graphic url="SinaiArabic122.pdf-234.jpg"/>
+    </surface>
+    <surface ulx="0" uly="0" lrx="2845" lry="3553">
+      <graphic url="SinaiArabic122.pdf-235.jpg"/>
+    </surface>
+    <surface ulx="0" uly="0" lrx="2845" lry="3553">
+      <graphic url="SinaiArabic122.pdf-236.jpg"/>
+    </surface>
+    <surface ulx="0" uly="0" lrx="2845" lry="3542">
+      <graphic url="SinaiArabic122.pdf-237.jpg"/>
+    </surface>
+    <surface ulx="0" uly="0" lrx="2845" lry="3542">
+      <graphic url="SinaiArabic122.pdf-238.jpg"/>
+    </surface>
+    <surface ulx="0" uly="0" lrx="2855" lry="3520">
+      <graphic url="SinaiArabic122.pdf-239.jpg"/>
+    </surface>
+    <surface ulx="0" uly="0" lrx="2855" lry="3520">
+      <graphic url="SinaiArabic122.pdf-240.jpg"/>
+    </surface>
+    <surface ulx="0" uly="0" lrx="2848" lry="3574">
+      <graphic url="SinaiArabic122.pdf-241.jpg"/>
+    </surface>
+    <surface ulx="0" uly="0" lrx="2848" lry="3574">
+      <graphic url="SinaiArabic122.pdf-242.jpg"/>
+    </surface>
+    <surface ulx="0" uly="0" lrx="2870" lry="3556">
+      <graphic url="SinaiArabic122.pdf-243.jpg"/>
+    </surface>
+    <surface ulx="0" uly="0" lrx="2870" lry="3556">
+      <graphic url="SinaiArabic122.pdf-244.jpg"/>
+    </surface>
+    <surface ulx="0" uly="0" lrx="2857" lry="3578">
+      <graphic url="SinaiArabic122.pdf-245.jpg"/>
+    </surface>
+    <surface ulx="0" uly="0" lrx="2857" lry="3578">
+      <graphic url="SinaiArabic122.pdf-246.jpg"/>
+    </surface>
+    <surface ulx="0" uly="0" lrx="2847" lry="3522">
+      <graphic url="SinaiArabic122.pdf-247.jpg"/>
+    </surface>
+    <surface ulx="0" uly="0" lrx="2847" lry="3522">
+      <graphic url="SinaiArabic122.pdf-248.jpg"/>
+    </surface>
+    <surface ulx="0" uly="0" lrx="2857" lry="3556">
+      <graphic url="SinaiArabic122.pdf-249.jpg"/>
+    </surface>
+    <surface ulx="0" uly="0" lrx="2857" lry="3556">
+      <graphic url="SinaiArabic122.pdf-250.jpg"/>
+    </surface>
+    <surface ulx="0" uly="0" lrx="2866" lry="3544">
+      <graphic url="SinaiArabic122.pdf-251.jpg"/>
+    </surface>
+    <surface ulx="0" uly="0" lrx="2866" lry="3544">
+      <graphic url="SinaiArabic122.pdf-252.jpg"/>
+    </surface>
+    <surface ulx="0" uly="0" lrx="2859" lry="3585">
+      <graphic url="SinaiArabic122.pdf-253.jpg"/>
+    </surface>
+    <surface ulx="0" uly="0" lrx="2859" lry="3585">
+      <graphic url="SinaiArabic122.pdf-254.jpg"/>
+    </surface>
+    <surface ulx="0" uly="0" lrx="2867" lry="3542">
+      <graphic url="SinaiArabic122.pdf-255.jpg"/>
+    </surface>
+    <surface ulx="0" uly="0" lrx="2867" lry="3542">
+      <graphic url="SinaiArabic122.pdf-256.jpg"/>
+    </surface>
+    <surface ulx="0" uly="0" lrx="2864" lry="3541">
+      <graphic url="SinaiArabic122.pdf-257.jpg"/>
+    </surface>
+    <surface ulx="0" uly="0" lrx="2864" lry="3541">
+      <graphic url="SinaiArabic122.pdf-258.jpg"/>
+    </surface>
+    <surface ulx="0" uly="0" lrx="2892" lry="3552">
+      <graphic url="SinaiArabic122.pdf-259.jpg"/>
+    </surface>
+    <surface ulx="0" uly="0" lrx="2892" lry="3552">
+      <graphic url="SinaiArabic122.pdf-260.jpg"/>
+    </surface>
+    <surface ulx="0" uly="0" lrx="2874" lry="3564">
+      <graphic url="SinaiArabic122.pdf-261.jpg"/>
+    </surface>
+    <surface ulx="0" uly="0" lrx="2874" lry="3564">
+      <graphic url="SinaiArabic122.pdf-262.jpg"/>
+    </surface>
+    <surface ulx="0" uly="0" lrx="2908" lry="3574">
+      <graphic url="SinaiArabic122.pdf-263.jpg"/>
+    </surface>
+    <surface ulx="0" uly="0" lrx="2908" lry="3574">
+      <graphic url="SinaiArabic122.pdf-264.jpg"/>
+    </surface>
+    <surface ulx="0" uly="0" lrx="2867" lry="3574">
+      <graphic url="SinaiArabic122.pdf-265.jpg"/>
+    </surface>
+    <surface ulx="0" uly="0" lrx="2867" lry="3574">
+      <graphic url="SinaiArabic122.pdf-266.jpg"/>
+    </surface>
+    <surface ulx="0" uly="0" lrx="2891" lry="3570">
+      <graphic url="SinaiArabic122.pdf-267.jpg"/>
+    </surface>
+    <surface ulx="0" uly="0" lrx="2891" lry="3570">
+      <graphic url="SinaiArabic122.pdf-268.jpg"/>
+    </surface>
+    <surface ulx="0" uly="0" lrx="2903" lry="3530">
+      <graphic url="SinaiArabic122.pdf-269.jpg"/>
+    </surface>
+    <surface ulx="0" uly="0" lrx="2903" lry="3530">
+      <graphic url="SinaiArabic122.pdf-270.jpg"/>
+    </surface>
+    <surface ulx="0" uly="0" lrx="2914" lry="3536">
+      <graphic url="SinaiArabic122.pdf-271.jpg"/>
+    </surface>
+    <surface ulx="0" uly="0" lrx="2914" lry="3536">
+      <graphic url="SinaiArabic122.pdf-272.jpg"/>
+    </surface>
+    <surface ulx="0" uly="0" lrx="2917" lry="3525">
+      <graphic url="SinaiArabic122.pdf-273.jpg"/>
+    </surface>
+    <surface ulx="0" uly="0" lrx="2917" lry="3525">
+      <graphic url="SinaiArabic122.pdf-274.jpg"/>
+    </surface>
+    <surface ulx="0" uly="0" lrx="2912" lry="3621">
+      <graphic url="SinaiArabic122.pdf-275.jpg"/>
+    </surface>
+    <surface ulx="0" uly="0" lrx="2912" lry="3621">
+      <graphic url="SinaiArabic122.pdf-276.jpg"/>
+    </surface>
+    <surface ulx="0" uly="0" lrx="2908" lry="3574">
+      <graphic url="SinaiArabic122.pdf-277.jpg"/>
+    </surface>
+    <surface ulx="0" uly="0" lrx="2908" lry="3574">
+      <graphic url="SinaiArabic122.pdf-278.jpg"/>
+    </surface>
+    <surface ulx="0" uly="0" lrx="2917" lry="3563">
+      <graphic url="SinaiArabic122.pdf-279.jpg"/>
+    </surface>
+    <surface ulx="0" uly="0" lrx="2917" lry="3563">
+      <graphic url="SinaiArabic122.pdf-280.jpg"/>
+    </surface>
+    <surface ulx="0" uly="0" lrx="2907" lry="3530">
+      <graphic url="SinaiArabic122.pdf-281.jpg"/>
+    </surface>
+    <surface ulx="0" uly="0" lrx="2907" lry="3530">
+      <graphic url="SinaiArabic122.pdf-282.jpg"/>
+    </surface>
+    <surface ulx="0" uly="0" lrx="2890" lry="3558">
+      <graphic url="SinaiArabic122.pdf-283.jpg"/>
+    </surface>
+    <surface ulx="0" uly="0" lrx="2890" lry="3558">
+      <graphic url="SinaiArabic122.pdf-284.jpg"/>
+    </surface>
+    <surface ulx="0" uly="0" lrx="2916" lry="3563">
+      <graphic url="SinaiArabic122.pdf-285.jpg"/>
+    </surface>
+    <surface ulx="0" uly="0" lrx="2916" lry="3563">
+      <graphic url="SinaiArabic122.pdf-286.jpg"/>
+    </surface>
+    <surface ulx="0" uly="0" lrx="2911" lry="3584">
+      <graphic url="SinaiArabic122.pdf-287.jpg"/>
+    </surface>
+    <surface ulx="0" uly="0" lrx="2911" lry="3584">
+      <graphic url="SinaiArabic122.pdf-288.jpg"/>
+    </surface>
+    <surface ulx="0" uly="0" lrx="2932" lry="3521">
+      <graphic url="SinaiArabic122.pdf-289.jpg"/>
+      <zone ulx="0" uly="1628" lrx="1" lry="1629">
+        <note type="verseLoc">Luke 15:11</note>
+      </zone>
+      <zone ulx="0" uly="1635" lrx="1" lry="1636">
+        <note type="verseLoc">Luke 15:12</note>
+      </zone>
+      <zone ulx="0" uly="1920" lrx="1" lry="1921">
+        <note type="verseLoc">Luke 15:13</note>
+      </zone>
+      <zone ulx="1896" uly="2170" lrx="1897" lry="2171">
+        <note type="verseLoc">Luke 15:14</note>
+      </zone>
+    </surface>
+    <surface ulx="0" uly="0" lrx="2932" lry="3521">
+      <graphic url="SinaiArabic122.pdf-290.jpg"/>
+      <zone ulx="0" uly="466" lrx="1" lry="467">
+        <note type="verseLoc">Luke 15:15</note>
+      </zone>
+      <zone ulx="0" uly="713" lrx="1" lry="714">
+        <note type="verseLoc">Luke 15:16</note>
+      </zone>
+      <zone ulx="0" uly="791" lrx="1" lry="792">
+        <note type="verseLoc">Luke 15:17</note>
+      </zone>
+      <zone ulx="0" uly="1103" lrx="1" lry="1104">
+        <note type="verseLoc">Luke 15:18</note>
+      </zone>
+      <zone ulx="0" uly="1368" lrx="1" lry="1369">
+        <note type="verseLoc">Luke 15:19</note>
+      </zone>
+      <zone ulx="0" uly="1505" lrx="1" lry="1506">
+        <note type="verseLoc">Luke 15:20</note>
+      </zone>
+      <zone ulx="0" uly="1673" lrx="1" lry="1674">
+        <note type="verseLoc">Luke 15:21</note>
+      </zone>
+    </surface>
+    <surface ulx="0" uly="0" lrx="2897" lry="3558">
+      <graphic url="SinaiArabic122.pdf-291.jpg"/>
+      <zone ulx="0" uly="1671" lrx="1" lry="1672">
+        <note type="verseLoc">Luke 15:32</note>
+      </zone>
+    </surface>
+    <surface ulx="0" uly="0" lrx="2897" lry="3558">
+      <graphic url="SinaiArabic122.pdf-292.jpg"/>
+    </surface>
+    <surface ulx="0" uly="0" lrx="2925" lry="3574">
+      <graphic url="SinaiArabic122.pdf-293.jpg"/>
+    </surface>
+    <surface ulx="0" uly="0" lrx="2925" lry="3574">
+      <graphic url="SinaiArabic122.pdf-294.jpg"/>
+    </surface>
+    <surface ulx="0" uly="0" lrx="2903" lry="3569">
+      <graphic url="SinaiArabic122.pdf-295.jpg"/>
+    </surface>
+    <surface ulx="0" uly="0" lrx="2903" lry="3569">
+      <graphic url="SinaiArabic122.pdf-296.jpg"/>
+    </surface>
+    <surface ulx="0" uly="0" lrx="2909" lry="3547">
+      <graphic url="SinaiArabic122.pdf-297.jpg"/>
+    </surface>
+    <surface ulx="0" uly="0" lrx="2909" lry="3547">
+      <graphic url="SinaiArabic122.pdf-298.jpg"/>
+    </surface>
+    <surface ulx="0" uly="0" lrx="2902" lry="3569">
+      <graphic url="SinaiArabic122.pdf-299.jpg"/>
+    </surface>
+    <surface ulx="0" uly="0" lrx="2902" lry="3569">
+      <graphic url="SinaiArabic122.pdf-300.jpg"/>
+    </surface>
+    <surface ulx="0" uly="0" lrx="2910" lry="3564">
+      <graphic url="SinaiArabic122.pdf-301.jpg"/>
+    </surface>
+    <surface ulx="0" uly="0" lrx="2910" lry="3564">
+      <graphic url="SinaiArabic122.pdf-302.jpg"/>
+    </surface>
+    <surface ulx="0" uly="0" lrx="2916" lry="3553">
+      <graphic url="SinaiArabic122.pdf-303.jpg"/>
+    </surface>
+    <surface ulx="0" uly="0" lrx="2916" lry="3553">
+      <graphic url="SinaiArabic122.pdf-304.jpg"/>
+    </surface>
+    <surface ulx="0" uly="0" lrx="2927" lry="3547">
+      <graphic url="SinaiArabic122.pdf-305.jpg"/>
+    </surface>
+    <surface ulx="0" uly="0" lrx="2927" lry="3547">
+      <graphic url="SinaiArabic122.pdf-306.jpg"/>
+    </surface>
+    <surface ulx="0" uly="0" lrx="2920" lry="3590">
+      <graphic url="SinaiArabic122.pdf-307.jpg"/>
+    </surface>
+    <surface ulx="0" uly="0" lrx="2920" lry="3590">
+      <graphic url="SinaiArabic122.pdf-308.jpg"/>
+    </surface>
+    <surface ulx="0" uly="0" lrx="2912" lry="3628">
+      <graphic url="SinaiArabic122.pdf-309.jpg"/>
+      <zone ulx="2124" uly="1713" lrx="2125" lry="1714">
+        <note type="verseLoc">Mark 1:35</note>
+      </zone>
+      <zone ulx="1879" uly="1886" lrx="1880" lry="1887">
+        <note type="verseLoc">Mark 1:36</note>
+      </zone>
+      <zone ulx="865" uly="1880" lrx="866" lry="1881">
+        <note type="verseLoc">Mark 1:37</note>
+      </zone>
+      <zone ulx="1371" uly="2031" lrx="1372" lry="2032">
+        <note type="verseLoc">Mark 1:38</note>
+      </zone>
+      <zone ulx="973" uly="2162" lrx="974" lry="2163">
+        <note type="verseLoc">Mark 1:39</note>
+      </zone>
+    </surface>
+    <surface ulx="0" uly="0" lrx="2912" lry="3628">
+      <graphic url="SinaiArabic122.pdf-310.jpg"/>
+      <zone ulx="806" uly="302" lrx="807" lry="303">
+        <note type="verseLoc">Mark 1:40</note>
+      </zone>
+      <zone ulx="1876" uly="1016" lrx="1877" lry="1017">
+        <note type="verseLoc">Mark 1:44</note>
+      </zone>
+    </surface>
+    <surface ulx="0" uly="0" lrx="2926" lry="3597">
+      <graphic url="SinaiArabic122.pdf-311.jpg"/>
+    </surface>
+    <surface ulx="0" uly="0" lrx="2926" lry="3597">
+      <graphic url="SinaiArabic122.pdf-312.jpg"/>
+    </surface>
+    <surface ulx="0" uly="0" lrx="2929" lry="3598">
+      <graphic url="SinaiArabic122.pdf-313.jpg"/>
+    </surface>
+    <surface ulx="0" uly="0" lrx="2929" lry="3598">
+      <graphic url="SinaiArabic122.pdf-314.jpg"/>
+    </surface>
+    <surface ulx="0" uly="0" lrx="2951" lry="3625">
+      <graphic url="SinaiArabic122.pdf-315.jpg"/>
+    </surface>
+    <surface ulx="0" uly="0" lrx="2951" lry="3625">
+      <graphic url="SinaiArabic122.pdf-316.jpg"/>
+    </surface>
+    <surface ulx="0" uly="0" lrx="2942" lry="3586">
+      <graphic url="SinaiArabic122.pdf-317.jpg"/>
+    </surface>
+    <surface ulx="0" uly="0" lrx="2942" lry="3586">
+      <graphic url="SinaiArabic122.pdf-318.jpg"/>
+      <zone ulx="0" uly="1277" lrx="1" lry="1278">
+        <note type="verseLoc">Mark 7:24</note>
+      </zone>
+    </surface>
+    <surface ulx="0" uly="0" lrx="2941" lry="3570">
+      <graphic url="SinaiArabic122.pdf-319.jpg"/>
+      <zone ulx="0" uly="838" lrx="1" lry="839">
+        <note type="verseLoc">Mark 7:31</note>
+      </zone>
+      <zone ulx="0" uly="1018" lrx="1" lry="1019">
+        <note type="verseLoc">Mark 7:32</note>
+      </zone>
+      <zone ulx="0" uly="1265" lrx="1" lry="1266">
+        <note type="verseLoc">Mark 7:33</note>
+      </zone>
+      <zone ulx="0" uly="1417" lrx="1" lry="1418">
+        <note type="verseLoc">Mark 7:34</note>
+      </zone>
+      <zone ulx="0" uly="1532" lrx="1" lry="1533">
+        <note type="verseLoc">Mark 7:35</note>
+      </zone>
+      <zone ulx="0" uly="1944" lrx="1" lry="1945">
+        <note type="verseLoc">Mark 7:37</note>
+      </zone>
+    </surface>
+    <surface ulx="0" uly="0" lrx="2941" lry="3570">
+      <graphic url="SinaiArabic122.pdf-320.jpg"/>
+    </surface>
+    <surface ulx="0" uly="0" lrx="2943" lry="3555">
+      <graphic url="SinaiArabic122.pdf-321.jpg"/>
+    </surface>
+    <surface ulx="0" uly="0" lrx="2943" lry="3555">
+      <graphic url="SinaiArabic122.pdf-322.jpg"/>
+    </surface>
+    <surface ulx="0" uly="0" lrx="2938" lry="3527">
+      <graphic url="SinaiArabic122.pdf-323.jpg"/>
+    </surface>
+    <surface ulx="0" uly="0" lrx="2938" lry="3527">
+      <graphic url="SinaiArabic122.pdf-324.jpg"/>
+    </surface>
+    <surface ulx="0" uly="0" lrx="2936" lry="3511">
+      <graphic url="SinaiArabic122.pdf-325.jpg"/>
+      <zone ulx="2125" uly="2119" lrx="2126" lry="2120">
+        <note type="verseLoc">Mark 10:32</note>
+      </zone>
+    </surface>
+    <surface ulx="0" uly="0" lrx="2936" lry="3511">
+      <graphic url="SinaiArabic122.pdf-326.jpg"/>
+      <zone ulx="1032" uly="2101" lrx="1033" lry="2102">
+        <note type="verseLoc">Mark 10:42</note>
+      </zone>
+    </surface>
+    <surface ulx="0" uly="0" lrx="2959" lry="3554">
+      <graphic url="SinaiArabic122.pdf-327.jpg"/>
+      <zone ulx="2046" uly="636" lrx="2047" lry="637">
+        <note type="verseLoc">Mark 10:43</note>
+      </zone>
+      <zone ulx="1344" uly="802" lrx="1345" lry="803">
+        <note type="verseLoc">Mark 10:44</note>
+      </zone>
+      <zone ulx="1524" uly="925" lrx="1525" lry="926">
+        <note type="verseLoc">Mark 10:45</note>
+      </zone>
+    </surface>
+    <surface ulx="0" uly="0" lrx="2959" lry="3554">
+      <graphic url="SinaiArabic122.pdf-328.jpg"/>
+    </surface>
+    <surface ulx="0" uly="0" lrx="2941" lry="3570">
+      <graphic url="SinaiArabic122.pdf-329.jpg"/>
+    </surface>
+    <surface ulx="0" uly="0" lrx="2941" lry="3570">
+      <graphic url="SinaiArabic122.pdf-330.jpg"/>
+    </surface>
+    <surface ulx="0" uly="0" lrx="2967" lry="3592">
+      <graphic url="SinaiArabic122.pdf-331.jpg"/>
+    </surface>
+    <surface ulx="0" uly="0" lrx="2967" lry="3592">
+      <graphic url="SinaiArabic122.pdf-332.jpg"/>
+    </surface>
+    <surface ulx="0" uly="0" lrx="2955" lry="3586">
+      <graphic url="SinaiArabic122.pdf-333.jpg"/>
+    </surface>
+    <surface ulx="0" uly="0" lrx="2955" lry="3586">
+      <graphic url="SinaiArabic122.pdf-334.jpg"/>
+    </surface>
+    <surface ulx="0" uly="0" lrx="2946" lry="3539">
+      <graphic url="SinaiArabic122.pdf-335.jpg"/>
+    </surface>
+    <surface ulx="0" uly="0" lrx="2946" lry="3539">
+      <graphic url="SinaiArabic122.pdf-336.jpg"/>
+    </surface>
+    <surface ulx="0" uly="0" lrx="2941" lry="3607">
+      <graphic url="SinaiArabic122.pdf-337.jpg"/>
+    </surface>
+    <surface ulx="0" uly="0" lrx="2941" lry="3607">
+      <graphic url="SinaiArabic122.pdf-338.jpg"/>
+    </surface>
+    <surface ulx="0" uly="0" lrx="2945" lry="3602">
+      <graphic url="SinaiArabic122.pdf-339.jpg"/>
+    </surface>
+    <surface ulx="0" uly="0" lrx="2945" lry="3602">
+      <graphic url="SinaiArabic122.pdf-340.jpg"/>
+    </surface>
+    <surface ulx="0" uly="0" lrx="2944" lry="3576">
+      <graphic url="SinaiArabic122.pdf-341.jpg"/>
+    </surface>
+    <surface ulx="0" uly="0" lrx="2944" lry="3576">
+      <graphic url="SinaiArabic122.pdf-342.jpg"/>
+    </surface>
+    <surface ulx="0" uly="0" lrx="2941" lry="3613">
+      <graphic url="SinaiArabic122.pdf-343.jpg"/>
+    </surface>
+    <surface ulx="0" uly="0" lrx="2941" lry="3613">
+      <graphic url="SinaiArabic122.pdf-344.jpg"/>
+    </surface>
+    <surface ulx="0" uly="0" lrx="2963" lry="3556">
+      <graphic url="SinaiArabic122.pdf-345.jpg"/>
+    </surface>
+    <surface ulx="0" uly="0" lrx="2963" lry="3556">
+      <graphic url="SinaiArabic122.pdf-346.jpg"/>
+    </surface>
+    <surface ulx="0" uly="0" lrx="2950" lry="3566">
+      <graphic url="SinaiArabic122.pdf-347.jpg"/>
+    </surface>
+    <surface ulx="0" uly="0" lrx="2950" lry="3566">
+      <graphic url="SinaiArabic122.pdf-348.jpg"/>
+    </surface>
+    <surface ulx="0" uly="0" lrx="2976" lry="3586">
+      <graphic url="SinaiArabic122.pdf-349.jpg"/>
+    </surface>
+    <surface ulx="0" uly="0" lrx="2976" lry="3586">
+      <graphic url="SinaiArabic122.pdf-350.jpg"/>
+    </surface>
+    <surface ulx="0" uly="0" lrx="2976" lry="3586">
+      <graphic url="SinaiArabic122.pdf-351.jpg"/>
+    </surface>
+    <surface ulx="0" uly="0" lrx="2976" lry="3586">
+      <graphic url="SinaiArabic122.pdf-352.jpg"/>
+    </surface>
+    <surface ulx="0" uly="0" lrx="2966" lry="3555">
+      <graphic url="SinaiArabic122.pdf-353.jpg"/>
+    </surface>
+    <surface ulx="0" uly="0" lrx="2966" lry="3555">
+      <graphic url="SinaiArabic122.pdf-354.jpg"/>
+    </surface>
+    <surface ulx="0" uly="0" lrx="2941" lry="3530">
+      <graphic url="SinaiArabic122.pdf-355.jpg"/>
+    </surface>
+    <surface ulx="0" uly="0" lrx="2941" lry="3530">
+      <graphic url="SinaiArabic122.pdf-356.jpg"/>
+    </surface>
+    <surface ulx="0" uly="0" lrx="2936" lry="3567">
+      <graphic url="SinaiArabic122.pdf-357.jpg"/>
+    </surface>
+    <surface ulx="0" uly="0" lrx="2936" lry="3567">
+      <graphic url="SinaiArabic122.pdf-358.jpg"/>
+    </surface>
+    <surface ulx="0" uly="0" lrx="2937" lry="3572">
+      <graphic url="SinaiArabic122.pdf-359.jpg"/>
+    </surface>
+    <surface ulx="0" uly="0" lrx="2937" lry="3572">
+      <graphic url="SinaiArabic122.pdf-360.jpg"/>
+    </surface>
+    <surface ulx="0" uly="0" lrx="2944" lry="3528">
+      <graphic url="SinaiArabic122.pdf-361.jpg"/>
+    </surface>
+    <surface ulx="0" uly="0" lrx="2944" lry="3528">
+      <graphic url="SinaiArabic122.pdf-362.jpg"/>
+    </surface>
+    <surface ulx="0" uly="0" lrx="2941" lry="3534">
+      <graphic url="SinaiArabic122.pdf-363.jpg"/>
+    </surface>
+    <surface ulx="0" uly="0" lrx="2941" lry="3534">
+      <graphic url="SinaiArabic122.pdf-364.jpg"/>
+    </surface>
+    <surface ulx="0" uly="0" lrx="2928" lry="3555">
+      <graphic url="SinaiArabic122.pdf-365.jpg"/>
+    </surface>
+    <surface ulx="0" uly="0" lrx="2928" lry="3555">
+      <graphic url="SinaiArabic122.pdf-366.jpg"/>
+    </surface>
+    <surface ulx="0" uly="0" lrx="2925" lry="3561">
+      <graphic url="SinaiArabic122.pdf-367.jpg"/>
+    </surface>
+    <surface ulx="0" uly="0" lrx="2925" lry="3561">
+      <graphic url="SinaiArabic122.pdf-368.jpg"/>
+    </surface>
+    <surface ulx="0" uly="0" lrx="2950" lry="3551">
+      <graphic url="SinaiArabic122.pdf-369.jpg"/>
+    </surface>
+    <surface ulx="0" uly="0" lrx="2950" lry="3551">
+      <graphic url="SinaiArabic122.pdf-370.jpg"/>
+    </surface>
+    <surface ulx="0" uly="0" lrx="2954" lry="3582">
+      <graphic url="SinaiArabic122.pdf-371.jpg"/>
+    </surface>
+    <surface ulx="0" uly="0" lrx="2954" lry="3582">
+      <graphic url="SinaiArabic122.pdf-372.jpg"/>
+    </surface>
+    <surface ulx="0" uly="0" lrx="2953" lry="3567">
+      <graphic url="SinaiArabic122.pdf-373.jpg"/>
+    </surface>
+    <surface ulx="0" uly="0" lrx="2953" lry="3567">
+      <graphic url="SinaiArabic122.pdf-374.jpg"/>
+    </surface>
+    <surface ulx="0" uly="0" lrx="2963" lry="3605">
+      <graphic url="SinaiArabic122.pdf-375.jpg"/>
+    </surface>
+    <surface ulx="0" uly="0" lrx="2963" lry="3605">
+      <graphic url="SinaiArabic122.pdf-376.jpg"/>
+    </surface>
+    <surface ulx="0" uly="0" lrx="2957" lry="3605">
+      <graphic url="SinaiArabic122.pdf-377.jpg"/>
+    </surface>
+    <surface ulx="0" uly="0" lrx="2957" lry="3605">
+      <graphic url="SinaiArabic122.pdf-378.jpg"/>
+    </surface>
+    <surface ulx="0" uly="0" lrx="2951" lry="3546">
+      <graphic url="SinaiArabic122.pdf-379.jpg"/>
+    </surface>
+    <surface ulx="0" uly="0" lrx="2951" lry="3546">
+      <graphic url="SinaiArabic122.pdf-380.jpg"/>
+    </surface>
+    <surface ulx="0" uly="0" lrx="2961" lry="3556">
+      <graphic url="SinaiArabic122.pdf-381.jpg"/>
+    </surface>
+    <surface ulx="0" uly="0" lrx="2961" lry="3556">
+      <graphic url="SinaiArabic122.pdf-382.jpg"/>
+    </surface>
+    <surface ulx="0" uly="0" lrx="2955" lry="3567">
+      <graphic url="SinaiArabic122.pdf-383.jpg"/>
+    </surface>
+    <surface ulx="0" uly="0" lrx="2955" lry="3567">
+      <graphic url="SinaiArabic122.pdf-384.jpg"/>
+    </surface>
+    <surface ulx="0" uly="0" lrx="2993" lry="3562">
+      <graphic url="SinaiArabic122.pdf-385.jpg"/>
+    </surface>
+    <surface ulx="0" uly="0" lrx="2993" lry="3562">
+      <graphic url="SinaiArabic122.pdf-386.jpg"/>
+    </surface>
+    <surface ulx="0" uly="0" lrx="2980" lry="3583">
+      <graphic url="SinaiArabic122.pdf-387.jpg"/>
+    </surface>
+    <surface ulx="0" uly="0" lrx="2980" lry="3583">
+      <graphic url="SinaiArabic122.pdf-388.jpg"/>
+    </surface>
+    <surface ulx="0" uly="0" lrx="2983" lry="3611">
+      <graphic url="SinaiArabic122.pdf-389.jpg"/>
+    </surface>
+    <surface ulx="0" uly="0" lrx="2983" lry="3611">
+      <graphic url="SinaiArabic122.pdf-390.jpg"/>
+    </surface>
+    <surface ulx="0" uly="0" lrx="2986" lry="3627">
+      <graphic url="SinaiArabic122.pdf-391.jpg"/>
+    </surface>
+    <surface ulx="0" uly="0" lrx="2986" lry="3627">
+      <graphic url="SinaiArabic122.pdf-392.jpg"/>
+    </surface>
+    <surface ulx="0" uly="0" lrx="2989" lry="3632">
+      <graphic url="SinaiArabic122.pdf-393.jpg"/>
+    </surface>
+    <surface ulx="0" uly="0" lrx="2989" lry="3632">
+      <graphic url="SinaiArabic122.pdf-394.jpg"/>
+    </surface>
+    <surface ulx="0" uly="0" lrx="2976" lry="3601">
+      <graphic url="SinaiArabic122.pdf-395.jpg"/>
+      <zone ulx="0" uly="1721" lrx="1" lry="1722">
+        <note type="verseLoc">John 18:1</note>
+      </zone>
+    </surface>
+    <surface ulx="0" uly="0" lrx="2976" lry="3601">
+      <graphic url="SinaiArabic122.pdf-396.jpg"/>
+    </surface>
+    <surface ulx="0" uly="0" lrx="2963" lry="3595">
+      <graphic url="SinaiArabic122.pdf-397.jpg"/>
+      <zone ulx="0" uly="2000" lrx="1" lry="2001">
+        <note type="verseLoc">John 18:19</note>
+      </zone>
+      <zone ulx="0" uly="2154" lrx="1" lry="2155">
+        <note type="verseLoc">John 18:20</note>
+      </zone>
+    </surface>
+    <surface ulx="0" uly="0" lrx="2963" lry="3595">
+      <graphic url="SinaiArabic122.pdf-398.jpg"/>
+      <zone ulx="0" uly="537" lrx="1" lry="538">
+        <note type="verseLoc">John 18:21</note>
+      </zone>
+      <zone ulx="1060" uly="638" lrx="1061" lry="639">
+        <note type="verseLoc">John 18:22</note>
+      </zone>
+      <zone ulx="1546" uly="912" lrx="1547" lry="913">
+        <note type="verseLoc">John 18:23</note>
+      </zone>
+      <zone ulx="1867" uly="1212" lrx="1868" lry="1213">
+        <note type="verseLoc">John 18:24</note>
+      </zone>
+      <zone ulx="2128" uly="1342" lrx="2129" lry="1343">
+        <note type="verseLoc">John 18:25</note>
+      </zone>
+      <zone ulx="954" uly="1474" lrx="955" lry="1475">
+        <note type="verseLoc">John 18:26</note>
+      </zone>
+      <zone ulx="1130" uly="1775" lrx="1131" lry="1776">
+        <note type="verseLoc">John 18:27</note>
+      </zone>
+      <zone ulx="1527" uly="1909" lrx="1528" lry="1910">
+        <note type="verseLoc">John 18:28</note>
+      </zone>
+    </surface>
+    <surface ulx="0" uly="0" lrx="2983" lry="3637">
+      <graphic url="SinaiArabic122.pdf-399.jpg"/>
+    </surface>
+    <surface ulx="0" uly="0" lrx="2983" lry="3637">
+      <graphic url="SinaiArabic122.pdf-400.jpg"/>
+    </surface>
+    <surface ulx="0" uly="0" lrx="3014" lry="3664">
+      <graphic url="SinaiArabic122.pdf-401.jpg"/>
+    </surface>
+    <surface ulx="0" uly="0" lrx="3014" lry="3664">
+      <graphic url="SinaiArabic122.pdf-402.jpg"/>
+    </surface>
+    <surface ulx="0" uly="0" lrx="2990" lry="3579">
+      <graphic url="SinaiArabic122.pdf-403.jpg"/>
+    </surface>
+    <surface ulx="0" uly="0" lrx="2990" lry="3579">
+      <graphic url="SinaiArabic122.pdf-404.jpg"/>
+    </surface>
+    <surface ulx="0" uly="0" lrx="2989" lry="3575">
+      <graphic url="SinaiArabic122.pdf-405.jpg"/>
+    </surface>
+    <surface ulx="0" uly="0" lrx="2989" lry="3575">
+      <graphic url="SinaiArabic122.pdf-406.jpg"/>
+    </surface>
+    <surface ulx="0" uly="0" lrx="2986" lry="3563">
+      <graphic url="SinaiArabic122.pdf-407.jpg"/>
+    </surface>
+    <surface ulx="0" uly="0" lrx="2986" lry="3563">
+      <graphic url="SinaiArabic122.pdf-408.jpg"/>
+    </surface>
+    <surface ulx="0" uly="0" lrx="2986" lry="3585">
+      <graphic url="SinaiArabic122.pdf-409.jpg"/>
+    </surface>
+    <surface ulx="0" uly="0" lrx="2986" lry="3585">
+      <graphic url="SinaiArabic122.pdf-410.jpg"/>
+    </surface>
+    <surface ulx="0" uly="0" lrx="2977" lry="3568">
+      <graphic url="SinaiArabic122.pdf-411.jpg"/>
+    </surface>
+    <surface ulx="0" uly="0" lrx="2977" lry="3568">
+      <graphic url="SinaiArabic122.pdf-412.jpg"/>
+    </surface>
+    <surface ulx="0" uly="0" lrx="2983" lry="3590">
+      <graphic url="SinaiArabic122.pdf-413.jpg"/>
+    </surface>
+    <surface ulx="0" uly="0" lrx="2983" lry="3590">
+      <graphic url="SinaiArabic122.pdf-414.jpg"/>
+    </surface>
+    <surface ulx="0" uly="0" lrx="2968" lry="3568">
+      <graphic url="SinaiArabic122.pdf-415.jpg"/>
+    </surface>
+    <surface ulx="0" uly="0" lrx="2968" lry="3568">
+      <graphic url="SinaiArabic122.pdf-416.jpg"/>
+    </surface>
+    <surface ulx="0" uly="0" lrx="2999" lry="3568">
+      <graphic url="SinaiArabic122.pdf-417.jpg"/>
+    </surface>
+    <surface ulx="0" uly="0" lrx="2999" lry="3568">
+      <graphic url="SinaiArabic122.pdf-418.jpg"/>
+    </surface>
+    <surface ulx="0" uly="0" lrx="3006" lry="3574">
+      <graphic url="SinaiArabic122.pdf-419.jpg"/>
+    </surface>
+    <surface ulx="0" uly="0" lrx="3006" lry="3574">
+      <graphic url="SinaiArabic122.pdf-420.jpg"/>
+    </surface>
+    <surface ulx="0" uly="0" lrx="3002" lry="3569">
+      <graphic url="SinaiArabic122.pdf-421.jpg"/>
+    </surface>
+    <surface ulx="0" uly="0" lrx="3002" lry="3569">
+      <graphic url="SinaiArabic122.pdf-422.jpg"/>
+    </surface>
+    <surface ulx="0" uly="0" lrx="2973" lry="3574">
+      <graphic url="SinaiArabic122.pdf-423.jpg"/>
+    </surface>
+    <surface ulx="0" uly="0" lrx="2973" lry="3574">
+      <graphic url="SinaiArabic122.pdf-424.jpg"/>
+    </surface>
+    <surface ulx="0" uly="0" lrx="2963" lry="3575">
+      <graphic url="SinaiArabic122.pdf-425.jpg"/>
+    </surface>
+    <surface ulx="0" uly="0" lrx="2963" lry="3575">
+      <graphic url="SinaiArabic122.pdf-426.jpg"/>
+      <zone ulx="0" uly="451" lrx="1" lry="452">
+        <note type="verseLoc">Matthew 28:1</note>
+      </zone>
+    </surface>
+    <surface ulx="0" uly="0" lrx="2990" lry="3569">
+      <graphic url="SinaiArabic122.pdf-427.jpg"/>
+      <zone ulx="0" uly="1775" lrx="1" lry="1776">
+        <note type="verseLoc">Matthew 28:15</note>
+      </zone>
+    </surface>
+    <surface ulx="0" uly="0" lrx="2990" lry="3569">
+      <graphic url="SinaiArabic122.pdf-428.jpg"/>
+    </surface>
+    <surface ulx="0" uly="0" lrx="2977" lry="3574">
+      <graphic url="SinaiArabic122.pdf-429.jpg"/>
+    </surface>
+    <surface ulx="0" uly="0" lrx="2977" lry="3574">
+      <graphic url="SinaiArabic122.pdf-430.jpg"/>
+      <zone ulx="0" uly="1830" lrx="1" lry="1831">
+        <note type="verseLoc">Matthew 28:16</note>
+      </zone>
+      <zone ulx="0" uly="2041" lrx="1" lry="2042">
+        <note type="verseLoc">Matthew 28:17</note>
+      </zone>
+      <zone ulx="0" uly="2184" lrx="1" lry="2185">
+        <note type="verseLoc">Matthew 28:18</note>
+      </zone>
+      <zone ulx="0" uly="2329" lrx="1" lry="2330">
+        <note type="verseLoc">Matthew 28:19</note>
+      </zone>
+    </surface>
+    <surface ulx="0" uly="0" lrx="2992" lry="3590">
+      <graphic url="SinaiArabic122.pdf-431.jpg"/>
+      <zone ulx="0" uly="402" lrx="1" lry="403">
+        <note type="verseLoc">Matthew 28:20</note>
+      </zone>
+    </surface>
+    <surface ulx="0" uly="0" lrx="2992" lry="3590">
+      <graphic url="SinaiArabic122.pdf-432.jpg"/>
+    </surface>
+    <surface ulx="0" uly="0" lrx="3028" lry="3646">
+      <graphic url="SinaiArabic122.pdf-433.jpg"/>
+    </surface>
+    <surface ulx="0" uly="0" lrx="3028" lry="3646">
+      <graphic url="SinaiArabic122.pdf-434.jpg"/>
+    </surface>
+    <surface ulx="0" uly="0" lrx="3020" lry="3601">
+      <graphic url="SinaiArabic122.pdf-435.jpg"/>
+    </surface>
+    <surface ulx="0" uly="0" lrx="3020" lry="3601">
+      <graphic url="SinaiArabic122.pdf-436.jpg"/>
+    </surface>
+    <surface ulx="0" uly="0" lrx="3020" lry="3592">
+      <graphic url="SinaiArabic122.pdf-437.jpg"/>
+    </surface>
+    <surface ulx="0" uly="0" lrx="3020" lry="3592">
+      <graphic url="SinaiArabic122.pdf-438.jpg"/>
+    </surface>
+    <surface ulx="0" uly="0" lrx="3014" lry="3597">
+      <graphic url="SinaiArabic122.pdf-439.jpg"/>
+    </surface>
+    <surface ulx="0" uly="0" lrx="3014" lry="3597">
+      <graphic url="SinaiArabic122.pdf-440.jpg"/>
+    </surface>
+    <surface ulx="0" uly="0" lrx="3011" lry="3628">
+      <graphic url="SinaiArabic122.pdf-441.jpg"/>
+    </surface>
+    <surface ulx="0" uly="0" lrx="3011" lry="3628">
+      <graphic url="SinaiArabic122.pdf-442.jpg"/>
+    </surface>
+    <surface ulx="0" uly="0" lrx="2977" lry="3563">
+      <graphic url="SinaiArabic122.pdf-443.jpg"/>
+    </surface>
+    <surface ulx="0" uly="0" lrx="2977" lry="3563">
+      <graphic url="SinaiArabic122.pdf-444.jpg"/>
+    </surface>
+    <surface ulx="0" uly="0" lrx="3026" lry="3631">
+      <graphic url="SinaiArabic122.pdf-445.jpg"/>
+    </surface>
+    <surface ulx="0" uly="0" lrx="3026" lry="3631">
+      <graphic url="SinaiArabic122.pdf-446.jpg"/>
+    </surface>
+    <surface ulx="0" uly="0" lrx="3001" lry="3578">
+      <graphic url="SinaiArabic122.pdf-447.jpg"/>
+    </surface>
+    <surface ulx="0" uly="0" lrx="3001" lry="3578">
+      <graphic url="SinaiArabic122.pdf-448.jpg"/>
+    </surface>
+    <surface ulx="0" uly="0" lrx="2982" lry="3609">
+      <graphic url="SinaiArabic122.pdf-449.jpg"/>
+    </surface>
+    <surface ulx="0" uly="0" lrx="2982" lry="3609">
+      <graphic url="SinaiArabic122.pdf-450.jpg"/>
+    </surface>
+    <surface ulx="0" uly="0" lrx="2985" lry="3593">
+      <graphic url="SinaiArabic122.pdf-451.jpg"/>
+    </surface>
+    <surface ulx="0" uly="0" lrx="2985" lry="3593">
+      <graphic url="SinaiArabic122.pdf-452.jpg"/>
+    </surface>
+    <surface ulx="0" uly="0" lrx="2989" lry="3550">
+      <graphic url="SinaiArabic122.pdf-453.jpg"/>
+    </surface>
+    <surface ulx="0" uly="0" lrx="2989" lry="3550">
+      <graphic url="SinaiArabic122.pdf-454.jpg"/>
+    </surface>
+    <surface ulx="0" uly="0" lrx="3001" lry="3591">
+      <graphic url="SinaiArabic122.pdf-455.jpg"/>
+    </surface>
+    <surface ulx="0" uly="0" lrx="3001" lry="3591">
+      <graphic url="SinaiArabic122.pdf-456.jpg"/>
+    </surface>
+    <surface ulx="0" uly="0" lrx="3005" lry="3524">
+      <graphic url="SinaiArabic122.pdf-457.jpg"/>
+    </surface>
+    <surface ulx="0" uly="0" lrx="3005" lry="3524">
+      <graphic url="SinaiArabic122.pdf-458.jpg"/>
+    </surface>
+    <surface ulx="0" uly="0" lrx="3011" lry="3577">
+      <graphic url="SinaiArabic122.pdf-459.jpg"/>
+    </surface>
+    <surface ulx="0" uly="0" lrx="3011" lry="3577">
+      <graphic url="SinaiArabic122.pdf-460.jpg"/>
+    </surface>
+    <surface ulx="0" uly="0" lrx="3005" lry="3581">
+      <graphic url="SinaiArabic122.pdf-461.jpg"/>
+    </surface>
+    <surface ulx="0" uly="0" lrx="3005" lry="3581">
+      <graphic url="SinaiArabic122.pdf-462.jpg"/>
+    </surface>
+    <surface ulx="0" uly="0" lrx="3014" lry="3586">
+      <graphic url="SinaiArabic122.pdf-463.jpg"/>
+    </surface>
+    <surface ulx="0" uly="0" lrx="3014" lry="3586">
+      <graphic url="SinaiArabic122.pdf-464.jpg"/>
+    </surface>
+    <surface ulx="0" uly="0" lrx="3001" lry="3592">
+      <graphic url="SinaiArabic122.pdf-465.jpg"/>
+    </surface>
+    <surface ulx="0" uly="0" lrx="3001" lry="3592">
+      <graphic url="SinaiArabic122.pdf-466.jpg"/>
+    </surface>
+    <surface ulx="0" uly="0" lrx="2989" lry="3570">
+      <graphic url="SinaiArabic122.pdf-467.jpg"/>
+    </surface>
+    <surface ulx="0" uly="0" lrx="2989" lry="3570">
+      <graphic url="SinaiArabic122.pdf-468.jpg"/>
+    </surface>
+    <surface ulx="0" uly="0" lrx="3005" lry="3580">
+      <graphic url="SinaiArabic122.pdf-469.jpg"/>
+    </surface>
+    <surface ulx="0" uly="0" lrx="3005" lry="3580">
+      <graphic url="SinaiArabic122.pdf-470.jpg"/>
+    </surface>
+    <surface ulx="0" uly="0" lrx="3005" lry="3560">
+      <graphic url="SinaiArabic122.pdf-471.jpg"/>
+    </surface>
+    <surface ulx="0" uly="0" lrx="3005" lry="3560">
+      <graphic url="SinaiArabic122.pdf-472.jpg"/>
+    </surface>
+    <surface ulx="0" uly="0" lrx="2995" lry="3597">
+      <graphic url="SinaiArabic122.pdf-473.jpg"/>
+    </surface>
+    <surface ulx="0" uly="0" lrx="2995" lry="3597">
+      <graphic url="SinaiArabic122.pdf-474.jpg"/>
+    </surface>
+    <surface ulx="0" uly="0" lrx="2995" lry="3553">
+      <graphic url="SinaiArabic122.pdf-475.jpg"/>
+    </surface>
+    <surface ulx="0" uly="0" lrx="2995" lry="3553">
+      <graphic url="SinaiArabic122.pdf-476.jpg"/>
+    </surface>
+    <surface ulx="0" uly="0" lrx="2998" lry="3592">
+      <graphic url="SinaiArabic122.pdf-477.jpg"/>
+    </surface>
+    <surface ulx="0" uly="0" lrx="2998" lry="3592">
+      <graphic url="SinaiArabic122.pdf-478.jpg"/>
+    </surface>
+    <surface ulx="0" uly="0" lrx="3008" lry="3559">
+      <graphic url="SinaiArabic122.pdf-479.jpg"/>
+    </surface>
+    <surface ulx="0" uly="0" lrx="3008" lry="3559">
+      <graphic url="SinaiArabic122.pdf-480.jpg"/>
+    </surface>
+    <surface ulx="0" uly="0" lrx="2992" lry="3548">
+      <graphic url="SinaiArabic122.pdf-481.jpg"/>
+    </surface>
+    <surface ulx="0" uly="0" lrx="2992" lry="3548">
+      <graphic url="SinaiArabic122.pdf-482.jpg"/>
+    </surface>
+    <surface ulx="0" uly="0" lrx="2982" lry="3543">
+      <graphic url="SinaiArabic122.pdf-483.jpg"/>
+    </surface>
+    <surface ulx="0" uly="0" lrx="2982" lry="3543">
+      <graphic url="SinaiArabic122.pdf-484.jpg"/>
+    </surface>
+    <surface ulx="0" uly="0" lrx="2986" lry="3521">
+      <graphic url="SinaiArabic122.pdf-485.jpg"/>
+    </surface>
+    <surface ulx="0" uly="0" lrx="2986" lry="3521">
+      <graphic url="SinaiArabic122.pdf-486.jpg"/>
+    </surface>
+    <surface ulx="0" uly="0" lrx="2989" lry="3516">
+      <graphic url="SinaiArabic122.pdf-487.jpg"/>
+    </surface>
+    <surface ulx="0" uly="0" lrx="2989" lry="3516">
+      <graphic url="SinaiArabic122.pdf-488.jpg"/>
+    </surface>
+    <surface ulx="0" uly="0" lrx="2992" lry="3511">
+      <graphic url="SinaiArabic122.pdf-489.jpg"/>
+    </surface>
+    <surface ulx="0" uly="0" lrx="2992" lry="3511">
+      <graphic url="SinaiArabic122.pdf-490.jpg"/>
+    </surface>
+    <surface ulx="0" uly="0" lrx="3023" lry="3621">
+      <graphic url="SinaiArabic122.pdf-491.jpg"/>
+    </surface>
+    <surface ulx="0" uly="0" lrx="3023" lry="3621">
+      <graphic url="SinaiArabic122.pdf-492.jpg"/>
+    </surface>
+    <surface ulx="0" uly="0" lrx="3029" lry="3595">
+      <graphic url="SinaiArabic122.pdf-493.jpg"/>
+    </surface>
+    <surface ulx="0" uly="0" lrx="3029" lry="3595">
+      <graphic url="SinaiArabic122.pdf-494.jpg"/>
+    </surface>
+    <surface ulx="0" uly="0" lrx="3007" lry="3610">
+      <graphic url="SinaiArabic122.pdf-495.jpg"/>
+    </surface>
+    <surface ulx="0" uly="0" lrx="3007" lry="3610">
+      <graphic url="SinaiArabic122.pdf-496.jpg"/>
+    </surface>
+    <surface ulx="0" uly="0" lrx="3013" lry="3600">
+      <graphic url="SinaiArabic122.pdf-497.jpg"/>
+    </surface>
+    <surface ulx="0" uly="0" lrx="3013" lry="3600">
+      <graphic url="SinaiArabic122.pdf-498.jpg"/>
+    </surface>
+    <surface ulx="0" uly="0" lrx="2987" lry="3642">
+      <graphic url="SinaiArabic122.pdf-499.jpg"/>
+    </surface>
+    <surface ulx="0" uly="0" lrx="2987" lry="3642">
+      <graphic url="SinaiArabic122.pdf-500.jpg"/>
+    </surface>
+    <surface ulx="0" uly="0" lrx="3002" lry="3617">
+      <graphic url="SinaiArabic122.pdf-501.jpg"/>
+    </surface>
+    <surface ulx="0" uly="0" lrx="3002" lry="3617">
+      <graphic url="SinaiArabic122.pdf-502.jpg"/>
+    </surface>
+    <surface ulx="0" uly="0" lrx="2979" lry="3574">
+      <graphic url="SinaiArabic122.pdf-503.jpg"/>
+    </surface>
+    <surface ulx="0" uly="0" lrx="2979" lry="3574">
+      <graphic url="SinaiArabic122.pdf-504.jpg"/>
+    </surface>
+    <surface ulx="0" uly="0" lrx="2990" lry="3617">
+      <graphic url="SinaiArabic122.pdf-505.jpg"/>
+    </surface>
+    <surface ulx="0" uly="0" lrx="2990" lry="3617">
+      <graphic url="SinaiArabic122.pdf-506.jpg"/>
+    </surface>
+    <surface ulx="0" uly="0" lrx="3023" lry="3622">
+      <graphic url="SinaiArabic122.pdf-507.jpg"/>
+    </surface>
+    <surface ulx="0" uly="0" lrx="3023" lry="3622">
+      <graphic url="SinaiArabic122.pdf-508.jpg"/>
+    </surface>
+    <surface ulx="0" uly="0" lrx="3014" lry="3607">
+      <graphic url="SinaiArabic122.pdf-509.jpg"/>
+    </surface>
+    <surface ulx="0" uly="0" lrx="3014" lry="3607">
+      <graphic url="SinaiArabic122.pdf-510.jpg"/>
+    </surface>
+    <surface ulx="0" uly="0" lrx="3017" lry="3627">
+      <graphic url="SinaiArabic122.pdf-511.jpg"/>
+    </surface>
+    <surface ulx="0" uly="0" lrx="3017" lry="3627">
+      <graphic url="SinaiArabic122.pdf-512.jpg"/>
+    </surface>
+    <surface ulx="0" uly="0" lrx="2987" lry="3619">
+      <graphic url="SinaiArabic122.pdf-513.jpg"/>
+    </surface>
+    <surface ulx="0" uly="0" lrx="2987" lry="3619">
+      <graphic url="SinaiArabic122.pdf-514.jpg"/>
+    </surface>
+    <surface ulx="0" uly="0" lrx="2990" lry="3619">
+      <graphic url="SinaiArabic122.pdf-515.jpg"/>
+    </surface>
+    <surface ulx="0" uly="0" lrx="2990" lry="3619">
+      <graphic url="SinaiArabic122.pdf-516.jpg"/>
+    </surface>
+    <surface ulx="0" uly="0" lrx="2995" lry="3595">
+      <graphic url="SinaiArabic122.pdf-517.jpg"/>
+    </surface>
+    <surface ulx="0" uly="0" lrx="2995" lry="3595">
+      <graphic url="SinaiArabic122.pdf-518.jpg"/>
+    </surface>
+    <surface ulx="0" uly="0" lrx="2993" lry="3592">
+      <graphic url="SinaiArabic122.pdf-519.jpg"/>
+    </surface>
+    <surface ulx="0" uly="0" lrx="2993" lry="3592">
+      <graphic url="SinaiArabic122.pdf-520.jpg"/>
+    </surface>
+    <surface ulx="0" uly="0" lrx="2980" lry="3600">
+      <graphic url="SinaiArabic122.pdf-521.jpg"/>
+    </surface>
+    <surface ulx="0" uly="0" lrx="2980" lry="3600">
+      <graphic url="SinaiArabic122.pdf-522.jpg"/>
+    </surface>
+    <surface ulx="0" uly="0" lrx="2990" lry="3617">
+      <graphic url="SinaiArabic122.pdf-523.jpg"/>
+    </surface>
+    <surface ulx="0" uly="0" lrx="2990" lry="3617">
+      <graphic url="SinaiArabic122.pdf-524.jpg"/>
+    </surface>
+    <surface ulx="0" uly="0" lrx="2989" lry="3610">
+      <graphic url="SinaiArabic122.pdf-525.jpg"/>
+    </surface>
+    <surface ulx="0" uly="0" lrx="2989" lry="3610">
+      <graphic url="SinaiArabic122.pdf-526.jpg"/>
+    </surface>
+    <surface ulx="0" uly="0" lrx="2974" lry="3625">
+      <graphic url="SinaiArabic122.pdf-527.jpg"/>
+    </surface>
+    <surface ulx="0" uly="0" lrx="2974" lry="3625">
+      <graphic url="SinaiArabic122.pdf-528.jpg"/>
+    </surface>
+    <surface ulx="0" uly="0" lrx="2992" lry="3615">
+      <graphic url="SinaiArabic122.pdf-529.jpg"/>
+    </surface>
+    <surface ulx="0" uly="0" lrx="2992" lry="3615">
+      <graphic url="SinaiArabic122.pdf-530.jpg"/>
+    </surface>
+    <surface ulx="0" uly="0" lrx="2992" lry="3588">
+      <graphic url="SinaiArabic122.pdf-531.jpg"/>
+    </surface>
+    <surface ulx="0" uly="0" lrx="2992" lry="3588">
+      <graphic url="SinaiArabic122.pdf-532.jpg"/>
+    </surface>
+    <surface ulx="0" uly="0" lrx="2986" lry="3620">
+      <graphic url="SinaiArabic122.pdf-533.jpg"/>
+    </surface>
+    <surface ulx="0" uly="0" lrx="2986" lry="3620">
+      <graphic url="SinaiArabic122.pdf-534.jpg"/>
+    </surface>
+    <surface ulx="0" uly="0" lrx="2983" lry="3620">
+      <graphic url="SinaiArabic122.pdf-535.jpg"/>
+    </surface>
+    <surface ulx="0" uly="0" lrx="2983" lry="3620">
+      <graphic url="SinaiArabic122.pdf-536.jpg"/>
+    </surface>
+    <surface ulx="0" uly="0" lrx="3001" lry="3610">
+      <graphic url="SinaiArabic122.pdf-537.jpg"/>
+    </surface>
+    <surface ulx="0" uly="0" lrx="3001" lry="3610">
+      <graphic url="SinaiArabic122.pdf-538.jpg"/>
+    </surface>
+    <surface ulx="0" uly="0" lrx="2990" lry="3617">
+      <graphic url="SinaiArabic122.pdf-539.jpg"/>
+    </surface>
+    <surface ulx="0" uly="0" lrx="2990" lry="3617">
+      <graphic url="SinaiArabic122.pdf-540.jpg"/>
+    </surface>
+    <surface ulx="0" uly="0" lrx="2971" lry="3627">
+      <graphic url="SinaiArabic122.pdf-541.jpg"/>
+    </surface>
+    <surface ulx="0" uly="0" lrx="2971" lry="3627">
+      <graphic url="SinaiArabic122.pdf-542.jpg"/>
+    </surface>
+    <surface ulx="0" uly="0" lrx="2974" lry="3622">
+      <graphic url="SinaiArabic122.pdf-543.jpg"/>
+    </surface>
+    <surface ulx="0" uly="0" lrx="2974" lry="3622">
+      <graphic url="SinaiArabic122.pdf-544.jpg"/>
+    </surface>
+    <surface ulx="0" uly="0" lrx="2996" lry="3624">
+      <graphic url="SinaiArabic122.pdf-545.jpg"/>
+    </surface>
+    <surface ulx="0" uly="0" lrx="2996" lry="3624">
+      <graphic url="SinaiArabic122.pdf-546.jpg"/>
+    </surface>
+    <surface ulx="0" uly="0" lrx="2959" lry="3597">
+      <graphic url="SinaiArabic122.pdf-547.jpg"/>
+    </surface>
+    <surface ulx="0" uly="0" lrx="2959" lry="3597">
+      <graphic url="SinaiArabic122.pdf-548.jpg"/>
+    </surface>
+    <surface ulx="0" uly="0" lrx="2965" lry="3602">
+      <graphic url="SinaiArabic122.pdf-549.jpg"/>
+    </surface>
+    <surface ulx="0" uly="0" lrx="2965" lry="3602">
+      <graphic url="SinaiArabic122.pdf-550.jpg"/>
+    </surface>
+    <surface ulx="0" uly="0" lrx="2953" lry="3629">
+      <graphic url="SinaiArabic122.pdf-551.jpg"/>
+    </surface>
+    <surface ulx="0" uly="0" lrx="2953" lry="3629">
+      <graphic url="SinaiArabic122.pdf-552.jpg"/>
+    </surface>
+    <surface ulx="0" uly="0" lrx="2975" lry="3622">
+      <graphic url="SinaiArabic122.pdf-553.jpg"/>
+    </surface>
+    <surface ulx="0" uly="0" lrx="2975" lry="3622">
+      <graphic url="SinaiArabic122.pdf-554.jpg"/>
+    </surface>
+    <surface ulx="0" uly="0" lrx="2965" lry="3629">
+      <graphic url="SinaiArabic122.pdf-555.jpg"/>
+    </surface>
+    <surface ulx="0" uly="0" lrx="2965" lry="3629">
+      <graphic url="SinaiArabic122.pdf-556.jpg"/>
+    </surface>
+    <surface ulx="0" uly="0" lrx="2977" lry="3622">
+      <graphic url="SinaiArabic122.pdf-557.jpg"/>
+    </surface>
+    <surface ulx="0" uly="0" lrx="2977" lry="3622">
+      <graphic url="SinaiArabic122.pdf-558.jpg"/>
+    </surface>
+    <surface ulx="0" uly="0" lrx="2987" lry="3627">
+      <graphic url="SinaiArabic122.pdf-559.jpg"/>
+    </surface>
+    <surface ulx="0" uly="0" lrx="2987" lry="3627">
+      <graphic url="SinaiArabic122.pdf-560.jpg"/>
+    </surface>
+    <surface ulx="0" uly="0" lrx="2981" lry="3627">
+      <graphic url="SinaiArabic122.pdf-561.jpg"/>
+    </surface>
+    <surface ulx="0" uly="0" lrx="2981" lry="3627">
+      <graphic url="SinaiArabic122.pdf-562.jpg"/>
+    </surface>
+    <surface ulx="0" uly="0" lrx="2968" lry="3622">
+      <graphic url="SinaiArabic122.pdf-563.jpg"/>
+    </surface>
+    <surface ulx="0" uly="0" lrx="2968" lry="3622">
+      <graphic url="SinaiArabic122.pdf-564.jpg"/>
+    </surface>
+    <surface ulx="0" uly="0" lrx="2956" lry="3619">
+      <graphic url="SinaiArabic122.pdf-565.jpg"/>
+    </surface>
+    <surface ulx="0" uly="0" lrx="2956" lry="3619">
+      <graphic url="SinaiArabic122.pdf-566.jpg"/>
+    </surface>
+    <surface ulx="0" uly="0" lrx="2965" lry="3612">
+      <graphic url="SinaiArabic122.pdf-567.jpg"/>
+    </surface>
+    <surface ulx="0" uly="0" lrx="2965" lry="3612">
+      <graphic url="SinaiArabic122.pdf-568.jpg"/>
+    </surface>
+    <surface ulx="0" uly="0" lrx="2941" lry="3637">
+      <graphic url="SinaiArabic122.pdf-569.jpg"/>
+    </surface>
+    <surface ulx="0" uly="0" lrx="2941" lry="3637">
+      <graphic url="SinaiArabic122.pdf-570.jpg"/>
+    </surface>
+    <surface ulx="0" uly="0" lrx="2944" lry="3659">
+      <graphic url="SinaiArabic122.pdf-571.jpg"/>
+    </surface>
+    <surface ulx="0" uly="0" lrx="2944" lry="3659">
+      <graphic url="SinaiArabic122.pdf-572.jpg"/>
+    </surface>
+    <surface ulx="0" uly="0" lrx="2926" lry="3639">
+      <graphic url="SinaiArabic122.pdf-573.jpg"/>
+    </surface>
+    <surface ulx="0" uly="0" lrx="2926" lry="3639">
+      <graphic url="SinaiArabic122.pdf-574.jpg"/>
+    </surface>
+    <surface ulx="0" uly="0" lrx="2932" lry="3607">
+      <graphic url="SinaiArabic122.pdf-575.jpg"/>
+    </surface>
+    <surface ulx="0" uly="0" lrx="2932" lry="3607">
+      <graphic url="SinaiArabic122.pdf-576.jpg"/>
+    </surface>
+    <surface ulx="0" uly="0" lrx="2959" lry="3622">
+      <graphic url="SinaiArabic122.pdf-577.jpg"/>
+    </surface>
+    <surface ulx="0" uly="0" lrx="2959" lry="3622">
+      <graphic url="SinaiArabic122.pdf-578.jpg"/>
+    </surface>
+    <surface ulx="0" uly="0" lrx="2960" lry="3624">
+      <graphic url="SinaiArabic122.pdf-579.jpg"/>
+    </surface>
+    <surface ulx="0" uly="0" lrx="2960" lry="3624">
+      <graphic url="SinaiArabic122.pdf-580.jpg"/>
+    </surface>
+    <surface ulx="0" uly="0" lrx="2941" lry="3612">
+      <graphic url="SinaiArabic122.pdf-581.jpg"/>
+    </surface>
+    <surface ulx="0" uly="0" lrx="2941" lry="3612">
+      <graphic url="SinaiArabic122.pdf-582.jpg"/>
+    </surface>
+    <surface ulx="0" uly="0" lrx="2947" lry="3597">
+      <graphic url="SinaiArabic122.pdf-583.jpg"/>
+    </surface>
+    <surface ulx="0" uly="0" lrx="2947" lry="3597">
+      <graphic url="SinaiArabic122.pdf-584.jpg"/>
+    </surface>
+    <surface ulx="0" uly="0" lrx="2935" lry="3607">
+      <graphic url="SinaiArabic122.pdf-585.jpg"/>
+    </surface>
+    <surface ulx="0" uly="0" lrx="2935" lry="3607">
+      <graphic url="SinaiArabic122.pdf-586.jpg"/>
+    </surface>
+    <surface ulx="0" uly="0" lrx="2960" lry="3662">
+      <graphic url="SinaiArabic122.pdf-587.jpg"/>
+    </surface>
+    <surface ulx="0" uly="0" lrx="2960" lry="3662">
+      <graphic url="SinaiArabic122.pdf-588.jpg"/>
+    </surface>
+    <surface ulx="0" uly="0" lrx="2947" lry="3688">
+      <graphic url="SinaiArabic122.pdf-589.jpg"/>
+    </surface>
+    <surface ulx="0" uly="0" lrx="2947" lry="3688">
+      <graphic url="SinaiArabic122.pdf-590.jpg"/>
+    </surface>
+    <surface ulx="0" uly="0" lrx="2956" lry="3647">
+      <graphic url="SinaiArabic122.pdf-591.jpg"/>
+    </surface>
+    <surface ulx="0" uly="0" lrx="2956" lry="3647">
+      <graphic url="SinaiArabic122.pdf-592.jpg"/>
+    </surface>
+    <surface ulx="0" uly="0" lrx="2969" lry="3630">
+      <graphic url="SinaiArabic122.pdf-593.jpg"/>
+    </surface>
+    <surface ulx="0" uly="0" lrx="2969" lry="3630">
+      <graphic url="SinaiArabic122.pdf-594.jpg"/>
+    </surface>
+    <surface ulx="0" uly="0" lrx="2951" lry="3635">
+      <graphic url="SinaiArabic122.pdf-595.jpg"/>
+    </surface>
+    <surface ulx="0" uly="0" lrx="2951" lry="3635">
+      <graphic url="SinaiArabic122.pdf-596.jpg"/>
+    </surface>
+    <surface ulx="0" uly="0" lrx="2933" lry="3668">
+      <graphic url="SinaiArabic122.pdf-597.jpg"/>
+    </surface>
+    <surface ulx="0" uly="0" lrx="2933" lry="3668">
+      <graphic url="SinaiArabic122.pdf-598.jpg"/>
+    </surface>
+    <surface ulx="0" uly="0" lrx="2948" lry="3637">
+      <graphic url="SinaiArabic122.pdf-599.jpg"/>
+    </surface>
+    <surface ulx="0" uly="0" lrx="2948" lry="3637">
+      <graphic url="SinaiArabic122.pdf-600.jpg"/>
+    </surface>
+    <surface ulx="0" uly="0" lrx="2948" lry="3647">
+      <graphic url="SinaiArabic122.pdf-601.jpg"/>
+    </surface>
+    <surface ulx="0" uly="0" lrx="2948" lry="3647">
+      <graphic url="SinaiArabic122.pdf-602.jpg"/>
+    </surface>
+    <surface ulx="0" uly="0" lrx="2973" lry="3651">
+      <graphic url="SinaiArabic122.pdf-603.jpg"/>
+    </surface>
+    <surface ulx="0" uly="0" lrx="2973" lry="3651">
+      <graphic url="SinaiArabic122.pdf-604.jpg"/>
+    </surface>
+    <surface ulx="0" uly="0" lrx="2979" lry="3643">
+      <graphic url="SinaiArabic122.pdf-605.jpg"/>
+    </surface>
+    <surface ulx="0" uly="0" lrx="2979" lry="3643">
+      <graphic url="SinaiArabic122.pdf-606.jpg"/>
+    </surface>
+    <surface ulx="0" uly="0" lrx="2969" lry="3648">
+      <graphic url="SinaiArabic122.pdf-607.jpg"/>
+    </surface>
+    <surface ulx="0" uly="0" lrx="2969" lry="3648">
+      <graphic url="SinaiArabic122.pdf-608.jpg"/>
+    </surface>
+    <surface ulx="0" uly="0" lrx="2982" lry="3657">
+      <graphic url="SinaiArabic122.pdf-609.jpg"/>
+    </surface>
+    <surface ulx="0" uly="0" lrx="2982" lry="3657">
+      <graphic url="SinaiArabic122.pdf-610.jpg"/>
+    </surface>
+    <surface ulx="0" uly="0" lrx="2960" lry="3653">
+      <graphic url="SinaiArabic122.pdf-611.jpg"/>
+    </surface>
+    <surface ulx="0" uly="0" lrx="2960" lry="3653">
+      <graphic url="SinaiArabic122.pdf-612.jpg"/>
+    </surface>
+    <surface ulx="0" uly="0" lrx="2979" lry="3627">
+      <graphic url="SinaiArabic122.pdf-613.jpg"/>
+    </surface>
+    <surface ulx="0" uly="0" lrx="2979" lry="3627">
+      <graphic url="SinaiArabic122.pdf-614.jpg"/>
+    </surface>
+    <surface ulx="0" uly="0" lrx="2957" lry="3637">
+      <graphic url="SinaiArabic122.pdf-615.jpg"/>
+    </surface>
+    <surface ulx="0" uly="0" lrx="2957" lry="3637">
+      <graphic url="SinaiArabic122.pdf-616.jpg"/>
+    </surface>
+    <surface ulx="0" uly="0" lrx="2951" lry="3662">
+      <graphic url="SinaiArabic122.pdf-617.jpg"/>
+    </surface>
+    <surface ulx="0" uly="0" lrx="2951" lry="3662">
+      <graphic url="SinaiArabic122.pdf-618.jpg"/>
+    </surface>
+    <surface ulx="0" uly="0" lrx="2938" lry="3636">
+      <graphic url="SinaiArabic122.pdf-619.jpg"/>
+    </surface>
+    <surface ulx="0" uly="0" lrx="2938" lry="3636">
+      <graphic url="SinaiArabic122.pdf-620.jpg"/>
+    </surface>
+    <surface ulx="0" uly="0" lrx="2938" lry="3646">
+      <graphic url="SinaiArabic122.pdf-621.jpg"/>
+    </surface>
+    <surface ulx="0" uly="0" lrx="2938" lry="3646">
+      <graphic url="SinaiArabic122.pdf-622.jpg"/>
+    </surface>
+    <surface ulx="0" uly="0" lrx="2954" lry="3657">
+      <graphic url="SinaiArabic122.pdf-623.jpg"/>
+    </surface>
+    <surface ulx="0" uly="0" lrx="2954" lry="3657">
+      <graphic url="SinaiArabic122.pdf-624.jpg"/>
+    </surface>
+    <surface ulx="0" uly="0" lrx="2963" lry="3647">
+      <graphic url="SinaiArabic122.pdf-625.jpg"/>
+    </surface>
+    <surface ulx="0" uly="0" lrx="2963" lry="3647">
+      <graphic url="SinaiArabic122.pdf-626.jpg"/>
+    </surface>
+    <surface ulx="0" uly="0" lrx="2960" lry="3673">
+      <graphic url="SinaiArabic122.pdf-627.jpg"/>
+    </surface>
+    <surface ulx="0" uly="0" lrx="2960" lry="3673">
+      <graphic url="SinaiArabic122.pdf-628.jpg"/>
+    </surface>
+    <surface ulx="0" uly="0" lrx="2969" lry="3662">
+      <graphic url="SinaiArabic122.pdf-629.jpg"/>
+    </surface>
+    <surface ulx="0" uly="0" lrx="2969" lry="3662">
+      <graphic url="SinaiArabic122.pdf-630.jpg"/>
+    </surface>
+    <surface ulx="0" uly="0" lrx="2982" lry="3626">
+      <graphic url="SinaiArabic122.pdf-631.jpg"/>
+    </surface>
+    <surface ulx="0" uly="0" lrx="2982" lry="3626">
+      <graphic url="SinaiArabic122.pdf-632.jpg"/>
+    </surface>
+    <surface ulx="0" uly="0" lrx="2957" lry="3668">
+      <graphic url="SinaiArabic122.pdf-633.jpg"/>
+    </surface>
+    <surface ulx="0" uly="0" lrx="2957" lry="3668">
+      <graphic url="SinaiArabic122.pdf-634.jpg"/>
+    </surface>
+    <surface ulx="0" uly="0" lrx="2966" lry="3657">
+      <graphic url="SinaiArabic122.pdf-635.jpg"/>
+    </surface>
+    <surface ulx="0" uly="0" lrx="2966" lry="3657">
+      <graphic url="SinaiArabic122.pdf-636.jpg"/>
+    </surface>
+    <surface ulx="0" uly="0" lrx="2982" lry="3662">
+      <graphic url="SinaiArabic122.pdf-637.jpg"/>
+    </surface>
+    <surface ulx="0" uly="0" lrx="2982" lry="3662">
+      <graphic url="SinaiArabic122.pdf-638.jpg"/>
+    </surface>
+    <surface ulx="0" uly="0" lrx="2960" lry="3667">
+      <graphic url="SinaiArabic122.pdf-639.jpg"/>
+    </surface>
+    <surface ulx="0" uly="0" lrx="2960" lry="3667">
+      <graphic url="SinaiArabic122.pdf-640.jpg"/>
+    </surface>
+    <surface ulx="0" uly="0" lrx="2951" lry="3667">
+      <graphic url="SinaiArabic122.pdf-641.jpg"/>
+    </surface>
+    <surface ulx="0" uly="0" lrx="2951" lry="3667">
+      <graphic url="SinaiArabic122.pdf-642.jpg"/>
+    </surface>
+    <surface ulx="0" uly="0" lrx="2945" lry="3636">
+      <graphic url="SinaiArabic122.pdf-643.jpg"/>
+    </surface>
+    <surface ulx="0" uly="0" lrx="2945" lry="3636">
+      <graphic url="SinaiArabic122.pdf-644.jpg"/>
+    </surface>
+    <surface ulx="0" uly="0" lrx="2942" lry="3669">
+      <graphic url="SinaiArabic122.pdf-645.jpg"/>
+    </surface>
+    <surface ulx="0" uly="0" lrx="2942" lry="3669">
+      <graphic url="SinaiArabic122.pdf-646.jpg"/>
+    </surface>
+    <surface ulx="0" uly="0" lrx="2929" lry="3647">
+      <graphic url="SinaiArabic122.pdf-647.jpg"/>
+    </surface>
+    <surface ulx="0" uly="0" lrx="2929" lry="3647">
+      <graphic url="SinaiArabic122.pdf-648.jpg"/>
+    </surface>
+    <surface ulx="0" uly="0" lrx="2957" lry="3692">
+      <graphic url="SinaiArabic122.pdf-649.jpg"/>
+    </surface>
+    <surface ulx="0" uly="0" lrx="2957" lry="3692">
+      <graphic url="SinaiArabic122.pdf-650.jpg"/>
+    </surface>
+    <surface ulx="0" uly="0" lrx="2936" lry="3635">
+      <graphic url="SinaiArabic122.pdf-651.jpg"/>
+    </surface>
+    <surface ulx="0" uly="0" lrx="2936" lry="3635">
+      <graphic url="SinaiArabic122.pdf-652.jpg"/>
+    </surface>
+    <surface ulx="0" uly="0" lrx="2953" lry="3701">
+      <graphic url="SinaiArabic122.pdf-653.jpg"/>
+    </surface>
+    <surface ulx="0" uly="0" lrx="2953" lry="3701">
+      <graphic url="SinaiArabic122.pdf-654.jpg"/>
+    </surface>
+  </facsimile>
+  <text>
+    <body>
+      <ab n="B01K5V1">فلما راي ايسوع الجماعه طلع في الجبل. فلما جلس تقدموا اليه تلاميذه.</ab>
+      <ab n="B01K5V2">ففتح فاه وجعل يعلم هكذا ويقول.</ab>
+      <ab n="B01K5V3">طوبا للمساكين بالروح. فان لهم ملكوه السما</ab>
+      <ab n="B01K5V4">طوبًا للحزينين. فانهم تيعزون<note type="editorial">Uncertain</note></ab>
+      <ab n="B01K5V5">طوبًا للمتوا<note type="editorial">Uncertain</note> ضعين<note type="editorial">Uncertain</note> فانهم يرثون الارض.</ab>
+      <ab n="B01K5V20">قال الرب لتلاميذه. ان لم يفضل بركم. افضل من الكتبه والاحبار. ليس تدخلون الي ملكوه الاله.</ab>
+      <ab n="B01K5V21">سمعتم بانه قيل للاولين ان لا تقتل. فان من يقتل. فقد استوجب عقوبه الدين.</ab>
+      <ab n="B01K5V22">انا اقول لكم ان كل من يغضب علي اخيه باطلا. فقد استوجب عقوبه الدين. ومن يقول لاخيه يا احمق<note type="editorial">Uncertain</note>. فقد استوجب عقوبه الكنيسه. ومن يقول له يا ارعن<note type="editorial">Uncertain</note> فقد استوجب نار جهنم.</ab>
+      <ab n="B01K5V23">اذا انت قربت قربانك علي المذبح. وتذكرت ان في نفس اخيك عليك حنق<note type="editorial">Uncertain</note>. او شى.</ab>
+      <ab n="B01K5V24">فاترك قربانك على المذبح وانطلق فصالح اخوك. وحينيذ تاتي. وتتقرب قربانك.</ab>
+      <ab n="B01K5V31">قال الرب. انه قيل في الاتبدا<note type="editorial">Uncertain</note>. من طلق مرته فليعطها كتاب طلاقها.</ab>
+      <ab n="B01K5V32">وانا اقول لكم. من طلق مرته غلى<note type="editorial">i.e. على</note> غير عله زنا فانه يجعلها تفسق. ومن تزوج مُطلقه. فانه فاسق.</ab>
+      <ab n="B01K5V33">قد سمعتم ايضا انه اقيل للاولين لا تحلفوا</ab>
+      <ab n="B01K5V34">انا اقول لكم لا تحلفوا راسا. لا بالسما التي هي كرسي الله.</ab>
+      <ab n="B01K6V27">من منكم يهتم فيقدر ان يزيد علي قامته ذراع واحد.</ab>
+      <ab n="B01K6V28">وعن الكسوة<note type="editorial">Uncertain</note> لماذا تهتموا. تفطنوا<note type="editorial">Uncertain</note> الي سوسن<note type="editorial">Uncertain</note> الحقل كيف ينموا الذي لا يتعب ولا يغزل.</ab>
+      <ab n="B01K6V29">اقول لكم انه ولا سليمن في كل مجده لم يكتسي<note type="editorial">Uncertain</note> كواحد منهم</ab>
+      <ab n="B01K6V30">فان كان لحشيش<note type="editorial">Uncertain</note> الحقل. انما<note type="editorial">Uncertain</note> هو اليوم وللغد في التنور يلقا. الله هكذا يكسوا.<note type="editorial">Uncertain</note> افليس<note type="editorial">Uncertain</note> انتم افضل من ذلك. يا قليلي الامانة.</ab>
+      <ab n="B01K6V31">فلا تهتموا قايلين ماذا ناكل وماذا نشرب. وماذا نكتسي<note type="editorial">Uncertain</note></ab>
+      <ab n="B01K6V32">كل هذه الامم يطلبوا <note type="editorial">Uncertain</note>ان ابوكم السماوي<note type="editorial">Uncertain</note> يعلم انكم تحتاجون الي هذا كله</ab>
+      <ab n="B01K6V33">اطلبوا اولا ملك الله وعدلهُ. وهذا كله يزاد لكُم</ab>
+      <ab n="B01K7V1">قال الرب لا تدينوا لكي لا تدانوا</ab>
+      <ab n="B01K7V2">بالذي تدينوا به تدانوا. وبالكيل الذي تكيلوا به يكال لكم</ab>
+      <ab n="B01K7V3">لماذا تبصر الي القذاة<note type="editorial">Uncertain</note> التي في عين اخيك ولا تتفطن بالخشبة الذي في عينك</ab>
+      <ab n="B01K7V15">احتفظوا من الانبيا الكذبة الذي ياتوكم بلباس الخرفان وهم من داخل ذياب ضارية.</ab>
+      <ab n="B01K7V16">من اثمارهم تعرفوهم. لعلهم يلقطون من الشوك عنبا. او من الحسك تينا.</ab>
+      <ab n="B01K7V17">كذلك كل شجرة طيبة اثمارا طيبة تخرج وكل شجرة سو اثمارا سو تخرج</ab>
+      <ab n="B01K7V18">لا تستطيع شجرة طيبة تخرج اثمار سو. ولا شجرة سو تخرج اثمارا<note type="editorial">Uncertain</note> طيبة</ab>
+      <ab n="B01K8V1">وبينما هو منحدر من الجبل. اتبعه جماعات كثيره.</ab>
+      <ab n="B01K8V2">واذا ابرص قد تقدم. وسجد له قايلا. يا رب انك شيت فانك فانك تقدر ان ان تنقيني.</ab>
+      <ab n="B01K8V3">وان ايسوع مد يده. ومسه قايلا. قد شيت فاستنقي. وللوقت استنقي برصه.</ab>
+      <ab n="B01K8V4">فقال له ايسوع. انظر لا تقول لاحد ولكن اذهب. فاوري نفسك للكاهن وقرب القربان. الذي امر موسي شهاده عليهم.</ab>
+      <ab n="B01K9V9">في ذلك الزمان بينما ايسوع ماشيًا. ابصر انسان جالس على المكس يقال لهُ متثاوس. فقال لهُ اتبعني. فقام واتبعه.</ab>
+      <ab n="B01K9V10">فلما اتوا الي المنزل وجلس واتكا. اتوا عشارين. وخطاة. فاتكوا مع ايسوع ومع تلاميذه</ab>
+      <ab n="B01K9V11">فلما راووا الفريسين ذلك قالوا لتلاميذه. لماذا ياكل معلمكم مع العشارين. والخطاة.</ab>
+      <ab n="B01K9V12">فلما سمع ايسوع. قال لهم ليس يحتاجوا الاقويا. الي طبيب ولكن المرضي.</ab>
+      <ab n="B01K9V13">اذهبوا تعلموا ماذا. رحمة اريد. ولا ذبيحة لم اتي ادعو اصديقين<note type="editorial">Uncertain</note> ولكن خطايين للتوبة</ab>
+      <ab n="B01K10V37">قال الرب من احب ابا او اما افضل مني فليس هو لي باهل ومن احب ابنا او بنتا افضل مني فليس هو لي باهل</ab>
+      <ab n="B01K10V38">ومن لا يحمل صليبه ويتبعني فليس هو لي باهل</ab>
+      <ab n="B01K10V39">ومن احب نفسه يهلكها. والذي يهلك نفسه من اجلي يجدها</ab>
+      <ab n="B01K10V40">والذي يقبلكم لي يقبل. والذي يقبلني فهو يقبل الذي ارسلني.</ab>
+      <ab n="B01K10V41">والذي يقبل نبي باسم نبي اجر نبي ياخذ. والذي يقبل صديق. باسم صديق اجر صديق ياخذ.</ab>
+      <ab n="B01K14V15">فلما كان المسا تقدموا اليه تلاميذه وقالوا له. ان المكان قفر. وقد جاز النهار خلي الجموع لكي يذهبوا الي القري المحيطه. ليشتروا لهم طعاما</ab>
+      <ab n="B01K14V16">وان ايسوع قال لهم. ليس يحتاجون ان يذهبوا. اعطوهم انتم  ياكلوا.</ab>
+      <ab n="B01K14V17">وانهم قالوا ليس لنا هاهنا الا خمس خبزات وحوتين.</ab>
+      <ab n="B01K14V18">وانه قال لهم. اتوا بهم الي هاهنا.</ab>
+      <ab n="B01K18V12">رايتم ان يكون لانسان مايه شاه فضلت منها واحده. اليس يترك التسعه وتسعين شاه التي في الجبل. ويذهب يطلب الضاله.</ab>
+      <ab n="B01K18V13">فان هو وجدها الحق الحق اقول لكم. انه يفرح بها اكثر من التسعه وتسعين شاه التى لم تضل.</ab>
+      <ab n="B01K18V14">هكذا اليس هي مشيه قدام ابي. الذي في السماوات. الا يتلف احد هاولا الصغار.</ab>
+      <ab n="B01K18V15">ان اخطا اليك اخوك فاذهب وبكته بينك وبينه وحودكم. فان سمع منك فقد ربحت اخاك.</ab>
+      <ab n="B01K23V4">يربطون حزما ثقيلة وعسرة الحمل فيجعلوها على كتاف الناس. وهم باصابعهم لا يريدون يحركونها.</ab>
+      <ab n="B01K23V5">لان كل اعمالهم انما يفعلون لكي يرايون الناس. يعرضون محافظهم. ويعظمون هذب ثيابهم.</ab>
+      <ab n="B01K23V6">ويحبون روس المتكايات في العشايا وروس <note type="editorial">المجامع crossed out</note> المجالس في المجامع.</ab>
+      <ab n="B01K23V7">وسلام في الاسواق. ويدعوهم الناس ربي ربي.</ab>
+      <ab n="B01K23V8">اما انتم فلا تدعوهم ربي. لان واحد هو قايدكم المسيح. وانتم كلكم اخوة.</ab>
+      <ab n="B01K23V9">ولا تدعون لكم ابا علي الارض. واحد هو ابوكم الذي في السماوات.</ab>
+      <ab n="B01K25V10">وفيما هن ذاهبات ليشترين. اتا الختن. فدخلن معه المتهيين الي العرس. واغلق الباب.</ab>
+      <ab n="B01K25V11">اخيرا اتين بقيه العذاري يقلن. يا رب. يا رب. افتح لنا.</ab>
+      <ab n="B01K25V12">وانه اجاب فقال. حقا اقول لكن. اني لست اعرفكم.</ab>
+      <ab n="B01K25V13">اسهروا. فانكم ليس تعرفون اليوم ولا الساعه التي ياتي فيها ابن البشر.</ab>
+      <ab n="B01K28V16">وان <note type="editorial">حد superscript</note> العشر تلميذ ذهبوا الي جبل الجليل حيث اوصاهم ايسوع.</ab>
+      <ab n="B01K28V17">فلما راووه سجدوا له. وفيهم من شكوا.</ab>
+      <ab n="B01K28V18">فتقدم ايسوع. وكلمهم قايلا. قد اعطيت كل سلطان في السمأ والارض.</ab>
+      <ab n="B01K28V19">اذهبوا وتلمذوا كل الامم. واعمدوهم باسم الاب والابن والروح القدس.</ab>
+      <ab n="B01K28V20">وعلموهم ان يحفظوا كلما اوصيتكم به. وانا معكم كل الايام والي انقضا العالم. امين.</ab>
+      <ab n="B02K1V36">فتبعه انسان والذين كانوا معه.</ab>
+      <ab n="B02K1V37">فلما وجدوه قالوا له. ان كل يلتمسك.</ab>
+      <ab n="B02K1V38">فقال لهم. اذهبوا بنا الي المدن والقري. اكرز هنالك. لاني لذلك جيت.</ab>
+      <ab n="B02K1V39">وكان يكرز في جماعاتهم. في كل الجليل. ويخرج الشياطين.</ab>
+      <ab n="B02K7V31">وخرج ايضا ايسوع من اتخمه<note type="editorial">Uncertain</note> صور وصيدا وجا الي بحر الجليل. بين اتخمه مدينه العشر.</ab>
+      <ab n="B02K7V32">فقربوا اليه اخرس لجلاج<note type="editorial">Uncertain</note> وطلبوا اليه لكي يضع يده عليه</ab>
+      <ab n="B02K7V33">فاخذه من بين الجماعه في انفراد. وجعل اصابعه في اذنيه. ومس لسانه.</ab>
+      <ab n="B02K7V34">ورفع نظره الي السما وتنهد وقال انفثا الذى هو انفتح.</ab>
+      <ab n="B02K10V42">وان يسوع دعاهم. وقال لهم. اما علمتم ان الذين يظنون انهم ريسا الامم. يملكون عليهم. وعظماهم يتسلطون عليهم.</ab>
+      <ab n="B02K10V43">وليس هكذا تكونوا. ولكن من يريد ان يكون فيكم عظيما. فليكن خادمكم.</ab>
+      <ab n="B02K10V44">ومن يريد ان يكون اولكم فليكن لكم عبدًا.</ab>
+      <ab n="B02K10V45">لان <note type="editorial">superscript ابن</note> البشر لم ياتي ليخدم. ولكن ليخدم ويجعل نفسه فدا عن كثيرين</ab>
+      <ab n="B03K8V9">فسالوه تلاميذه قايلين ما هذا هو المثل.</ab>
+      <ab n="B03K8V10">وانه قال لهم. لكم اعطي ملك سراير الله. واما البقية فامثال. لكي يبصرون. ولا ينظرون. ويسمعون ولا يفهمون.</ab>
+      <ab n="B03K8V11">هذا هو المثل. ان الزارع هو كلمة الله</ab>
+      <ab n="B03K8V12">والذي سقط علي الطريق هم الذين يسمعون الكلمة فياتي الشيطان وياخذ الكلمة من قلوبهم. لكي لا يومنوا فيخلصوا.</ab>
+      <ab n="B03K8V13">واما الذي سقط علي الصخرة. فهم الذين اذا سمعوا الكلمة. يقبلوها بفرح وليس لهاولا اصل. الذين انما<note type="editorial">Uncertain</note> يومنوا<note type="editorial">Uncertain</note> الي زمن وفي حين البلايا<note type="editorial">Uncertain</note> يكفروا.</ab>
+      <ab n="B03K8V14">واما الذي سقط في الشوك فهم الذين اذا سمعوا الكلمة. وهم في هموم وغنا ولذات الدنيا ذاهبين. يختنقوا. ولا يثمروا ثمرتهم.</ab>
+      <ab n="B03K8V15">واما الذي سقط في الارض الصالحة. فهم هاولا الذين يسمعون. بقلب طيب صالح الكلمة فيحفظوها. ويثمروا بالصبر فلما قال هذا صاح قايلا. من كان له اذنين<note type="editorial">Uncertain</note> يسمع فليسمع</ab>
+      <ab n="B03K15V11">قال الرب هذا المثل انسان كان لهُ ابنان</ab>
+      <ab n="B03K15V12">فقال الابن الاصغر فيهم لابيه يا ابتاه اعطني ما يصير<note type="editorial">Uncertain</note> لي من نصيب مالك فقسم بينهما ماله</ab>
+      <ab n="B03K15V13">والي مدة ايام يسيره<note type="editorial">Uncertain</note> جمع كل شي لهُ وسافر الي بلاد بعيدة وفرق هنالك مالهُ</ab>
+      <ab n="B03K15V14">فلما اهلك كل شي كان لهُ وافناه<note type="editorial">Uncertain</note> اصاب<note type="editorial">next page</note> اصاب تلك الارض جوعًا شديدا. فجعل يتندم<note type="editorial">Uncertain</note> بتنغص.<note type="editorial">Uncertain</note></ab>
+      <ab n="B03K15V15">وذهب فانقطع<note type="editorial">Uncertain</note> الي انسان من اشراف تلك البلاد. فارسله ذلك الشريف الي قراه. ليرعا له خنازيرا</ab>
+      <ab n="B03K15V16">وكان يشتهي ان يملا بطنه من الخرنوب الذي كانت تاكله الخنازير. فلم يكن احدا يعطيه.</ab>
+      <ab n="B03K15V17">فلما رجع الي نفسه قال. كم اجير في بيت ابي يفضل عنه<note type="editorial">Uncertain</note> الخبز. وانا هاهنا اهلك جوعا.</ab>
+      <ab n="B03K15V18">اقوم واذهب الي ابي <note type="editorial">ابي again but crossed out</note> واقول لهُ. يا ابتاه. قد اخطات في السما وبين يديك</ab>
+      <ab n="B03K15V19">ولست باهل ان ادعا لك ابنا اجعلني كاحد اجراك</ab>
+      <ab n="B03K15V20">فسار الي ابيه. فلما راه ابوه من بعيد رحمه وسار اليه وقبلهُ.</ab>
+      <ab n="B03K24V13">واثنان منهم كانا ذاهبان في ذلك اليوم. الي قريه بعدها من اورشليم ستين غلوه. اسمها عمواص</ab>
+      <ab n="B03K24V14">فكانا يتكلمان احدهما مع صاحبه في شان هذا الامر الذي كان.</ab>
+      <ab n="B03K24V15">وكانا فيما هما يتكلمان ويتسايلان<note type="editorial">Uncertain</note> اذا قرب ايسوع منهما وجعل يسير معهما</ab>
+      <ab n="B03K24V16">وامسكت عيونهما لكي لا يعرفاه</ab>
+      <ab n="B03K24V50">واخرجهم الي بيت عنيا. ورفع يده وباركهم</ab>
+      <ab n="B03K24V51">تباعد منهم. وصعد فى السحاب. الي السما.</ab>
+      <ab n="B03K24V52">ثم انهم حينيذ. سجدوا له. ورجعوا الي اورشليم. بفرح عظيم.</ab>
+      <ab n="B03K24V53">وكانوا في الهيكل كل يوم يباركون الله امين</ab>
+      <ab n="B04K1V1">في البدي كان الكلمة والكلمة من الله والله هو الكلمة</ab>
+      <ab n="B04K1V2">هذا في البدي لم يزل عند الله</ab>
+      <ab n="B04K1V3">كل به كان وبغيره شي لم يكن مما كون</ab>
+      <ab n="B04K1V4">به كانت الحياة والحياة كانت نور الناس</ab>
+      <ab n="B04K1V5">والنور في الظلمه ظهر والظلمه لم تدركه</ab>
+      <ab n="B04K1V6">كان انسان مرسل من الله اسمه يوحنا</ab>
+      <ab n="B04K1V7">هذ<note type="editorial">or هد</note> جا للشهاده لكي يشهد علي النور ليومن كل من اجله</ab>
+      <ab n="B04K1V8">وليس كان ذلك النور ولكن لكي يشهد علي النور</ab>
+      <ab n="B04K1V9">كان النور الحقانى الذي يضي لكل انسان ياتي الي العالم</ab>
+      <ab n="B04K1V10">في العالم كان ⦿ والعالم به خلق والعالم لم يعرفه</ab>
+      <ab n="B04K1V14">والكلمة صار لحما وسكن فينا وراينا مجده مجد ابن وحيد من الاب مملوا نعمة وحق</ab>
+      <ab n="B04K1V15">يوحنا شهد من اجله وصاح وقال. هذا هو الذي قلت بانه ياتي خلفي قدامي صار لانه قبلي كان.</ab>
+      <ab n="B04K1V16">ومن تمامه نحن كلنا اخذنا نعمة بدل نعمة</ab>
+      <ab n="B04K1V17">لان الناموس علي يد موسي اُعطي. والنعمة والحق بايسوع المسيح كان</ab>
+      <ab n="B04K1V18">الله لم يراه احد قط الا الأبن الوحيد. الذي لم يزل في حضن الاب. هو خبر.</ab>
+      <ab n="B04K5V35">وذلك فانه سراج يوقد وينير ولقد فرحتم بضيايه ساعه</ab>
+      <ab n="B04K5V36">انا معي شهادة افضل من يوحنا الاعمال التي اعطاني ابي. ان اتممها. تلك الاعمال هي تشهد لي ان الاب الذي ارسلني</ab>
+      <ab n="B04K5V37">الذي منذ قط لم تسمعوا صوته ولا رايتم منظره.</ab>
+      <ab n="B04K5V38">وليس كلمته ثابته فيكم ولا معكم لانكم لم تومنوا بالذي ارسل اليكم</ab>
+      <ab n="B04K6V30">فقالوا له اي اية تصنع انت حتى نرى ونومن بك ماذا تعمل</ab>
+      <ab n="B04K6V31">ان ابانا اكلوا المن في البرية كما هو مكتوب خبز السما اعطاهم لياكلوا</ab>
+      <ab n="B04K6V32">فقال لهم ايسوع الحق الحق اقول لكم ان ليس موسى اعطاكم لكن ابي اعطاكم خبز الحق من السما</ab>
+      <ab n="B04K6V33">ان خبز الله هو الذي نزل من السما ويعطي الحياة للعالم</ab>
+      <ab n="B04K6V35">قال الرب الذين اتوا اليه من اليهود انا هو خُبز الحياة الذي ياتي الي لا يجوع // والذي يومن بي لا يعطش ابدًا</ab>
+      <ab n="B04K7V18">والذي يتكلم من ذاته فانه يريد المجد لنفسه والذي يلتمس مجد الذي ارسله فانه حق. وليس فيه ظلم</ab>
+      <ab n="B04K7V19">اليس موسى اعطاكم الناموس<note type="editorial">or للناموس</note> وليس احد منكم يعمل بالناموس فلماذا تلتمسون قتلي.</ab>
+      <ab n="B04K7V20">اجابوه الجماعه ان فيك شيطان من تري يريد قتلك</ab>
+      <ab n="B04K7V21">اجاب ايسوع وقال لهم عمل واحد عملت وكلكم عجبتم</ab>
+      <ab n="B04K7V22">من اجل ذلك اُعطاكم موسي الختانه ليس بانه من قبل موسى ولكن من قبل الابا وان الانسان يختن فى السبت</ab>
+      <ab n="B04K7V23">ليلا يحل ناموس موسي وانتم تحردون علي اني صنعت انسانا صحيحا كله يوم السبت</ab>
+      <ab n="B04K18V19">وان راس الكهنه سال ايسوع عن تلاميذه وعن تعليمه.</ab>
+      <ab n="B04K18V20">اجابه ايسوع قايلا. انا كنت اعلم العالم علانيه. انا في كل حين في الجموع والهيكل حيث تجتمع اليهود كلهم. وفي خفًا شيا لم اتكلم.</ab>
+      <ab n="B04K18V21">لم تسالني. سل الذين سمعوا اي شي كلمتهُم. وهاولا يُعلمون ما قلت انا.</ab>
+      <ab n="B04K18V22">فلما قال هذا لطمه احد لخدام كان قايما هنالك. وقال له هكذا تجيب لراس الكهنه.</ab>
+      <ab n="B04K18V23">وان ايسوع قال له ان كنت بيس ما تكلمت فاشهد علي بالبيس وان كنت نعما تكلمت فلما تلطمني.</ab>
+      <ab n="B04K18V24">فارسل به حناس مربوطا. الي قيافا راس الكهنه</ab>
+      <ab n="B04K18V25">وكان سمعان بطرس. قايما يتدفا. فقالوا له لعلك من تلاميذه انت. فكفر ذلك وقال لست انا.</ab>
+      <ab n="B04K18V26">فقال له واحد من عبيد راس الكهنه. كان نسيب للذي قطع بطرس اذنه. انا رايتك في البستان معه.</ab>
+      <ab n="B04K18V27">فكفر ايضا بطرس وللوقت صاح الديك.</ab>
+      <ab n="B04K20V19">وفي المسا في ذلك اليوم في احد السبوت والابواب مغلقه حيث كانوا التلاميذ مجتمعون من اجل فزع اليهود. واذا قد جا ايسوع فوقف في وسطهم. وقال لهم السلام لكم</ab>
+      <ab n="B04K20V20">فلما قال هذا اوراهم يديه ورجليه وجنبه ففرحوا التلاميذ حين ابصروا الرب</ab>
+      <ab n="B04K20V21">وقال لهم ايضا ايسوع السلام لكم كما ارسلنى الاب كذلك انا ارسلكم</ab>
+      <ab n="B04K20V22">فلما قال هذا نفخ وقال خذوا روح القدس</ab>
+    </body>
+  </text>
+</TEI>
+
